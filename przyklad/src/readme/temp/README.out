@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Installing}{}% 1
+\BOOKMARK [1][-]{section.2}{Compiling the Song Book}{}% 2
+\BOOKMARK [1][-]{section.3}{Common Tasks}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Creating Handouts}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Adding New Songs}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Song Entry Syntax}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Structure of a Song}{section.4}% 7
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Verses}{subsection.4.1}% 8
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Choruses}{subsection.4.1}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Musicians' Notes}{subsection.4.1}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.4}{General Notes}{subsection.4.1}% 11
+\BOOKMARK [3][-]{subsubsection.4.1.5}{Extra Index Entries}{subsection.4.1}% 12
+\BOOKMARK [3][-]{subsubsection.4.1.6}{Licensing Information}{subsection.4.1}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Contents of Verses and Choruses}{section.4}% 14
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Chords}{subsection.4.2}% 15
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Chord-Lyric Pairing}{subsection.4.2}% 16
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Echo Parts and Repeated Lines}{subsection.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Line breakpoints}{subsection.4.2}% 18
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Measure bars}{subsection.4.2}% 19
+\BOOKMARK [2][-]{subsection.4.3}{Conditional Text}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.4}{Scripture Quotations}{section.4}% 21
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Poetry}{subsection.4.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Indented Blocks}{subsection.4.4}% 23
+\BOOKMARK [2][-]{subsection.4.5}{Manual Column-breaking}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.6}{Comments}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.7}{Guitar Tablatures}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.8}{Transposing a song}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.9}{Ligatures}{section.4}% 28
+\BOOKMARK [1][-]{section.5}{Error Messages}{}% 29
+\BOOKMARK [1][-]{section.6}{Modifying the Songbook Structure}{}% 30
+\BOOKMARK [1][-]{section.7}{Uninstalling the Song Book}{}% 31
