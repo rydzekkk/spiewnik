@@ -4,7 +4,7 @@
 %%
 
 % Preamble
-\documentclass[11pt,twocolumn]{article}
+\documentclass[11pt]{book}
 
 % Packages
 \usepackage{a4wide}
@@ -13,7 +13,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{polski}
 \usepackage[polish]{babel}
-%\usepackage{comment}
+\usepackage{comment}
 \usepackage{multicol}
 \usepackage[chorded]{songs}
 \title{testowy}
@@ -24,7 +24,7 @@
     %%
     %\beginsong{Poezja}[by={Na Bani}]
     %\begin{multicols*}{2}
-        \begin{minipage}{0.6\textwidth}
+        \begin{minipage}{\dimexpr.4\textwidth-.4\columnsep}
             %\capo{2}
             %\beginverse
             \noindent Ty przychodzisz jak noc majowa,\\
@@ -37,7 +37,8 @@
             szepcesz sny, szepcesz słowa tajemne,\\
             w słowach cichych skąpana jak w deszczu\\
         \end{minipage}
-        \begin{minipage}{0.1\textwidth}
+        \hfill
+        \begin{minipage}{\dimexpr.05\textwidth-.05\columnsep}
             %\endverse
             \ifchorded
             \noindent a e\\
@@ -54,39 +55,41 @@
             \else
             \fi
         \end{minipage}
+        \hfill
+        \begin{minipage}{\dimexpr.4\textwidth-.4\columnsep}
+            %\capo{2}
+            %\beginverse
+            \noindent Ty przychodzisz jak noc majowa,\\
+            biała noc, uśpiona w jaśminie,\\
+            i jaśminem pachną twoje słowa,\\
+            i księżycem sen srebrny płynie,\\
+            \hfill\break
+            Płyniesz cicha przez noce bezsenne\\
+            - cichą nocą tak liście szeleszczą-\\
+            szepcesz sny, szepcesz słowa tajemne,\\
+            w słowach cichych skąpana jak w deszczu\\
+        \end{minipage}
+        \hfill
+        \begin{minipage}{\dimexpr.05\textwidth-.05\columnsep}
+            %\endverse
+            \ifchorded
+            \noindent a e\\
+            F G\\
+            a e\\
+            F G\\
+            \hfill\break
+            a e\\
+            F G\\
+            a e\\
+            F G\\
+            %\vfill\null
+            %\columnbreak
+            \else
+            \fi
+        \end{minipage}
+        \hfill
     %\vfill\null
-    \columnbreak
-        \begin{minipage}{0.6\textwidth}
-            %\capo{2}
-            %\beginverse
-            \noindent Ty przychodzisz jak noc majowa,\\
-            biała noc, uśpiona w jaśminie,\\
-            i jaśminem pachną twoje słowa,\\
-            i księżycem sen srebrny płynie,\\
-            \hfill\break
-            Płyniesz cicha przez noce bezsenne\\
-            - cichą nocą tak liście szeleszczą-\\
-            szepcesz sny, szepcesz słowa tajemne,\\
-            w słowach cichych skąpana jak w deszczu\\
-            \vfill\null
-        \end{minipage}
-        \begin{minipage}{0.1\textwidth}
-            %\endverse
-            \ifchorded
-            \noindent a e\\
-            F G\\
-            a e\\
-            F G\\
-            \hfill\break
-            a e\\
-            F G\\
-            a e\\
-            F G\\
-            %\vfill\null
-            %\columnbreak
-            \else
-            \fi
-        \end{minipage}
+    %\columnbreak
     %\end{multicols}
     %\endsong
 \end{document}
