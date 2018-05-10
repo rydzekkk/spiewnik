@@ -9,7 +9,7 @@
 % Packages
 %\include{package.sty} %nie dziala z zewnetrznego pliku
 \usepackage{a4wide}
-\usepackage[margin=1.5cm,footskip=0.25in]{geometry}
+\usepackage[margin=1.5cm,footskip=0.25in,headheight=34.5pt]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{polski}
@@ -19,16 +19,22 @@
 \usepackage{titlesec, color}
 \usepackage{fancyhdr}
 %\usepackage{makeidx}
-\usepackage[defaultlines=4,all]{nowidow}
+\usepackage[defaultlines=1,all]{nowidow}
 \usepackage[chorded]{songs}
+\usepackage{verse}
 
 %styles
 %\include{class.cls} %/nie dziala z zewnetrznego pliku
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+\titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
+\parindent=0pt
+\parskip=0pt
+
 %head and foot
 \pagestyle{fancy}
+%\headheight{14pt}
 \renewcommand{\chaptermark}[1]{%
 \markboth{#1}{}}
 %
@@ -51,4 +57,5 @@
     \cleardoublepage
     \setcounter{page}{1}
     \include{na_bani/na_bani}
+    %\input(na_bani/Cerkiew)
 \end{document}
