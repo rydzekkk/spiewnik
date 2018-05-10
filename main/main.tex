@@ -1,0 +1,92 @@
+%%
+%% Author: bartosz.rydz
+%% 10.05.2018
+%%
+
+% Preamble
+\documentclass[11pt,twocolumn]{article}
+
+% Packages
+\usepackage{a4wide}
+\usepackage[margin=0.5in,footskip=0.25in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{polski}
+\usepackage[polish]{babel}
+%\usepackage{comment}
+\usepackage{multicol}
+\usepackage[chorded]{songs}
+\title{testowy}
+
+% Document
+\begin{document}
+    %\setlength{\columnseprule}{0.6pt}
+    %%
+    %\beginsong{Poezja}[by={Na Bani}]
+    %\begin{multicols*}{2}
+        \begin{minipage}{0.6\textwidth}
+            %\capo{2}
+            %\beginverse
+            \noindent Ty przychodzisz jak noc majowa,\\
+            biała noc, uśpiona w jaśminie,\\
+            i jaśminem pachną twoje słowa,\\
+            i księżycem sen srebrny płynie,\\
+            \hfill\break
+            Płyniesz cicha przez noce bezsenne\\
+            - cichą nocą tak liście szeleszczą-\\
+            szepcesz sny, szepcesz słowa tajemne,\\
+            w słowach cichych skąpana jak w deszczu\\
+        \end{minipage}
+        \begin{minipage}{0.1\textwidth}
+            %\endverse
+            \ifchorded
+            \noindent a e\\
+            F G\\
+            a e\\
+            F G\\
+            \hfill\break
+            a e\\
+            F G\\
+            a e\\
+            F G\\
+            %\vfill\null
+            %\columnbreak
+            \else
+            \fi
+        \end{minipage}
+    %\vfill\null
+    \columnbreak
+        \begin{minipage}{0.6\textwidth}
+            %\capo{2}
+            %\beginverse
+            \noindent Ty przychodzisz jak noc majowa,\\
+            biała noc, uśpiona w jaśminie,\\
+            i jaśminem pachną twoje słowa,\\
+            i księżycem sen srebrny płynie,\\
+            \hfill\break
+            Płyniesz cicha przez noce bezsenne\\
+            - cichą nocą tak liście szeleszczą-\\
+            szepcesz sny, szepcesz słowa tajemne,\\
+            w słowach cichych skąpana jak w deszczu\\
+            \vfill\null
+        \end{minipage}
+        \begin{minipage}{0.1\textwidth}
+            %\endverse
+            \ifchorded
+            \noindent a e\\
+            F G\\
+            a e\\
+            F G\\
+            \hfill\break
+            a e\\
+            F G\\
+            a e\\
+            F G\\
+            %\vfill\null
+            %\columnbreak
+            \else
+            \fi
+        \end{minipage}
+    %\end{multicols}
+    %\endsong
+\end{document}
