@@ -31,6 +31,30 @@
 \titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
 \parindent=0pt
 \parskip=0pt
+%\def\hmm{\par\if@firstcolumn\else \par \nopagebreak \fi\par\bigskip}
+\begin{comment}         <----- columnbreak in minipage?
+\documentclass[12pt,oneside,twocolumn]{article}
+\columnsep=2.5cm
+\raggedbottom
+\newcommand{\textbox}[1]{
+\framebox{\begin{minipage}{\columnwidth}\mbox{}\vspace{#1}\end{minipage}}}
+
+\begin{document}
+
+\section{small-length section}
+\textbox{1in}
+
+\section{epic-length section}
+\textbox{12in}
+
+\section{mid-length section}
+\textbox{3in}
+
+\section{big-length section}
+\textbox{6in}
+
+\end{document}
+\end{comment}
 
 %head and foot
 \pagestyle{fancy}
