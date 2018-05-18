@@ -4,7 +4,7 @@
 %%
 
 % Preamble
-\documentclass[10pt,twocolumn]{book}
+\documentclass[10pt]{book}
 
 % Packages
 %\include{package.sty} %nie dziala z zewnetrznego pliku
@@ -23,7 +23,7 @@
 \usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}
 \usepackage{verse}
-\usepackage[skins,breakable,raster]{tcolorbox}
+\usepackage[skins,breakable,most,raster]{tcolorbox}
 \usepackage[flowfram]
 
 %frames
@@ -34,11 +34,11 @@
 \newenvironment{text}{
 \begin{tcolorbox}[
 blanker,
-width=0.35\textwidth,
+width=0.8\columnwidth,
 before skip=6pt,
 breakable,
 %sidebyside,
-%nobeforeafter
+nobeforeafter
 ]}{
 \end{tcolorbox}%\hfill
 }
@@ -46,11 +46,11 @@ breakable,
 \newenvironment{chord}{
 \begin{tcolorbox}[
 blanker,
-width=0.1\textwidth,enlarge left by=0.35\textwidth,
+width=0.15\columnwidth,enlarge left by=0.8\columnwidth,
 before skip=6pt,
 breakable,
 %sidebyside,
-%nobeforeafter
+nobeforeafter
 ]}{
 \end{tcolorbox}
 }
@@ -73,21 +73,21 @@ breakable,
 
 % Document
 \begin{document}
-    \begin{titlepage}
-        \begin{center}
-        \line(1,0){300}\\
-        [0.5cm]
-        \textsc{\huge{\bfseries Śpiewnik}}\\
-        \textsc{\large krakowskich śpiewanek okołogórskich}\\
-        [0.3cm]
-        \line(1,0){300}\\
-        \end{center}
-        \clearpage
-    \end{titlepage}
-    \tableofcontents
-    \thispagestyle{empty}
-    \cleardoublepage
-    \setcounter{page}{1}
-    \include{na_bani/na_bani}
-    %\input(na_bani/Cerkiew)
+\begin{titlepage}
+\begin{center}
+\line(1,0){300}\\
+[0.5cm]
+\textsc{\huge{\bfseries Śpiewnik}}\\
+\textsc{\large krakowskich śpiewanek okołogórskich}\\
+[0.3cm]
+\line(1,0){300}\\
+\end{center}
+\clearpage
+\end{titlepage}
+\tableofcontents
+\thispagestyle{empty}
+\cleardoublepage
+\setcounter{page}{1}
+\include{na_bani/Deesis}
+%\input(na_bani/Cerkiew)
 \end{document}

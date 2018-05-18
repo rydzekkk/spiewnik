@@ -1,6 +1,9 @@
+\newpage
 \section{Deesis}
-\begin{minipage}[t]{\dimexpr.4\textwidth-.4\columnsep}
-    \footnotesize{
+\begin{tcbraster}[raster columns=2, raster force size=false, raster halign=left]
+%\begin{tcbraster}[raster columns=3, sharp corners,raster equal height, raster column skip=-.5mm]
+\begin{text}
+    %\footnotesize{
     Tam las się pochyla prastarym chojarem\\
     Nad ciemnym strumieniem niebo się zamyka\\
     Tam buk rosochatym zakrywa konarem\\
@@ -60,15 +63,25 @@
     \vin Chramowe ikony podniesiemy z pyłu\\
     \vin Obudzimy chóry naszej wiary kruchej\\
     \vin Hospody pomyłuj! Hospody pomyłuj!\\
-    }
-\end{minipage}
-\hfill
-\begin{minipage}[t]{\dimexpr.05\textwidth-.05\columnsep}
-    \ifchorded %
-    \footnotesize{
+    %}
+\end{text}
+\begin{chord}
+    \ifchorded
+    A A A^4\\
+    A A A^4\\
+    A A A^4\\
+    F d G\\
     \hfill\break
+    A A A^4\\
+    B B^4 B B^4\\
+    A A A^4\\
+    B B^4 B B^4\\
     \hfill\break
-    }
+    a G D a\\
+    e F d E^7\\
+    a G D a\\
+    e F d E^7\\
     \else
     \fi
-\end{minipage}
+\end{chord}
+\end{tcbraster}
