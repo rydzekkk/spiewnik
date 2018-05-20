@@ -4,64 +4,63 @@
 %%
 
 % Preamble
-\documentclass[10pt,twocolumn]{book}
+\documentclass[9pt,twocolumn]{extbook}
 
 % Packages
 %\include{package.sty} %nie dziala z zewnetrznego pliku
 \usepackage{a4wide}
+\usepackage{extsizes}
 \usepackage[margin=1.5cm,footskip=0.25in,headheight=34.5pt]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{polski}
 \usepackage[polish]{babel}
 \usepackage{comment}
+\usepackage{parskip}
 %\usepackage{multicol}
 \usepackage{titlesec, color}
 \usepackage{lmodern}
 \usepackage{fancyhdr}
 %\usepackage{makeidx}
-\usepackage[defaultlines=4,all]{nowidow}
+%\usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}
 \usepackage{verse}
-\usepackage[skins,breakable,raster]{tcolorbox}
-\usepackage[flowfram]
+%\usepackage[skins,breakable,raster]{tcolorbox}
+%\usepackage[flowfram]
 
 %frames
 %\newflowframe[>1]{.4\textwidth}{\textheight}{.35\textwidth}{0pt}
 %\newflowframe[>2]{.65\textwidth}{\textheight}{.35\textwidth}{0pt}
 
 %commands
+%\begin{minipage}[t]{\dimexpr.4\textwidth-.4\columnsep}
 \newenvironment{text}{
-\begin{tcolorbox}[
-blanker,
-width=0.35\textwidth,
-before skip=6pt,
-breakable,
-%sidebyside,
-%nobeforeafter
-]}{
-\end{tcolorbox}%\hfill
+\begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
+\parskip=9pt
+}{
+\end{minipage}%\hfill
 }
 %
 \newenvironment{chord}{
-\begin{tcolorbox}[
-blanker,
-width=0.1\textwidth,enlarge left by=0.35\textwidth,
-before skip=6pt,
-breakable,
-%sidebyside,
-%nobeforeafter
-]}{
-\end{tcolorbox}
+\begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
+\parskip=9pt
+\ifchorded
+}{
+\else
+\fi
+\end{minipage}
 }
+\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
+
 %styles
 %\include{class.cls} %/nie dziala z zewnetrznego pliku
+
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
 \titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
 \parindent=0pt
-\parskip=0pt
+\parskip=9pt
 %\def\hmm{\par\if@firstcolumn\else \par \nopagebreak \fi\par\bigskip}
 
 %head and foot
