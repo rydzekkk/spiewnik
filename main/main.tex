@@ -21,6 +21,7 @@
 \usepackage{titlesec, color}
 \usepackage{lmodern}
 \usepackage{fancyhdr}
+\usepackage{pgffor}
 %\usepackage{makeidx}
 %\usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}
@@ -83,7 +84,11 @@
         \end{center}
         \clearpage
     \end{titlepage}
+    \onecolumn
+    \begin{multicols*}{2}
     \tableofcontents
+    \end{multicols*}
+    \twocolumn
     \thispagestyle{empty}
     \cleardoublepage
     \setcounter{page}{1}
