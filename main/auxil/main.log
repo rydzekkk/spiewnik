@@ -1,0 +1,1244 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.5.10)  21 MAY 2018 15:44
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-04-01> patch level 4
+Babel <3.20> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\ex
+tbook.cls"
+Document Class: extbook 1999/01/07 v1.4a NON-Standard LaTeX document class
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\si
+ze8.clo"
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\exscal
+e.sty"
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\a4wide\a4wi
+de.sty"
+Package: a4wide 1994/08/30
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntgclass\a4
+.sty"
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\ex
+tsizes.sty"
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\extsizes\si
+ze8.clo"
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\ge
+ometry.sty"
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\ke
+yval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\
+ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\
+ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\i
+fxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\ge
+ometry.cfg"))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inpute
+nc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fonten
+c.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.
+def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\polski\pols
+ki.sty"
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Inputenc package detected. Catcodes not changed.
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\bab
+el.sty"
+Package: babel 2018/05/02 3.20 The Babel package
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\swi
+tch.def"
+File: switch.def 2018/05/02 3.20 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblop
+ts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-polis
+h\polish.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\bab
+el.def"
+File: babel.def 2018/05/02 3.20 Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen112
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txt
+babel.def")
+\bbl@dirlevel=\count93
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen113
+\pl@down=\dimen114
+\pl@right=\dimen115
+\pl@temp=\dimen116
+))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\com
+ment.sty"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\parskip\par
+skip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multi
+col.sty"
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count94
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+141.
+
+\mult@box=\box26
+\multicol@leftmargin=\dimen117
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
+\full@width=\dimen118
+\page@free=\dimen119
+\premulticols=\dimen120
+\postmulticols=\dimen121
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\maxbalancingoverflow=\dimen122
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
+\last@try=\dimen123
+\multicolovershoot=\dimen124
+\multicolundershoot=\dimen125
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\mc@col@check@num=\count102
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\ti
+tlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip45
+\aftertitleunit=\skip46
+\ttl@plus=\dimen126
+\ttl@minus=\dimen127
+\ttl@toksa=\toks18
+\titlewidth=\dimen128
+\titlewidthlast=\dimen129
+\titlewidthfirst=\dimen130
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\co
+lor.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cf
+g\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-de
+f\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.
+sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fa
+ncyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip47
+\f@nch@O@elh=\skip48
+\f@nch@O@erh=\skip49
+\f@nch@O@olh=\skip50
+\f@nch@O@orh=\skip51
+\f@nch@O@elf=\skip52
+\f@nch@O@erf=\skip53
+\f@nch@O@olf=\skip54
+\f@nch@O@orf=\skip55
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\songs\songs
+.sty"
+Package: songs 2017/06/05 v3.0 Songs package
+\SB@dimen=\dimen131
+\SB@dimenii=\dimen132
+\SB@dimeniii=\dimen133
+\SB@dimeniv=\dimen134
+\SB@box=\box53
+\SB@boxii=\box54
+\SB@boxiii=\box55
+\SB@toks=\toks19
+\SB@cnt=\count103
+\SB@cntii=\count104
+\SB@skip=\skip56
+\SB@envbox=\box56
+\c@songnum=\count105
+\c@versenum=\count106
+\versesep=\skip57
+\afterpreludeskip=\skip58
+\beforepostludeskip=\skip59
+\baselineadj=\skip60
+\idxheadwidth=\skip61
+\songnumwidth=\skip62
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 139.
+
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.f
+d"
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\versenumwidth=\skip63
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 141.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\cbarwidth=\skip64
+\sbarheight=\skip65
+\vvpenalty=\count107
+\ccpenalty=\count108
+\vcpenalty=\count109
+\cvpenalty=\count110
+\brkpenalty=\count111
+\spenalty=\count112
+\minfrets=\count113
+\SB@colwidth=\dimen135
+\SB@songbox=\box57
+\SB@numcols=\count114
+\SB@colnum=\count115
+\SB@colbox=\box58
+\SB@pgbox=\box59
+\SB@mrkbox=\box60
+\SB@groupcnt=\count116
+\SB@titlelist=\toks20
+\SB@titletail=\toks21
+\SB@parindent=\dimen136
+\SB@chorusbox=\box61
+\SB@cmarkclass=\marks1
+\SB@nocmarkclass=\marks2
+\SB@grouplvl=\count117
+\SB@transposefactor=\count118
+\SB@lyric=\toks22
+\SB@numhyps=\count119
+\SB@lyricnohyp=\toks23
+\SB@lyricbox=\box62
+\SB@chordbox=\box63
+\SB@cr@=\toks24
+\SB@ctail=\toks25
+\SB@fretwidth=\skip66
+\SB@tabindent=\dimen137
+\c@SB@songsnum=\count120
+\SB@songwrites=\box64
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3706
+.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.f
+d"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 3706
+.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.f
+d"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 370
+6.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.
+fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 370
+6.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.
+fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 3706.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 3706.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 3706.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 3706.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3706.
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\verse\verse
+.sty"
+Package: verse 2009/09/04 v2.4a verse typesetting
+\c@vslineno=\count121
+\c@poemline=\count122
+\c@fvsline=\count123
+\c@modulo@vs=\count124
+\c@verse@envctr=\count125
+\versewidth=\skip67
+\vgap=\skip68
+\vindent=\skip69
+\stanzaskip=\skip70
+\vleftskip=\skip71
+\vrightskip=\skip72
+\c@chrsinstr=\count126
+\beforepoemtitleskip=\skip73
+\afterpoemtitleskip=\skip74
+) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
+wiazan.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Cz_tulipan/czerwony_tul
+ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
+)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Siudmy/Siudma_gora.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=528.93675pt
+* \textheight=709.61174pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-89.09087pt
+* \headheight=34.5pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=18.06749pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen138
+\scratchbox=\box65
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen139
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks27
+)
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 79.
+
+[1
+
+
+
+{C:/Users/bartosz.rydz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2
+
+
+
+
+] (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+ [3])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+[4]
+\openout2 = `na_bani/na_bani.aux'.
+
+ (na_bani/na_bani.tex
+Rozdzia\l  1.
+(na_bani/Ballada_o_Janie.tex) (na_bani/Bezdroza.tex
+na_bani/Bezdroza.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Bezdroza.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (na_bani/Bezpowrotnie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Bociany.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+
+
+]
+na_bani/Bociany.tex:28: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Bociany.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (na_bani/Brocken.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Cerkiew.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+(na_bani/Deesis.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
+na_bani/Deesis.tex:20: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:24: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:25: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+
+ []
+
+) (na_bani/Do_zakochanej_nieszczesliwie.tex
+Underfull \hbox (badness 3792) in paragraph at lines 2--1
+[][]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[]
+ []
+
+
+Overfull \hbox (3.65456pt too wide) in paragraph at lines 15--17
+[]\T1/lmr/m/n/8 Cis*H*A*H* 
+ []
+
+
+Overfull \hbox (3.65456pt too wide) in paragraph at lines 15--17
+\T1/lmr/m/n/8 Cis*H*A*H*
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+) (na_bani/Dozywocie_gor.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
+
+ []
+
+) (na_bani/Dziekuje_Ci.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3])
+(na_bani/Jeszcze_tesknie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Latarnik.tex) (na_bani/List_na_pogodna.tex) (na_bani/Mam_nadzieje.tex)
+(na_bani/Miejsca_pod_niebem.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+
+na_bani/Miejsca_pod_niebem.tex:3: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (na_bani/Mosty_ze_slow.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Motyw_pociagu.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5])
+(na_bani/Mury_toledo.tex) (na_bani/Na_woz.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Nic_miedzy_nami.tex) (na_bani/Nie_jestem_swiety.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6])
+(na_bani/Piano.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Piosenka_o_niepiosence.tex) (na_bani/Piosenka_z_lisciem.tex)
+(na_bani/Poezja.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+na_bani/Poezja.tex:15: Extra }, or forgotten \endgroup
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--32
+[]
+ []
+
+) (na_bani/Pozegnanie.tex) (na_bani/Przegibek.tex) (na_bani/Przy_ognisku.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Rekwije_dla_mistrza.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8])
+(na_bani/Rekwije_dla_baru.tex) (na_bani/Rozstanie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Shantie_dwa_razy.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9])
+(na_bani/Slub.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Sponad_kufla.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10])
+(na_bani/Stare_anioly.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Stary_mlyn.tex) (na_bani/Stodoly.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11])
+(na_bani/Swiat_bez_tla.tex) (na_bani/W_kolorze_sepii.tex)
+(na_bani/W_miedzyczasie.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
+) (na_bani/W_noc.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Wakacje_z_duchami.tex) (na_bani/We_snie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+
+ []
+
+) (na_bani/Wedrujemy.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Wiatr.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+(na_bani/Wracanie.tex) (na_bani/Wyprzedaz_lata.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(na_bani/Z_kotwica.tex) (na_bani/Zanim_elegia.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14])
+(na_bani/Zmeczony.tex) (na_bani/Zyczenia.tex))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+\openout2 = `Bez_zobowiazan/bez_zobowiazan.aux'.
+
+
+(Bez_zobowiazan/bez_zobowiazan.tex [16
+
+
+
+]
+Rozdzia\l  2.
+(bez_zobowiazan/Barwy_zimy.tex) (bez_zobowiazan/Chatka.tex)
+(bez_zobowiazan/Czekaj_mnie.tex) (bez_zobowiazan/Dama_kier.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Droga_przez_las.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17])
+(bez_zobowiazan/Idzie_idzi.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+
+ []
+
+) (bez_zobowiazan/Kocham_Cie_zimo.tex) (bez_zobowiazan/Miasteczko.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18])
+(bez_zobowiazan/Pasoralka_z_krolami.tex) (bez_zobowiazan/Przetlumacz.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Przytul_mnie.tex) (bez_zobowiazan/Punkty_na_mapie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19])
+(bez_zobowiazan/Szalasolot.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Uwielbiam_przelecze.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20])
+(bez_zobowiazan/W_marcu.tex) (bez_zobowiazan/Zawrocic.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Zima.tex))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+[22
+
+]
+\openout2 = `Cz_tulipan/czerwony_tulipan.aux'.
+
+ (Cz_tulipan/czerwony_tulipan.tex
+Rozdzia\l  3.
+) [23
+
+
+
+
+]
+\openout2 = `SCOB/SCOB.aux'.
+
+ (SCOB/SCOB.tex [24
+
+
+
+]
+Rozdzia\l  4.
+(SCOB/Blues_rybaka.tex
+SCOB/Blues_rybaka.tex:37: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Blues_rybaka.tex:40: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Czekam_na_wiatr.tex
+SCOB/Czekam_na_wiatr.tex:25: Extra }, or forgotten \endgroup
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+) (SCOB/Czemu_ja.tex) (SCOB/Jezioro.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+) (SCOB/Lato.tex
+SCOB/Lato.tex:40: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Lato.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Lato.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Lato.tex:52: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+SCOB/Lato.tex:57: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (14.4261pt too wide) in paragraph at lines 49--57
+\OML/lmm/m/it/8 C=CG[]=Ha[]=A[] 
+ []
+
+) (SCOB/Lemkowyna.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25])
+(SCOB/Miasto.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+) (SCOB/Miedzy_1_7.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+SCOB/Miedzy_1_7.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:55: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:60: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Nad_rzeka.tex
+SCOB/Nad_rzeka.tex:40: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:47: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Najsmutniejsza.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \hbox (badness 10000) in paragraph at lines 3--12
+
+ []
+
+) (SCOB/ogien_i_dym.tex) (SCOB/Panska.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(SCOB/Smierc_i_dziewczyna.tex
+SCOB/Smierc_i_dziewczyna.tex:41: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Smierc_i_dziewczyna.tex:44: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+) (SCOB/Smutek.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+SCOB/Smutek.tex:54: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Smutek.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Spadajaca_gwiazda.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--41
+
+ []
+
+SCOB/Spadajaca_gwiazda.tex:62: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Sroda.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 4.
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.f
+d"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 4.
+) (SCOB/Takie_zycie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+SCOB/Takie_zycie.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:36: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:37: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:39: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:47: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:50: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+) (SCOB/Zburzenie_baru.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+SCOB/Zburzenie_baru.tex:61: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Zburzenie_baru.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (SCOB/Zostawiam_wam.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)) [30]
+\openout2 = `Siudmy/Siudma_gora.aux'.
+
+
+(Siudmy/Siudma_gora.tex
+Rozdzia\l  5.
+(Siudmy/Bez_zmruzenia.tex) (Siudmy/Daleko_do_gwiazd.tex)
+(Siudmy/Jak_oddycham.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(Siudmy/Jedyne.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31
+
+
+
+])
+(Siudmy/Jesienna.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(Siudmy/Pies.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
+
+ []
+
+) (Siudmy/Pogoda.tex) (Siudmy/Swiat_nie_calkiem.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+[34
+
+]
+\openout2 = `WGB/WGB.aux'.
+
+ (WGB/WGB.tex
+Rozdzia\l  6.
+) [35
+
+
+
+
+] (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
+wiazan.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Cz_tulipan/czerwony_tul
+ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
+)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Siudmy/Siudma_gora.aux)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4287 strings out of 492976
+ 69676 string characters out of 3123650
+ 150476 words of memory out of 3000000
+ 7717 multiletter control sequences out of 15000+200000
+ 81615 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,11n,43p,254b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
+m-mathsy.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
+/dvips/lm/lm-mathit.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.
+9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/bartosz.rydz/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/bartosz.rydz/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/bartosz.r
+ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Users
+/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.p
+fb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+lm/lmmi7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmmi8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/lm/lmr5.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/bartosz.rydz/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/bartosz.rydz/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/bartosz.ry
+dz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro8.pfb><C:/Users/
+bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb>
+
+Output written on C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\out\main.pdf
+ (39 pages, 375405 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
