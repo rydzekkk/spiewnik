@@ -21,7 +21,11 @@
 \usepackage{titlesec, color}
 \usepackage{lmodern}
 \usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
 \usepackage{pgffor}
+\usepackage{tagging} %<-----Tagi! Dokumentacja pod linkiem:
+%http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
+
 %\usepackage{makeidx}
 %\usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}
@@ -91,7 +95,6 @@
     \twocolumn
     \thispagestyle{empty}
     \cleardoublepage
-    \setcounter{page}{1}
     \include{na_bani/na_bani}
     \include{Bez_zobowiazan/bez_zobowiazan}
     \include{Cz_tulipan/czerwony_tulipan}
