@@ -1,120 +1,120 @@
 \babel@toc {polish}{}
-\contentsline {chapter}{\numberline {1}Na Bani}{5}
-\contentsline {section}{\numberline {1.1}Ballada o Janie z Kolna}{5}
-\contentsline {section}{\numberline {1.2}Bezdro\IeC {\.z}a}{5}
-\contentsline {section}{\numberline {1.3}Bezpowrotnie}{6}
-\contentsline {section}{\numberline {1.4}Bociany}{6}
-\contentsline {section}{\numberline {1.5}Brocken}{6}
-\contentsline {section}{\numberline {1.6}Cerkiew w ogniu}{7}
-\contentsline {section}{\numberline {1.7}Deesis}{7}
-\contentsline {section}{\numberline {1.8}Do zakochanej nieszcz\IeC {\k e}\IeC {\'s}liwie (Orzeszkowa)}{8}
-\contentsline {section}{\numberline {1.9}Do\IeC {\.z}ywocie g\IeC {\'o}r}{8}
-\contentsline {section}{\numberline {1.10}Dzi\IeC {\k e}kuj\IeC {\k e} Ci}{8}
-\contentsline {section}{\numberline {1.11}Jeszcze t\IeC {\k e}skni\IeC {\k e} za Tob\IeC {\k a}}{8}
-\contentsline {section}{\numberline {1.12}Latarnik}{8}
-\contentsline {section}{\numberline {1.13}List na Pogodn\IeC {\k a}}{9}
-\contentsline {section}{\numberline {1.14}Mam nadziej\IeC {\k e}}{9}
-\contentsline {section}{\numberline {1.15}Miejsca pod niebem}{9}
-\contentsline {section}{\numberline {1.16}Mosty ze s\IeC {\l }\IeC {\'o}w}{10}
-\contentsline {section}{\numberline {1.17}Motyw poci\IeC {\k a}gu}{10}
-\contentsline {section}{\numberline {1.18}Mury Toledo}{10}
-\contentsline {section}{\numberline {1.19}Na w\IeC {\'o}z}{10}
-\contentsline {section}{\numberline {1.20}Nic mi\IeC {\k e}dzy nami}{11}
-\contentsline {section}{\numberline {1.21}Nie jestem \IeC {\'s}wi\IeC {\k e}ty}{11}
-\contentsline {section}{\numberline {1.22}Piano}{11}
-\contentsline {section}{\numberline {1.23}Piosenka o niepiosence}{12}
-\contentsline {section}{\numberline {1.24}Piosenka z li\IeC {\'s}ciem}{12}
-\contentsline {section}{\numberline {1.25}Poezja}{12}
-\contentsline {section}{\numberline {1.26}Po\IeC {\.z}egnanie}{12}
-\contentsline {section}{\numberline {1.27}Przegibek}{12}
-\contentsline {section}{\numberline {1.28}Przy ognisku}{13}
-\contentsline {section}{\numberline {1.29}Rekwije dla Mistrza Jerzego}{13}
-\contentsline {section}{\numberline {1.30}Rekwije dla Baru na Stawach}{13}
-\contentsline {section}{\numberline {1.31}Rozstanie}{14}
-\contentsline {section}{\numberline {1.32}Shantie dwa razy}{14}
-\contentsline {section}{\numberline {1.33}\IeC {\'s}lub}{15}
-\contentsline {section}{\numberline {1.34}Sponad kufla piwa}{15}
-\contentsline {section}{\numberline {1.35}Stare anio\IeC {\l }y}{15}
-\contentsline {section}{\numberline {1.36}Stary m\IeC {\l }yn}{16}
-\contentsline {section}{\numberline {1.37}Stodo\IeC {\l }y}{16}
-\contentsline {section}{\numberline {1.38}\IeC {\'s}wiat bez t\IeC {\l }a}{16}
-\contentsline {section}{\numberline {1.39}W kolorze Sepii}{16}
-\contentsline {section}{\numberline {1.40}W mi\IeC {\k e}dzyczasie}{16}
-\contentsline {section}{\numberline {1.41}W noc}{16}
-\contentsline {section}{\numberline {1.42}Wakacje z duchami (Na bani)}{17}
-\contentsline {section}{\numberline {1.43}We \IeC {\'s}nie}{17}
-\contentsline {section}{\numberline {1.44}W\IeC {\k e}drujemy}{18}
-\contentsline {section}{\numberline {1.45}Wiatr dla dzieci}{18}
-\contentsline {section}{\numberline {1.46}Wracanie}{18}
-\contentsline {section}{\numberline {1.47}Wyprzeda\IeC {\.z} lata}{18}
-\contentsline {section}{\numberline {1.48}Z kotwic\IeC {\k a} w tawernie}{19}
-\contentsline {section}{\numberline {1.49}Zanim Elegia}{19}
-\contentsline {section}{\numberline {1.50}Zm\IeC {\k e}czony}{19}
-\contentsline {section}{\numberline {1.51}\IeC {\.Z}yczenia}{19}
-\contentsline {chapter}{\numberline {2}Bez Zobowi\IeC {\k a}zan}{21}
-\contentsline {section}{\numberline {2.1}Barwy zimy}{21}
-\contentsline {section}{\numberline {2.2}Chatka II}{21}
-\contentsline {section}{\numberline {2.3}Co\IeC {\'s}}{21}
-\contentsline {section}{\numberline {2.4}Czekaj mnie}{22}
-\contentsline {section}{\numberline {2.5}Dama kier i pikowy kr\IeC {\'o}l}{22}
-\contentsline {section}{\numberline {2.6}Droga przez las}{23}
-\contentsline {section}{\numberline {2.7}Idzie Idzi}{23}
-\contentsline {section}{\numberline {2.8}Kocham Ci\IeC {\k e} zimo}{23}
-\contentsline {section}{\numberline {2.9}Landrowerowa serenada}{23}
-\contentsline {section}{\numberline {2.10}Miasteczko w Karpatach}{24}
-\contentsline {section}{\numberline {2.11}Pastora\IeC {\l }ka z kr\IeC {\'o}lami}{24}
-\contentsline {section}{\numberline {2.12}Przet\IeC {\l }umacz}{24}
-\contentsline {section}{\numberline {2.13}Przytul mnie}{25}
-\contentsline {section}{\numberline {2.14}Punkty na mapie}{25}
-\contentsline {section}{\numberline {2.15}R\IeC {\'o}\IeC {\.z}e na tapecie}{26}
-\contentsline {section}{\numberline {2.16}Sza\IeC {\l }asolot}{26}
-\contentsline {section}{\numberline {2.17}Uwielbiam prze\IeC {\l }\IeC {\k e}cze}{26}
-\contentsline {section}{\numberline {2.18}W g\IeC {\'o}rach}{26}
-\contentsline {section}{\numberline {2.19}W marcu nad ranem}{26}
-\contentsline {section}{\numberline {2.20}Zawr\IeC {\'o}ci\IeC {\'c}}{27}
-\contentsline {section}{\numberline {2.21}Zima}{27}
-\contentsline {section}{\numberline {2.22}Z\IeC {\l }ockie Niebo Cerkiewne}{27}
-\contentsline {chapter}{\numberline {3}Czerwony Tulipan}{29}
-\contentsline {chapter}{\numberline {4}S\IeC {\l }odki Ca\IeC {\l }us od Bubby}{31}
-\contentsline {section}{\numberline {4.1}Blues Rybaka}{31}
-\contentsline {section}{\numberline {4.2}Czekam na wiatr}{31}
-\contentsline {section}{\numberline {4.3}Czemu ja}{31}
-\contentsline {section}{\numberline {4.4}Jezioro ca\IeC {\l }e w deszczu}{31}
-\contentsline {section}{\numberline {4.5}Lato}{32}
-\contentsline {section}{\numberline {4.6}\IeC {\L }emkowyna}{32}
-\contentsline {section}{\numberline {4.7}Miasto}{32}
-\contentsline {section}{\numberline {4.8}Miasto, kt\IeC {\'o}rego wcale nie znam}{32}
-\contentsline {section}{\numberline {4.9}Mi\IeC {\k e}dzy 1 a 7}{33}
-\contentsline {section}{\numberline {4.10}Nad rzek\IeC {\k a}}{33}
-\contentsline {section}{\numberline {4.11}Najsmutniejsza z moich smutnych piosenek}{33}
-\contentsline {section}{\numberline {4.12}Niebieskooki sen}{34}
-\contentsline {section}{\numberline {4.13}Nowa}{34}
-\contentsline {section}{\numberline {4.14}Ogien i dym}{34}
-\contentsline {section}{\numberline {4.15}Dom przy ulicy Pa\IeC {\'n}skiej}{34}
-\contentsline {section}{\numberline {4.16}Piosenka turystyczna I}{35}
-\contentsline {section}{\numberline {4.17}Piosenka turystyczna II}{35}
-\contentsline {section}{\numberline {4.18}Powroty}{35}
-\contentsline {section}{\numberline {4.19}Raz do roku}{35}
-\contentsline {section}{\numberline {4.20}R\IeC {\'o}wnoleg\IeC {\l }e}{36}
-\contentsline {section}{\numberline {4.21}Rozmowa (Jano)}{36}
-\contentsline {section}{\numberline {4.22}S\IeC {\l }uchaj\IeC {\k a}c Kellusa}{36}
-\contentsline {section}{\numberline {4.23}\IeC {\'s}mier\IeC {\'c} i dziewczyna}{36}
-\contentsline {section}{\numberline {4.24}Smutek}{37}
-\contentsline {section}{\numberline {4.25}Spadaj\IeC {\k a}ca gwiazda}{37}
-\contentsline {section}{\numberline {4.26}\IeC {\'s}roda}{38}
-\contentsline {section}{\numberline {4.27}Takie \IeC {\.z}ycie}{38}
-\contentsline {section}{\numberline {4.28}U Maleho Glena}{38}
-\contentsline {section}{\numberline {4.29}W barze '\IeC {\'s}wiat'}{39}
-\contentsline {section}{\numberline {4.30}Wiem}{39}
-\contentsline {section}{\numberline {4.31}Zburzenie baru}{39}
-\contentsline {section}{\numberline {4.32}Zostawiam wam to wszystko}{39}
-\contentsline {chapter}{\numberline {5}Siudma G\IeC {\'o}ra}{41}
-\contentsline {section}{\numberline {5.1}Bez zmru\IeC {\.z}enia}{41}
-\contentsline {section}{\numberline {5.2}Daleko do gwiazd}{41}
-\contentsline {section}{\numberline {5.3}Jak oddycham}{42}
-\contentsline {section}{\numberline {5.4}Jedyne takie miejsca}{42}
-\contentsline {section}{\numberline {5.5}Jesienna ucieczka}{43}
-\contentsline {section}{\numberline {5.6}Pies}{43}
-\contentsline {section}{\numberline {5.7}Pogoda}{43}
-\contentsline {section}{\numberline {5.8}Swiat nie ca\IeC {\l }kiem}{44}
-\contentsline {chapter}{\numberline {6}Wolna Grupa Bukowina}{45}
+\contentsline {chapter}{\numberline {1}Na Bani}{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ballada o Janie z Kolna}{5}{section.1.1}
+\contentsline {section}{\numberline {1.2}Bezdro\IeC {\.z}a}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Bezpowrotnie}{6}{section.1.3}
+\contentsline {section}{\numberline {1.4}Bociany}{6}{section.1.4}
+\contentsline {section}{\numberline {1.5}Brocken}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Cerkiew w ogniu}{7}{section.1.6}
+\contentsline {section}{\numberline {1.7}Deesis}{7}{section.1.7}
+\contentsline {section}{\numberline {1.8}Do zakochanej nieszcz\IeC {\k e}\IeC {\'s}liwie (Orzeszkowa)}{7}{section.1.8}
+\contentsline {section}{\numberline {1.9}Do\IeC {\.z}ywocie g\IeC {\'o}r}{8}{section.1.9}
+\contentsline {section}{\numberline {1.10}Dzi\IeC {\k e}kuj\IeC {\k e} Ci}{8}{section.1.10}
+\contentsline {section}{\numberline {1.11}Jeszcze t\IeC {\k e}skni\IeC {\k e} za Tob\IeC {\k a}}{8}{section.1.11}
+\contentsline {section}{\numberline {1.12}Latarnik}{8}{section.1.12}
+\contentsline {section}{\numberline {1.13}List na Pogodn\IeC {\k a}}{9}{section.1.13}
+\contentsline {section}{\numberline {1.14}Mam nadziej\IeC {\k e}}{9}{section.1.14}
+\contentsline {section}{\numberline {1.15}Miejsca pod niebem}{9}{section.1.15}
+\contentsline {section}{\numberline {1.16}Mosty ze s\IeC {\l }\IeC {\'o}w}{10}{section.1.16}
+\contentsline {section}{\numberline {1.17}Motyw poci\IeC {\k a}gu}{10}{section.1.17}
+\contentsline {section}{\numberline {1.18}Mury Toledo}{10}{section.1.18}
+\contentsline {section}{\numberline {1.19}Na w\IeC {\'o}z}{10}{section.1.19}
+\contentsline {section}{\numberline {1.20}Nic mi\IeC {\k e}dzy nami}{11}{section.1.20}
+\contentsline {section}{\numberline {1.21}Nie jestem \IeC {\'s}wi\IeC {\k e}ty}{11}{section.1.21}
+\contentsline {section}{\numberline {1.22}Piano}{11}{section.1.22}
+\contentsline {section}{\numberline {1.23}Piosenka o niepiosence}{12}{section.1.23}
+\contentsline {section}{\numberline {1.24}Piosenka z li\IeC {\'s}ciem}{12}{section.1.24}
+\contentsline {section}{\numberline {1.25}Poezja}{12}{section.1.25}
+\contentsline {section}{\numberline {1.26}Po\IeC {\.z}egnanie}{12}{section.1.26}
+\contentsline {section}{\numberline {1.27}Przegibek}{12}{section.1.27}
+\contentsline {section}{\numberline {1.28}Przy ognisku}{13}{section.1.28}
+\contentsline {section}{\numberline {1.29}Rekwije dla Mistrza Jerzego}{13}{section.1.29}
+\contentsline {section}{\numberline {1.30}Rekwije dla Baru na Stawach}{13}{section.1.30}
+\contentsline {section}{\numberline {1.31}Rozstanie}{14}{section.1.31}
+\contentsline {section}{\numberline {1.32}Shantie dwa razy}{14}{section.1.32}
+\contentsline {section}{\numberline {1.33}\IeC {\'s}lub}{15}{section.1.33}
+\contentsline {section}{\numberline {1.34}Sponad kufla piwa}{15}{section.1.34}
+\contentsline {section}{\numberline {1.35}Stare anio\IeC {\l }y}{15}{section.1.35}
+\contentsline {section}{\numberline {1.36}Stary m\IeC {\l }yn}{16}{section.1.36}
+\contentsline {section}{\numberline {1.37}Stodo\IeC {\l }y}{16}{section.1.37}
+\contentsline {section}{\numberline {1.38}\IeC {\'s}wiat bez t\IeC {\l }a}{16}{section.1.38}
+\contentsline {section}{\numberline {1.39}W kolorze Sepii}{16}{section.1.39}
+\contentsline {section}{\numberline {1.40}W mi\IeC {\k e}dzyczasie}{16}{section.1.40}
+\contentsline {section}{\numberline {1.41}W noc}{16}{section.1.41}
+\contentsline {section}{\numberline {1.42}Wakacje z duchami (Na bani)}{17}{section.1.42}
+\contentsline {section}{\numberline {1.43}We \IeC {\'s}nie}{17}{section.1.43}
+\contentsline {section}{\numberline {1.44}W\IeC {\k e}drujemy}{18}{section.1.44}
+\contentsline {section}{\numberline {1.45}Wiatr dla dzieci}{18}{section.1.45}
+\contentsline {section}{\numberline {1.46}Wracanie}{18}{section.1.46}
+\contentsline {section}{\numberline {1.47}Wyprzeda\IeC {\.z} lata}{18}{section.1.47}
+\contentsline {section}{\numberline {1.48}Z kotwic\IeC {\k a} w tawernie}{19}{section.1.48}
+\contentsline {section}{\numberline {1.49}Zanim Elegia}{19}{section.1.49}
+\contentsline {section}{\numberline {1.50}Zm\IeC {\k e}czony}{19}{section.1.50}
+\contentsline {section}{\numberline {1.51}\IeC {\.Z}yczenia}{19}{section.1.51}
+\contentsline {chapter}{\numberline {2}Bez Zobowi\IeC {\k a}zan}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Barwy zimy}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Chatka II}{21}{section.2.2}
+\contentsline {section}{\numberline {2.3}Co\IeC {\'s}}{21}{section.2.3}
+\contentsline {section}{\numberline {2.4}Czekaj mnie}{22}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dama kier i pikowy kr\IeC {\'o}l}{22}{section.2.5}
+\contentsline {section}{\numberline {2.6}Droga przez las}{23}{section.2.6}
+\contentsline {section}{\numberline {2.7}Idzie Idzi}{23}{section.2.7}
+\contentsline {section}{\numberline {2.8}Kocham Ci\IeC {\k e} zimo}{23}{section.2.8}
+\contentsline {section}{\numberline {2.9}Landrowerowa serenada}{23}{section.2.9}
+\contentsline {section}{\numberline {2.10}Miasteczko w Karpatach}{24}{section.2.10}
+\contentsline {section}{\numberline {2.11}Pastora\IeC {\l }ka z kr\IeC {\'o}lami}{24}{section.2.11}
+\contentsline {section}{\numberline {2.12}Przet\IeC {\l }umacz}{24}{section.2.12}
+\contentsline {section}{\numberline {2.13}Przytul mnie}{25}{section.2.13}
+\contentsline {section}{\numberline {2.14}Punkty na mapie}{25}{section.2.14}
+\contentsline {section}{\numberline {2.15}R\IeC {\'o}\IeC {\.z}e na tapecie}{26}{section.2.15}
+\contentsline {section}{\numberline {2.16}Sza\IeC {\l }asolot}{26}{section.2.16}
+\contentsline {section}{\numberline {2.17}Uwielbiam prze\IeC {\l }\IeC {\k e}cze}{26}{section.2.17}
+\contentsline {section}{\numberline {2.18}W g\IeC {\'o}rach}{26}{section.2.18}
+\contentsline {section}{\numberline {2.19}W marcu nad ranem}{26}{section.2.19}
+\contentsline {section}{\numberline {2.20}Zawr\IeC {\'o}ci\IeC {\'c}}{27}{section.2.20}
+\contentsline {section}{\numberline {2.21}Zima}{27}{section.2.21}
+\contentsline {section}{\numberline {2.22}Z\IeC {\l }ockie Niebo Cerkiewne}{27}{section.2.22}
+\contentsline {chapter}{\numberline {3}Czerwony Tulipan}{29}{chapter.3}
+\contentsline {chapter}{\numberline {4}S\IeC {\l }odki Ca\IeC {\l }us od Bubby}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}Blues Rybaka}{31}{section.4.1}
+\contentsline {section}{\numberline {4.2}Czekam na wiatr}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}Czemu ja}{31}{section.4.3}
+\contentsline {section}{\numberline {4.4}Jezioro ca\IeC {\l }e w deszczu}{31}{section.4.4}
+\contentsline {section}{\numberline {4.5}Lato}{32}{section.4.5}
+\contentsline {section}{\numberline {4.6}\IeC {\L }emkowyna}{32}{section.4.6}
+\contentsline {section}{\numberline {4.7}Miasto}{32}{section.4.7}
+\contentsline {section}{\numberline {4.8}Miasto, kt\IeC {\'o}rego wcale nie znam}{32}{section.4.8}
+\contentsline {section}{\numberline {4.9}Mi\IeC {\k e}dzy 1 a 7}{33}{section.4.9}
+\contentsline {section}{\numberline {4.10}Nad rzek\IeC {\k a}}{33}{section.4.10}
+\contentsline {section}{\numberline {4.11}Najsmutniejsza z moich smutnych piosenek}{33}{section.4.11}
+\contentsline {section}{\numberline {4.12}Niebieskooki sen}{34}{section.4.12}
+\contentsline {section}{\numberline {4.13}Nowa}{34}{section.4.13}
+\contentsline {section}{\numberline {4.14}Ogien i dym}{34}{section.4.14}
+\contentsline {section}{\numberline {4.15}Dom przy ulicy Pa\IeC {\'n}skiej}{34}{section.4.15}
+\contentsline {section}{\numberline {4.16}Piosenka turystyczna I}{35}{section.4.16}
+\contentsline {section}{\numberline {4.17}Piosenka turystyczna II}{35}{section.4.17}
+\contentsline {section}{\numberline {4.18}Powroty}{35}{section.4.18}
+\contentsline {section}{\numberline {4.19}Raz do roku}{35}{section.4.19}
+\contentsline {section}{\numberline {4.20}R\IeC {\'o}wnoleg\IeC {\l }e}{36}{section.4.20}
+\contentsline {section}{\numberline {4.21}Rozmowa (Jano)}{36}{section.4.21}
+\contentsline {section}{\numberline {4.22}S\IeC {\l }uchaj\IeC {\k a}c Kellusa}{36}{section.4.22}
+\contentsline {section}{\numberline {4.23}\IeC {\'s}mier\IeC {\'c} i dziewczyna}{36}{section.4.23}
+\contentsline {section}{\numberline {4.24}Smutek}{37}{section.4.24}
+\contentsline {section}{\numberline {4.25}Spadaj\IeC {\k a}ca gwiazda}{37}{section.4.25}
+\contentsline {section}{\numberline {4.26}\IeC {\'s}roda}{38}{section.4.26}
+\contentsline {section}{\numberline {4.27}Takie \IeC {\.z}ycie}{38}{section.4.27}
+\contentsline {section}{\numberline {4.28}U Maleho Glena}{38}{section.4.28}
+\contentsline {section}{\numberline {4.29}W barze '\IeC {\'s}wiat'}{39}{section.4.29}
+\contentsline {section}{\numberline {4.30}Wiem}{39}{section.4.30}
+\contentsline {section}{\numberline {4.31}Zburzenie baru}{39}{section.4.31}
+\contentsline {section}{\numberline {4.32}Zostawiam wam to wszystko}{39}{section.4.32}
+\contentsline {chapter}{\numberline {5}Siudma G\IeC {\'o}ra}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}Bez zmru\IeC {\.z}enia}{41}{section.5.1}
+\contentsline {section}{\numberline {5.2}Daleko do gwiazd}{41}{section.5.2}
+\contentsline {section}{\numberline {5.3}Jak oddycham}{42}{section.5.3}
+\contentsline {section}{\numberline {5.4}Jedyne takie miejsca}{42}{section.5.4}
+\contentsline {section}{\numberline {5.5}Jesienna ucieczka}{43}{section.5.5}
+\contentsline {section}{\numberline {5.6}Pies}{43}{section.5.6}
+\contentsline {section}{\numberline {5.7}Pogoda}{43}{section.5.7}
+\contentsline {section}{\numberline {5.8}Swiat nie ca\IeC {\l }kiem}{44}{section.5.8}
+\contentsline {chapter}{\numberline {6}Wolna Grupa Bukowina}{45}{chapter.6}
