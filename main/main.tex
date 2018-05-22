@@ -7,38 +7,34 @@
 \documentclass[8pt,twocolumn]{extbook}
 
 % Packages
-%\include{package.sty} %nie dziala z zewnetrznego pliku
 \usepackage{a4wide}
 \usepackage{extsizes}
-\usepackage[margin=1.5cm,footskip=0.25in,headheight=34.5pt]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{polski}
-\usepackage[polish]{babel}
-\usepackage{comment}
-\usepackage{parskip}
-\usepackage{multicol}
-\usepackage{titlesec, color}
-\usepackage{lmodern}
-\usepackage{fancyhdr}
-\usepackage[hidelinks]{hyperref}
-\usepackage{pgffor}
+\usepackage[margin=1.5cm,footskip=0.25in,headheight=34.5pt]{geometry}   %margins
+\usepackage[utf8]{inputenc}         %font
+\usepackage[T1]{fontenc}            %font
+\usepackage{polski}                 %font
+\usepackage[polish]{babel}          %font
+\usepackage{comment}                %block comment
+\usepackage{parskip}                %spaces between paragraphs
+\usepackage{multicol}               %twocolumn ToC
+\usepackage{titlesec, color}        %redefine chapter
+\usepackage{lmodern}                %styleset titles
+\usepackage{fancyhdr}               %redefine chapter
+\usepackage[hidelinks]{hyperref}    %hyperlinks in ToC
+\usepackage{pgffor}                 %for{}
 \usepackage{tagging} %<-----Tagi! Dokumentacja pod linkiem:
 %http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
 
 %\usepackage{makeidx}
 %\usepackage[defaultlines=4,all]{nowidow}
-\usepackage[chorded]{songs}
-\usepackage{verse}
-%\usepackage[skins,breakable,raster]{tcolorbox}
-%\usepackage[flowfram]
-
-%frames
-%\newflowframe[>1]{.4\textwidth}{\textheight}{.35\textwidth}{0pt}
-%\newflowframe[>2]{.65\textwidth}{\textheight}{.35\textwidth}{0pt}
+\usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
+\usepackage{verse}                  %\vin
 
 %commands
-%\begin{minipage}[t]{\dimexpr.4\textwidth-.4\columnsep}
+\newcommand{\tytul}[2]{
+\section[#1]{#1\\ \small{\normalfont \textit{#2}}}
+}
+%
 \newenvironment{text}{
 \begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
 \parskip=9pt
@@ -55,24 +51,22 @@
 \fi
 \end{minipage}
 }
-\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
+%\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
 
 %styles
-%\include{class.cls} %/nie dziala z zewnetrznego pliku
-
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
 \titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
 \parindent=0pt
 \parskip=9pt
-%\def\hmm{\par\if@firstcolumn\else \par \nopagebreak \fi\par\bigskip}
 
 %head and foot
 \pagestyle{fancy}
 %\headheight{14pt}
 \renewcommand{\chaptermark}[1]{%
-\markboth{#1}{}}
+\markboth{#1}{}
+}
 %
 
 % Document
@@ -101,5 +95,4 @@
     \include{SCOB/SCOB}
     \include{Siudmy/Siudma_gora}
     \include{WGB/WGB}
-    %\input(na_bani/Cerkiew)
 \end{document}
