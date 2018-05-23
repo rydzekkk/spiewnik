@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.5.10)  22 MAY 2018 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.5.10)  22 MAY 2018 16:30
 entering extended mode
 **./main.tex
 (main.tex
@@ -668,7 +668,18 @@ or  <return>  to continue without it.
 \c@chrsinstr=\count143
 \beforepoemtitleskip=\skip74
 \afterpoemtitleskip=\skip75
-) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
+)
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\env
+iron.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\trimspaces\
+trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks37
+)
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
 wiazan.aux)
@@ -679,20 +690,20 @@ ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -737,15 +748,15 @@ LaTeX Font Info:    ... okay on input line 84.
 \scratchbox=\box67
 \nofMPsegments=\count145
 \nofMParguments=\count146
-\everyMPshowfont=\toks37
+\everyMPshowfont=\toks38
 \MPscratchCnt=\count147
 \MPscratchDim=\dimen156
 \MPnumerator=\count148
 \makeMPintoPDFobject=\count149
-\everyMPtoPDFconversion=\toks38
+\everyMPtoPDFconversion=\toks39
 )
 \AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 84.
+Package hyperref Info: Link coloring OFF on input line 77.
 
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\na
 meref.sty"
@@ -757,9 +768,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count150
 )
-LaTeX Info: Redefining \ref on input line 84.
-LaTeX Info: Redefining \pageref on input line 84.
-LaTeX Info: Redefining \nameref on input line 84.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
+LaTeX Info: Redefining \nameref on input line 77.
 
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.out)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.out)
@@ -770,7 +781,7 @@ LaTeX Info: Redefining \nameref on input line 84.
 ABD: EveryShipout initializing macros
 
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
-(Font)              using `T1/lmr/bx/n' instead on input line 89.
+(Font)              using `T1/lmr/bx/n' instead on input line 82.
 
 [1
 
@@ -798,21 +809,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  (na_bani/na_bani.tex
 Rozdzia\l  1.
 (na_bani/Ballada_o_Janie.tex) (na_bani/Bezdroza.tex
-na_bani/Bezdroza.tex:46: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Bezdroza.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Bezdroza.tex:51: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Bezdroza.tex:54: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Bezdroza.tex:64: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Bezpowrotnie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -825,111 +827,83 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-na_bani/Bociany.tex:28: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Bociany.tex:31: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Bociany.tex:38: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Brocken.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+na_bani/Brocken.tex:46: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (na_bani/Cerkiew.tex
+na_bani/Cerkiew.tex:35: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 )
-(na_bani/Cerkiew.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
 (na_bani/Deesis.tex
-na_bani/Deesis.tex:64: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Deesis.tex:68: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Deesis.tex:69: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Deesis.tex:73: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Deesis.tex:75: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Deesis.tex:78: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Deesis.tex:88: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Do_zakochanej_nieszczesliwie.tex
 Underfull \hbox (badness 4739) in paragraph at lines 1--1
 |[]\T1/lmr/bx/n/10.95 Do za-ko-cha-nej nie-szcz¦-±li-wie (Orzesz-
  []
 
-
-Overfull \hbox (3.65456pt too wide) in paragraph at lines 15--17
-[]\T1/lmr/m/n/8 Cis*H*A*H* 
- []
-
-
-Overfull \hbox (3.65456pt too wide) in paragraph at lines 15--17
-\T1/lmr/m/n/8 Cis*H*A*H*
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
-
- []
+na_bani/Do_zakochanej_nieszczesliwie.tex:17: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Dozywocie_gor.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
 Underfull \hbox (badness 10000) in paragraph at lines 19--23
 
  []
 
-na_bani/Dozywocie_gor.tex:65: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Dozywocie_gor.tex:74: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-na_bani/Dozywocie_gor.tex:74: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+) (na_bani/Dziekuje_Ci.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (na_bani/Dziekuje_Ci.tex) (na_bani/Jeszcze_tesknie.tex
+ [7])
+(na_bani/Jeszcze_tesknie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (na_bani/Latarnik.tex) (na_bani/List_na_pogodna.tex) (na_bani/Mam_nadzieje.tex
-na_bani/Mam_nadzieje.tex:39: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Mam_nadzieje.tex:43: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Mam_nadzieje.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Mam_nadzieje.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Mam_nadzieje.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Mam_nadzieje.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Mam_nadzieje.tex:53: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Miejsca_pod_niebem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -944,6 +918,13 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+na_bani/Miejsca_pod_niebem.tex:76: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (na_bani/Mosty_ze_slow.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -952,23 +933,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-na_bani/Motyw_pociagu.tex:23: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Motyw_pociagu.tex:33: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (6.54509pt too wide) in paragraph at lines 22--33
-\OML/lmm/m/it/8 h[]C[]A[]CGD[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--33
-
- []
+na_bani/Motyw_pociagu.tex:33: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Mury_toledo.tex) (na_bani/Na_woz.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -994,89 +964,50 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
+na_bani/Poezja.tex:37: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (na_bani/Pozegnanie.tex) (na_bani/Przegibek.tex
-na_bani/Przegibek.tex:40: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przegibek.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przegibek.tex:45: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przegibek.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przegibek.tex:50: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przegibek.tex:52: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przegibek.tex:56: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Przegibek.tex:56: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Przy_ognisku.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-na_bani/Przy_ognisku.tex:39: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przy_ognisku.tex:39: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przy_ognisku.tex:40: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przy_ognisku.tex:41: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przy_ognisku.tex:42: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przy_ognisku.tex:43: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przy_ognisku.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Przy_ognisku.tex:47: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Przy_ognisku.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Przy_ognisku.tex:48: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Rekwije_dla_mistrza.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12])
-(na_bani/Rekwije_dla_baru.tex
-na_bani/Rekwije_dla_baru.tex:58: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+ [12]
+na_bani/Rekwije_dla_mistrza.tex:66: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-na_bani/Rekwije_dla_baru.tex:59: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Rekwije_dla_baru.tex:75: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+) (na_bani/Rekwije_dla_baru.tex
+na_bani/Rekwije_dla_baru.tex:76: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Rozstanie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1086,155 +1017,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-na_bani/Shantie_dwa_razy.tex:66: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Shantie_dwa_razy.tex:70: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Shantie_dwa_razy.tex:80: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Shantie_dwa_razy.tex:85: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--85
-
- []
-
-na_bani/Shantie_dwa_razy.tex:97: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Shantie_dwa_razy.tex:98: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Slub.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-na_bani/Slub.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Slub.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Slub.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Slub.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Slub.tex:54: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Slub.tex:58: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Slub.tex:58: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Sponad_kufla.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-Underfull \hbox (badness 10000) in paragraph at lines 39--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
+na_bani/Sponad_kufla.tex:61: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Stare_anioly.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1255,96 +1065,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (na_bani/Wakacje_z_duchami.tex
-na_bani/Wakacje_z_duchami.tex:54: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wakacje_z_duchami.tex:57: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Wakacje_z_duchami.tex:57: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Wakacje_z_duchami.tex:58: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wakacje_z_duchami.tex:69: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wakacje_z_duchami.tex:72: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Wakacje_z_duchami.tex:72: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Wakacje_z_duchami.tex:73: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--73
-
- []
-
-na_bani/Wakacje_z_duchami.tex:74: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (0.8846pt too wide) in paragraph at lines 74--83
-\OML/lmm/m/it/8 EFisgisAH[] 
- []
-
-
-Overfull \hbox (1.8065pt too wide) in paragraph at lines 74--83
-\OML/lmm/m/it/8 cisH[]A[]GE$ 
- []
+na_bani/Wakacje_z_duchami.tex:83: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/We_snie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1358,27 +1084,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-na_bani/Wedrujemy.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wedrujemy.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wedrujemy.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Wedrujemy.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Wedrujemy.tex:63: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (na_bani/Wiatr.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17])
-(na_bani/Wracanie.tex) (na_bani/Wyprzedaz_lata.tex
+(na_bani/Wracanie.tex
+na_bani/Wracanie.tex:63: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (na_bani/Wyprzedaz_lata.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -1387,38 +1112,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18])
 (na_bani/Zmeczony.tex) (na_bani/Zyczenia.tex
-na_bani/Zyczenia.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Zyczenia.tex:49: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Zyczenia.tex:50: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Zyczenia.tex:52: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-na_bani/Zyczenia.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Zyczenia.tex:54: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Zyczenia.tex:58: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Zyczenia.tex:59: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-na_bani/Zyczenia.tex:64: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+na_bani/Zyczenia.tex:64: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ))
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1515,13 +1214,12 @@ Rozdzia\l  3.
 ]
 Rozdzia\l  4.
 (SCOB/Blues_rybaka.tex
-SCOB/Blues_rybaka.tex:37: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Blues_rybaka.tex:40: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Blues_rybaka.tex:40: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Czekam_na_wiatr.tex
 SCOB/Czekam_na_wiatr.tex:25: Extra }, or forgotten \endgroup
@@ -1531,75 +1229,31 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
+SCOB/Czekam_na_wiatr.tex:46: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (SCOB/Czemu_ja.tex) (SCOB/Jezioro.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
-
- []
+SCOB/Jezioro.tex:41: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Lato.tex
-SCOB/Lato.tex:40: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Lato.tex:42: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Lato.tex:43: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Lato.tex:46: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Lato.tex:47: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Lato.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Lato.tex:49: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Lato.tex:52: Misplaced alignment tab character &
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-SCOB/Lato.tex:57: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (14.4261pt too wide) in paragraph at lines 49--57
-\OML/lmm/m/it/8 C=CG[]=Ha[]=A[] 
- []
+SCOB/Lato.tex:57: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Lemkowyna.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1610,90 +1264,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--19
 
  []
 
+SCOB/Miasto.tex:37: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (SCOB/Miasto_ktorego.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (SCOB/Miedzy_1_7.tex
-SCOB/Miedzy_1_7.tex:45: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Miedzy_1_7.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Miedzy_1_7.tex:55: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Miedzy_1_7.tex:60: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Miedzy_1_7.tex:65: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Nad_rzeka.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-SCOB/Nad_rzeka.tex:40: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:40: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:42: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:44: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:46: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:47: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:48: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:49: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:50: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:52: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:54: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:56: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:58: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:59: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:63: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:63: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:64: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Nad_rzeka.tex:64: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Najsmutniejsza.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1703,32 +1302,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--12
 
  []
 
+SCOB/Najsmutniejsza.tex:49: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (SCOB/Niebieskooki_sen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
-SCOB/Niebieskooki_sen.tex:29: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Niebieskooki_sen.tex:31: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Niebieskooki_sen.tex:33: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Niebieskooki_sen.tex:36: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Nowa.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33])
-(SCOB/ogien_i_dym.tex) (SCOB/Panska.tex
+(SCOB/ogien_i_dym.tex
+SCOB/ogien_i_dym.tex:51: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (SCOB/Panska.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -1761,27 +1366,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-SCOB/Smierc_i_dziewczyna.tex:41: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Smierc_i_dziewczyna.tex:44: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--44
-
- []
+SCOB/Smierc_i_dziewczyna.tex:51: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Smutek.tex
-SCOB/Smutek.tex:54: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Smutek.tex:59: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Smutek.tex:59: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Spadajaca_gwiazda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1791,13 +1389,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--41
 
  []
 
-SCOB/Spadajaca_gwiazda.tex:62: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Spadajaca_gwiazda.tex:72: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Sroda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1810,58 +1407,24 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 4.
+
+SCOB/Sroda.tex:75: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (SCOB/Takie_zycie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-SCOB/Takie_zycie.tex:33: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Takie_zycie.tex:37: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Takie_zycie.tex:38: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Takie_zycie.tex:40: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Takie_zycie.tex:48: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Takie_zycie.tex:51: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
-
- []
+SCOB/Takie_zycie.tex:51: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/U_Maleho.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1872,27 +1435,40 @@ Underfull \hbox (badness 1107) in paragraph at lines 26--30
 \T1/lmr/m/n/8 W chmu-rze go-ª¦bi, bez cie-nia stra-chu, na tamt¡
  []
 
+SCOB/W_barze_swiat.tex:48: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (SCOB/Wiem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38])
 (SCOB/Zburzenie_baru.tex
-SCOB/Zburzenie_baru.tex:61: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Zburzenie_baru.tex:73: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+SCOB/Zburzenie_baru.tex:73: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ) (SCOB/Zostawiam_wam.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+SCOB/Zostawiam_wam.tex:37: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 )) [39]
 \openout2 = `Siudmy/Siudma_gora.aux'.
 
-
-(Siudmy/Siudma_gora.tex [40
+ (Siudmy/Siudma_gora.tex [40
 
 
 
@@ -1922,6 +1498,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 ) (Siudmy/Pogoda.tex) (Siudmy/Swiat_nie_calkiem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Siudmy/Swiat_nie_calkiem.tex:83: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ))
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1939,8 +1523,8 @@ Rozdzia\l  6.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
  (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
@@ -1950,50 +1534,42 @@ ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
 )
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Siudmy/Siudma_gora.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 428F52B1A00E0859032E1688A16EC3AC;7456.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) 
 Here is how much of TeX's memory you used:
- 13867 strings out of 492976
- 245471 string characters out of 3123650
- 332230 words of memory out of 3000000
- 16937 multiletter control sequences out of 15000+200000
+ 13924 strings out of 492976
+ 246639 string characters out of 3123650
+ 333166 words of memory out of 3000000
+ 16986 multiletter control sequences out of 15000+200000
  88877 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,43p,917b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,11n,43p,917b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
 m-mathsy.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
-/dvips/lm/lm-mathit.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.
-9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/bartosz.rydz/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/bartosz.rydz/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/bartosz.r
-ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Users
-/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.p
+/dvips/lm/lm-ec.enc}<C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmbx10.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/bartosz.rydz/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Users/bartosz.rydz/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/barto
+sz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Us
+ers/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.p
 fb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-lm/lmmi6.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/lm/lmmi7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/lm/lmmi8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Users/bartosz.rydz/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/bartosz.rydz/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/bartosz.r
-ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/
-bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri7.pfb>
-<C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
-lmro8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/lm/lmsy7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/lm/lmsy8.pfb>
+lm/lmr8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/lm/lmri7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/lm/lmro8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb>
 Output written on C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\out\main.pdf
- (45 pages, 489911 bytes).
+ (45 pages, 449009 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
+ 869 PDF objects out of 1000 (max. 8388607)
  166 named destinations out of 1000 (max. 500000)
  953 words of extra memory for PDF output out of 10000 (max. 10000000)
 

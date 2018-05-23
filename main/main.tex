@@ -29,6 +29,8 @@
 %\usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
 \usepackage{verse}                  %\vin
+\usepackage{environ}
+
 
 %commands
 \newcommand{\tytul}[2]{
@@ -42,14 +44,16 @@
 \end{minipage}%\hfill
 }
 %
-\newenvironment{chord}{
+\NewEnviron{chord}{
 \begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
 \parskip=9pt
 \ifchorded
-}{
+\body
 \else
 \fi
 \end{minipage}
+%}{
+%\end{minipage}
 }
 %\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
 
