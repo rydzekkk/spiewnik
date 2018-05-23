@@ -8,7 +8,7 @@
 
 % Packages
 \usepackage{a4wide}
-\usepackage{extsizes}
+\usepackage{extsizes}               %smaller default font
 \usepackage[margin=1.5cm,footskip=0.25in,headheight=34.5pt]{geometry}   %margins
 \usepackage[utf8]{inputenc}         %font
 \usepackage[T1]{fontenc}            %font
@@ -21,7 +21,7 @@
 \usepackage{lmodern}                %styleset titles
 \usepackage{fancyhdr}               %redefine chapter
 \usepackage[hidelinks]{hyperref}    %hyperlinks in ToC
-\usepackage{pgffor}                 %WTF?
+%\usepackage{pgffor}                 %WTF?
 \usepackage{tagging} %<-----Tags! Documentation:
 %http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
 
@@ -29,6 +29,7 @@
 %\usepackage[defaultlines=4,all]{nowidow}
 \usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
 \usepackage{verse}                  %\vin
+\usepackage{environ}                %\body as a macro for /ifchorded
 
 %commands
 \newcommand{\tytul}[2]{
@@ -42,12 +43,13 @@
 \end{minipage}%\hfill
 }
 %
-\newenvironment{chord}{
+\NewEnviron{chord}{
 \begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
 \parskip=9pt
 \ifchorded
-}{
+    \BODY
 \else
+    \vfill\null
 \fi
 \end{minipage}
 }
