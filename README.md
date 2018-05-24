@@ -1,4 +1,4 @@
-#Hej ho :)
+# Hej ho :)
 
 Czysto teoretycznie, do dodawania piosenek nie potrzeba nic prócz edytora tekstowego, wystarczy trzymać się schematu z pliku main\template.tex i dodawać każdą piosenkę w osobnym pliku.
 Struktura na tą chwilę jest oparta na zespołach, więc jeżeli chcemy dodać zespół którego nie ma, tworzymy folder o możliwie krótkiej nazwie, używając _ zamiast spacji.
@@ -13,7 +13,7 @@ Cała struktura śpiewnika znajduje się w pliku main.tex, jego nie tykamy wcale
 Założeniem projektu jest stworzenie bazy tekstów, którą potencjalnie wykorzystać może każdy wg własnych potrzeb, tworząc swoją własną wersję pliku master.tex, czy to modyfikując style czy samą zawartość śpiewnika.
 Dopisywanie piosenek jest proste i nie trzeba znać się tutaj na żadnym programowaniu. Z przetworzeniem dodanych rzeczy już jest trochę więcej zabawy.
 
-#Składanie śpiewnika:
+# Składanie śpiewnika:
 potrzebujemy co najmniej instalacji LaTeXa, którego można pobrać tu: https://www.latex-project.org/get/
 Pod Windowsem ja korzystam z MiKTeX i najlepiej będzie się w tym względzie unifikować, różne implementacje mogą mieć swoje smaczki.
 Instalacja sprowadza sie do klikania "dalej" :)
@@ -31,5 +31,5 @@ https://github.com/Ruben-Sten/TeXiFy-IDEA#installation-instructions
 Poczytajcie też trochę o gicie, podczas rejestracji na githubie wyskoczy Wam instrukcja z podstawowymi informacjami, które w zupełności tutaj wystarczą.
 Wielka prośba o przemyślenie 2 razy, czy na pewno chcecie pushować do mastera. Najlepiej robić to jednak do jakiegoś brancha ;)
 
-Przy każdym commicie starajcie się opisywać zmiany zwięźle, ale i konretnie.
+Przy każdym commicie starajcie się opisywać zmiany zwięźle, ale i konkretnie.
 Powodzenia!
