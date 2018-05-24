@@ -27,3 +27,6 @@ https://github.com/Ruben-Sten/TeXiFy-IDEA#installation-instructions
 
 Poczytajcie też trochę o gicie, podczas rejestracji na githubie wyskoczy Wam instrukcja z podstawowymi informacjami, które w zupełności tutaj wystarczą.
 Wielka prośba o przemyślenie 2 razy, czy na pewno chcecie pushować do mastera. Najlepiej robić to jednak do jakiegoś brancha ;)
+
+Przy każdym commicie starajcie się opisywać zmiany zwięźle, ale i konretnie.
+Powodzenia!
