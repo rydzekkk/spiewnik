@@ -32,8 +32,11 @@
 \usepackage{environ}                %\body as a macro for /ifchorded
 
 %commands
-\newcommand{\tytul}[2]{
-\section[#1]{#1\\ \small{\normalfont \textit{#2}}}
+\newcommand{\tytul}[3]{
+\section[#1]{#1\\
+%Zespół #3\\
+\small{\normalfont \textit{#2}}
+}
 }
 %
 \newenvironment{text}{
