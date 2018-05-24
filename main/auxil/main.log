@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.5.10)  23 MAY 2018 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6670 64-bit) (preloaded format=pdflatex 2018.5.10)  24 MAY 2018 09:12
 entering extended mode
 **./main.tex
 (main.tex
@@ -413,104 +413,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip56
 )
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utiliti
-es\pgffor.sty"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utiliti
-es\pgfrcs.sty"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfutil-common.tex"
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen135
-\pgfutil@tempdimb=\dimen136
-
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfutil-common-lists.tex"))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfutil-latex.def"
-\pgfutil@abb=\box53
-
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi
-.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfrcs.code.tex"
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utiliti
-es\pgfkeys.sty"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
-
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks22
-)))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pg
-fmath.sty"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmath.code.tex"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathcalc.code.tex"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathutil.code.tex"
-\pgf@x=\dimen137
-\pgf@xa=\dimen138
-\pgf@xb=\dimen139
-\pgf@xc=\dimen140
-\pgf@y=\dimen141
-\pgf@ya=\dimen142
-\pgf@yb=\dimen143
-\pgf@yc=\dimen144
-\c@pgf@counta=\count113
-\c@pgf@countb=\count114
-\c@pgf@countc=\count115
-\c@pgf@countd=\count116
-)
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen145
-\pgfmath@count=\count117
-\pgfmath@box=\box54
-\pgfmath@toks=\toks23
-\pgfmath@stack@operand=\toks24
-\pgfmath@stack@operation=\toks25
-)
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.code.tex"
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.basic.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.trigonometric.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.random.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.comparison.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.base.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.round.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.misc.code.tex")
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfunctions.integerarithmetics.code.tex")))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count118
-)))
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utili
-ties\pgffor.code.tex"
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\
-pgfmath.code.tex")
-\pgffor@iter=\dimen146
-\pgffor@skip=\dimen147
-\pgffor@stack=\toks26
-\pgffor@toks=\toks27
-))
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tagging\tag
 ging.sty"
 Package: tagging 2011/08/04
@@ -518,32 +420,32 @@ Package: tagging 2011/08/04
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\et
 oolbox.sty"
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count119
+\etb@tempcnta=\count113
 )
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verba
 tim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks28
-\verbatim@line=\toks29
+\every@verbatim=\toks19
+\verbatim@line=\toks20
 \verbatim@in@stream=\read1
 ))
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\songs\songs
 .sty"
 Package: songs 2017/06/05 v3.0 Songs package
-\SB@dimen=\dimen148
-\SB@dimenii=\dimen149
-\SB@dimeniii=\dimen150
-\SB@dimeniv=\dimen151
-\SB@box=\box55
-\SB@boxii=\box56
-\SB@boxiii=\box57
-\SB@toks=\toks30
-\SB@cnt=\count120
-\SB@cntii=\count121
+\SB@dimen=\dimen135
+\SB@dimenii=\dimen136
+\SB@dimeniii=\dimen137
+\SB@dimeniv=\dimen138
+\SB@box=\box53
+\SB@boxii=\box54
+\SB@boxiii=\box55
+\SB@toks=\toks21
+\SB@cnt=\count114
+\SB@cntii=\count115
 \SB@skip=\skip57
-\SB@envbox=\box58
-\c@songnum=\count122
-\c@versenum=\count123
+\SB@envbox=\box56
+\c@songnum=\count116
+\c@versenum=\count117
 \versesep=\skip58
 \afterpreludeskip=\skip59
 \beforepostludeskip=\skip60
@@ -566,40 +468,40 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \cbarwidth=\skip65
 \sbarheight=\skip66
-\vvpenalty=\count124
-\ccpenalty=\count125
-\vcpenalty=\count126
-\cvpenalty=\count127
-\brkpenalty=\count128
-\spenalty=\count129
-\minfrets=\count130
-\SB@colwidth=\dimen152
-\SB@songbox=\box59
-\SB@numcols=\count131
-\SB@colnum=\count132
-\SB@colbox=\box60
-\SB@pgbox=\box61
-\SB@mrkbox=\box62
-\SB@groupcnt=\count133
-\SB@titlelist=\toks31
-\SB@titletail=\toks32
-\SB@parindent=\dimen153
-\SB@chorusbox=\box63
+\vvpenalty=\count118
+\ccpenalty=\count119
+\vcpenalty=\count120
+\cvpenalty=\count121
+\brkpenalty=\count122
+\spenalty=\count123
+\minfrets=\count124
+\SB@colwidth=\dimen139
+\SB@songbox=\box57
+\SB@numcols=\count125
+\SB@colnum=\count126
+\SB@colbox=\box58
+\SB@pgbox=\box59
+\SB@mrkbox=\box60
+\SB@groupcnt=\count127
+\SB@titlelist=\toks22
+\SB@titletail=\toks23
+\SB@parindent=\dimen140
+\SB@chorusbox=\box61
 \SB@cmarkclass=\marks1
 \SB@nocmarkclass=\marks2
-\SB@grouplvl=\count134
-\SB@transposefactor=\count135
-\SB@lyric=\toks33
-\SB@numhyps=\count136
-\SB@lyricnohyp=\toks34
-\SB@lyricbox=\box64
-\SB@chordbox=\box65
-\SB@cr@=\toks35
-\SB@ctail=\toks36
+\SB@grouplvl=\count128
+\SB@transposefactor=\count129
+\SB@lyric=\toks24
+\SB@numhyps=\count130
+\SB@lyricnohyp=\toks25
+\SB@lyricbox=\box62
+\SB@chordbox=\box63
+\SB@cr@=\toks26
+\SB@ctail=\toks27
 \SB@fretwidth=\skip67
-\SB@tabindent=\dimen154
-\c@SB@songsnum=\count137
-\SB@songwrites=\box66
+\SB@tabindent=\dimen141
+\c@SB@songsnum=\count131
+\SB@songwrites=\box64
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3706
 .
 
@@ -642,11 +544,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\verse\verse
 .sty"
 Package: verse 2009/09/04 v2.4a verse typesetting
-\c@vslineno=\count138
-\c@poemline=\count139
-\c@fvsline=\count140
-\c@modulo@vs=\count141
-\c@verse@envctr=\count142
+\c@vslineno=\count132
+\c@poemline=\count133
+\c@fvsline=\count134
+\c@modulo@vs=\count135
+\c@verse@envctr=\count136
 
 
 C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\verse\verse.s
@@ -665,10 +567,19 @@ or  <return>  to continue without it.
 \stanzaskip=\skip71
 \vleftskip=\skip72
 \vrightskip=\skip73
-\c@chrsinstr=\count143
+\c@chrsinstr=\count137
 \beforepoemtitleskip=\skip74
 \afterpoemtitleskip=\skip75
 )
+
+main.tex:32: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\environ\env
 iron.sty"
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -677,8 +588,16 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 trimspaces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks37
+\@envbody=\toks28
 )
+
+main.tex:35: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
@@ -690,20 +609,20 @@ ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
-LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -743,20 +662,20 @@ LaTeX Font Info:    ... okay on input line 77.
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp
 -pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
-\scratchdimen=\dimen155
-\scratchbox=\box67
-\nofMPsegments=\count145
-\nofMParguments=\count146
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count147
-\MPscratchDim=\dimen156
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count138
+\scratchdimen=\dimen142
+\scratchbox=\box65
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen143
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks30
 )
-\AtBeginShipoutBox=\box68
-Package hyperref Info: Link coloring OFF on input line 77.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring OFF on input line 84.
 
 ("C:\Users\bartosz.rydz\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\na
 meref.sty"
@@ -766,47 +685,60 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count150
+\c@section@level=\count144
 )
-LaTeX Info: Redefining \ref on input line 77.
-LaTeX Info: Redefining \pageref on input line 77.
-LaTeX Info: Redefining \nameref on input line 77.
+LaTeX Info: Redefining \ref on input line 84.
+LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \nameref on input line 84.
 
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.out)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+ [1
 
-ABD: EveryShipout initializing macros
+{C:/Users/bartosz.rydz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+] [2
+
+]
 
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
-(Font)              using `T1/lmr/bx/n' instead on input line 82.
+(Font)              using `T1/lmr/bx/n' instead on input line 89.
 
-[1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.94         \clearpage
+                        [1
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.98     \tableofcontents
+                          [2
 
 
 
-{C:/Users/bartosz.rydz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
-
-
-
-] (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.toc
+]
+(C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 3.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3]
-[4
+ [3] [4
 
 
 ]
 \openout2 = `na_bani/na_bani.aux'.
 
- (na_bani/na_bani.tex
+
+(na_bani/na_bani.tex
 Rozdzia\l  1.
 (na_bani/Ballada_o_Janie.tex) (na_bani/Bezdroza.tex
 na_bani/Bezdroza.tex:64: Missing $ inserted
@@ -817,6 +749,11 @@ na_bani/Bezdroza.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
 na_bani/Bezdroza.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -824,6 +761,37 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Bezdroza.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+na_bani/Bezdroza.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Bezdroza.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\T1/lmr/m/n/8 F G
+ []
+
+
+Overfull \hbox (6.22733pt too wide) in paragraph at lines 64--64
+\T1/lmr/m/n/8 a=======
+ []
+
+na_bani/Bezdroza.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Bezdroza.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 64--64
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
 
 ) (na_bani/Bezpowrotnie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -844,11 +812,98 @@ na_bani/Bociany.tex:38: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T1/lmr/m/n/8 HEAD
+ []
+
+na_bani/Bociany.tex:38: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Bociany.tex:38: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T1/lmr/m/n/8 C
+ []
+
+
+Overfull \hbox (8.46632pt too wide) in paragraph at lines 38--38
+\T1/lmr/m/n/8 D=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T1/lmr/m/n/8 C D>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 38--38
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (na_bani/Brocken.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (1.97733pt too wide) in paragraph at lines 46--46
+\T1/lmr/m/n/8 =======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/lmr/m/n/8 >>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 46--46
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (na_bani/Cerkiew.tex
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (1.97733pt too wide) in paragraph at lines 35--35
+\T1/lmr/m/n/8 =======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+\T1/lmr/m/n/8 >>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 35--35
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 )
-(na_bani/Cerkiew.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
@@ -861,6 +916,24 @@ na_bani/Deesis.tex:88: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\T1/lmr/m/n/8 HEAD A
+ []
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 na_bani/Deesis.tex:88: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -876,10 +949,51 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Deesis.tex:88: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\T1/lmr/m/n/8 G D
+ []
+
+
+Overfull \hbox (7.52182pt too wide) in paragraph at lines 88--88
+\T1/lmr/m/n/8 F=======
+ []
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Deesis.tex:88: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 88--88
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
 
 ) (na_bani/Do_zakochanej_nieszczesliwie.tex
 Underfull \hbox (badness 4739) in paragraph at lines 1--1
 |[]\T1/lmr/bx/n/10.95 Do za-ko-cha-nej nie-szcz¦-±li-wie (Orzesz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/lmr/m/n/8 HEAD E
  []
 
 
@@ -888,15 +1002,51 @@ Overfull \hbox (3.65456pt too wide) in paragraph at lines 17--17
  []
 
 
+Overfull \hbox (49.9315pt too wide) in paragraph at lines 17--17
+\T1/lmr/m/n/8 Cis*H*A*H*=======
+ []
+
+
 Overfull \hbox (3.65456pt too wide) in paragraph at lines 17--17
-\T1/lmr/m/n/8 Cis*H*A*H* 
+[]\T1/lmr/m/n/8 Cis*H*A*H* 
+ []
+
+
+Overfull \hbox (24.43256pt too wide) in paragraph at lines 17--17
+\T1/lmr/m/n/8 Cis*H*A*H*>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 17--17
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
  []
 
 ) (na_bani/Dozywocie_gor.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 Underfull \hbox (badness 10000) in paragraph at lines 19--23
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+na_bani/Dozywocie_gor.tex:74: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Dozywocie_gor.tex:74: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.32407pt too wide) in paragraph at lines 74--74
+\OML/lmm/m/it/8 DeCD \OT1/lmr/m/n/8 =======
+ []
+
 na_bani/Dozywocie_gor.tex:74: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -905,11 +1055,20 @@ na_bani/Dozywocie_gor.tex:74: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-) (na_bani/Dziekuje_Ci.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7])
-(na_bani/Jeszcze_tesknie.tex
+Overfull \hbox (29.32556pt too wide) in paragraph at lines 74--74
+\OML/lmm/m/it/8 DeCD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 74--74
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (na_bani/Dziekuje_Ci.tex) (na_bani/Jeszcze_tesknie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
@@ -922,9 +1081,15 @@ na_bani/Mam_nadzieje.tex:53: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-na_bani/Mam_nadzieje.tex:53: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/lmr/m/n/8 HEAD
+ []
 
 na_bani/Mam_nadzieje.tex:53: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -937,6 +1102,44 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Mam_nadzieje.tex:53: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+na_bani/Mam_nadzieje.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (31.14629pt too wide) in paragraph at lines 53--53
+\OML/lmm/m/it/8 h[]D[]A \OT1/lmr/m/n/8 =======
+ []
+
+na_bani/Mam_nadzieje.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Mam_nadzieje.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Mam_nadzieje.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Mam_nadzieje.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (31.14778pt too wide) in paragraph at lines 53--53
+\OML/lmm/m/it/8 h[]D[]A >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 53--53
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (na_bani/Miejsca_pod_niebem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -951,14 +1154,47 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmr/m/n/8 A a H
+ []
+
+
+Overfull \hbox (14.36916pt too wide) in paragraph at lines 76--76
+\T1/lmr/m/n/8 (E)=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmr/m/n/8 A a H
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmr/m/n/8 (E)>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 76--76
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (na_bani/Mosty_ze_slow.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(na_bani/Motyw_pociagu.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
+Overfull \vbox (34.07872pt too high) has occurred while \output is active []
+
+)
+(na_bani/Motyw_pociagu.tex
 na_bani/Motyw_pociagu.tex:33: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -966,6 +1202,11 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Motyw_pociagu.tex:33: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
 
 
 Overfull \hbox (6.54509pt too wide) in paragraph at lines 33--33
@@ -973,33 +1214,81 @@ Overfull \hbox (6.54509pt too wide) in paragraph at lines 33--33
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
+Overfull \hbox (1.97733pt too wide) in paragraph at lines 33--33
+\OT1/lmr/m/n/8 =======
+ []
 
+
+Overfull \hbox (6.54509pt too wide) in paragraph at lines 33--33
+\OML/lmm/m/it/8 h[]C[]A[]CGD[] 
+ []
+
+
+Overfull \hbox (1.97882pt too wide) in paragraph at lines 33--33
+\OML/lmm/m/it/8 >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 33--33
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
  []
 
 ) (na_bani/Mury_toledo.tex) (na_bani/Na_woz.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+ [10])
 (na_bani/Nic_miedzy_nami.tex) (na_bani/Nie_jestem_swiety.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10])
+)
 (na_bani/Piano.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+ [11])
 (na_bani/Piosenka_o_niepiosence.tex) (na_bani/Piosenka_z_lisciem.tex)
 (na_bani/Poezja.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+
 na_bani/Poezja.tex:15: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 F
+ []
+
+
+Overfull \hbox (8.64532pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 G=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 F G>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
 
 ) (na_bani/Pozegnanie.tex) (na_bani/Przegibek.tex
 na_bani/Przegibek.tex:56: Missing $ inserted
@@ -1009,6 +1298,16 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Przegibek.tex:56: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\T1/lmr/m/n/8 HEAD D
+ []
 
 na_bani/Przegibek.tex:56: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1029,10 +1328,47 @@ na_bani/Przegibek.tex:56: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Overfull \hbox (41.06923pt too wide) in paragraph at lines 56--56
+\OML/lmm/m/it/8 Dh[]CGD \OT1/lmr/m/n/8 =======
+ []
+
+na_bani/Przegibek.tex:56: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Przegibek.tex:56: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Przegibek.tex:56: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Przegibek.tex:56: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przegibek.tex:56: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (41.07072pt too wide) in paragraph at lines 56--56
+\OML/lmm/m/it/8 Dh[]CGD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 56--56
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
 ) (na_bani/Przy_ognisku.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [12]
 na_bani/Przy_ognisku.tex:48: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1053,6 +1389,44 @@ na_bani/Przy_ognisku.tex:48: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmr/m/n/8 HEAD
+ []
+
+na_bani/Przy_ognisku.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Przy_ognisku.tex:48: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przy_ognisku.tex:48: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przy_ognisku.tex:48: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przy_ognisku.tex:48: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przy_ognisku.tex:48: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Przy_ognisku.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (34.81583pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 GDA[][] \OT1/lmr/m/n/8 =======
+ []
+
 na_bani/Przy_ognisku.tex:48: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1063,15 +1437,56 @@ I treat `x^1^2' essentially like `x^1{}^2'.
 na_bani/Przy_ognisku.tex:48: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (34.81732pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 GDA[][] >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 48--48
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (na_bani/Rekwije_dla_mistrza.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12])
-(na_bani/Rekwije_dla_baru.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\T1/lmr/m/n/6 a F B C
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\T1/lmr/m/n/6 =======
+ []
+
+
+Overfull \hbox (101.97708pt too wide) in paragraph at lines 66--66
+\T1/lmr/m/n/6 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (na_bani/Rekwije_dla_baru.tex
 na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
 
 na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1081,21 +1496,49 @@ na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmr/m/n/8 D gis
+ []
+
+
+Overfull \hbox (20.88728pt too wide) in paragraph at lines 76--76
+\T1/lmr/m/n/8 Gis$[] \OT1/lmr/m/n/8 =======
+ []
+
 na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+na_bani/Rekwije_dla_baru.tex:76: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/lmr/m/n/8 D gis
+ []
+
+
+Overfull \hbox (20.88878pt too wide) in paragraph at lines 76--76
+\T1/lmr/m/n/8 Gis$[] \OML/lmm/m/it/8 >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 76--76
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (na_bani/Rozstanie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+ [13])
 (na_bani/Shantie_dwa_razy.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
 na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1105,6 +1548,86 @@ na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/lmr/m/n/8 HEAD F
+ []
+
+na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/lmr/m/n/8 F
+ []
+
+
+Overfull \hbox (25.3122pt too wide) in paragraph at lines 98--98
+\T1/lmr/m/n/8 B$[]\OML/lmm/m/it/8 C[] \OT1/lmr/m/n/8 =======
+ []
+
+na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1156,10 +1679,46 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Shantie_dwa_razy.tex:98: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/lmr/m/n/8 F
+ []
+
+
+Overfull \hbox (25.31369pt too wide) in paragraph at lines 98--98
+\T1/lmr/m/n/8 B$[]\OML/lmm/m/it/8 C[] >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 98--98
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (na_bani/Slub.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [14]
+na_bani/Slub.tex:58: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Slub.tex:58: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/lmr/m/n/8 HEAD A
+ []
 
 na_bani/Slub.tex:58: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1177,6 +1736,11 @@ na_bani/Slub.tex:58: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Overfull \hbox (29.2461pt too wide) in paragraph at lines 58--58
+\OML/lmm/m/it/8 aFDG \OT1/lmr/m/n/8 =======
+ []
+
 na_bani/Slub.tex:58: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1184,13 +1748,34 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Slub.tex:58: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+na_bani/Slub.tex:58: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Slub.tex:58: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.24759pt too wide) in paragraph at lines 58--58
+\OML/lmm/m/it/8 aFDG >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 58--58
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (na_bani/Sponad_kufla.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]\T1/lmr/m/n/8 <<<<<<<
  []
 
 
@@ -1241,27 +1826,118 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T1/lmr/m/n/8 C D e
+ []
+
+
+Overfull \hbox (14.36916pt too wide) in paragraph at lines 61--61
+\T1/lmr/m/n/8 (E)=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T1/lmr/m/n/8 C D e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T1/lmr/m/n/8 (E)>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 61--61
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
  []
 
 ) (na_bani/Stare_anioly.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(na_bani/Stary_mlyn.tex) (na_bani/Stodoly.tex
+ [15])
+(na_bani/Stary_mlyn.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15])
-(na_bani/Swiat_bez_tla.tex) (na_bani/W_kolorze_sepii.tex)
+)
+(na_bani/Stodoly.tex) (na_bani/Swiat_bez_tla.tex) (na_bani/W_kolorze_sepii.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16])
 (na_bani/W_miedzyczasie.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--17
 
  []
 
-) (na_bani/W_noc.tex
+) (na_bani/W_noc.tex) (na_bani/Wakacje_z_duchami.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(na_bani/Wakacje_z_duchami.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
 na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1349,21 +2025,137 @@ Overfull \hbox (0.8846pt too wide) in paragraph at lines 83--83
  []
 
 
-Overfull \hbox (1.8065pt too wide) in paragraph at lines 83--83
-\OML/lmm/m/it/8 cisH[]A[]GE$ 
+Overfull \hbox (50.4446pt too wide) in paragraph at lines 83--83
+\OML/lmm/m/it/8 cisH[]A[]GE \OT1/lmr/m/n/8 =======
+ []
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Wakacje_z_duchami.tex:83: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Wakacje_z_duchami.tex:83: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Wakacje_z_duchami.tex:83: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Wakacje_z_duchami.tex:83: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+
+ []
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Wakacje_z_duchami.tex:83: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (0.8846pt too wide) in paragraph at lines 83--83
+\OML/lmm/m/it/8 EFisgisAH[] 
+ []
+
+
+Overfull \hbox (50.44609pt too wide) in paragraph at lines 83--83
+\OML/lmm/m/it/8 cisH[]A[]GE >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 83--83
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
  []
 
 ) (na_bani/We_snie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (75.07872pt too high) has occurred while \output is active []
+
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
 ) (na_bani/Wedrujemy.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+na_bani/Wedrujemy.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+na_bani/Wedrujemy.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
 
 na_bani/Wedrujemy.tex:63: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1380,20 +2172,91 @@ you left one out. Proceed, with fingers crossed.
 na_bani/Wedrujemy.tex:63: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 C G a
+ []
+
+
+Overfull \hbox (7.52182pt too wide) in paragraph at lines 63--63
+\T1/lmr/m/n/8 F=======
+ []
+
+na_bani/Wedrujemy.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Wedrujemy.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 C G a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 F>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 63--63
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
 
 ) (na_bani/Wiatr.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17])
-(na_bani/Wracanie.tex) (na_bani/Wyprzedaz_lata.tex
+)
+(na_bani/Wracanie.tex
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 E fis A
+ []
+
+
+Overfull \hbox (8.34433pt too wide) in paragraph at lines 63--63
+\T1/lmr/m/n/8 H=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 E fis A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T1/lmr/m/n/8 H>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 63--63
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (na_bani/Wyprzedaz_lata.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19])
+(na_bani/Z_kotwica.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(na_bani/Z_kotwica.tex) (na_bani/Zanim_elegia.tex
+(na_bani/Zanim_elegia.tex) (na_bani/Zmeczony.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18])
-(na_bani/Zmeczony.tex) (na_bani/Zyczenia.tex
+ [20])
+(na_bani/Zyczenia.tex
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
 na_bani/Zyczenia.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1427,95 +2290,1450 @@ na_bani/Zyczenia.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-))
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+Overfull \hbox (28.59361pt too wide) in paragraph at lines 64--64
+\OML/lmm/m/it/8 hAGA \OT1/lmr/m/n/8 =======
+ []
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Zyczenia.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Zyczenia.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Zyczenia.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+na_bani/Zyczenia.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.59511pt too wide) in paragraph at lines 64--64
+\OML/lmm/m/it/8 hAGA >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 64--64
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+)) [21
+
+]
 \openout2 = `Bez_zobowiazan/bez_zobowiazan.aux'.
 
-
-(Bez_zobowiazan/bez_zobowiazan.tex [20
+ (Bez_zobowiazan/bez_zobowiazan.tex [22
 
 
 
 ]
 Rozdzia\l  2.
-(bez_zobowiazan/Barwy_zimy.tex) (bez_zobowiazan/Chatka.tex)
-(bez_zobowiazan/Cos.tex) (bez_zobowiazan/Czekaj_mnie.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(bez_zobowiazan/Barwy_zimy.tex) (bez_zobowiazan/Chatka.tex
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-)
-(bez_zobowiazan/Dama_kier.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- [21])
-(bez_zobowiazan/Droga_przez_las.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(bez_zobowiazan/Idzie_idzi.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \hbox (badness 10000) in paragraph at lines 26--30
-
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/lmr/m/n/8 <<<<<<<
  []
 
-) (bez_zobowiazan/Kocham_Cie_zimo.tex) (bez_zobowiazan/Landrowerowa.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/lmr/m/n/8 HEAD A
+ []
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.17296pt too wide) in paragraph at lines 49--49
+\OML/lmm/m/it/8 fisEA \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Chatka.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (29.17445pt too wide) in paragraph at lines 49--49
+\OML/lmm/m/it/8 fisEA >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 49--49
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Cos.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(bez_zobowiazan/Miasteczko.tex) (bez_zobowiazan/Pasoralka_z_krolami.tex
+
+bez_zobowiazan/Cos.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Cos.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Overfull \hbox (39.68794pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/8 F[]C[]GD \OT1/lmr/m/n/8 =======
+ []
+
+
+Overfull \hbox (39.68944pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/8 F[]C[]GD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 34--34
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Czekaj_mnie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23])
-(bez_zobowiazan/Przetlumacz.tex
+(bez_zobowiazan/Dama_kier.tex
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+\T1/lmr/m/n/8 HEAD C
+ []
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/lmr/m/n/8 F G C
+ []
+
+
+Overfull \hbox (19.36646pt too wide) in paragraph at lines 69--69
+\T1/lmr/m/n/8 (a$[]\OT1/lmr/m/n/8 ) =======
+ []
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Dama_kier.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/lmr/m/n/8 F G C
+ []
+
+
+Overfull \hbox (19.36795pt too wide) in paragraph at lines 69--69
+\T1/lmr/m/n/8 (a$[]\OT1/lmr/m/n/8 ) \OML/lmm/m/it/8 >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 69--69
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Droga_przez_las.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(bez_zobowiazan/Przytul_mnie.tex) (bez_zobowiazan/Punkty_na_mapie.tex
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/lmr/m/n/8 HEAD
+ []
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (15.11195pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 h[]AGADC[]GA$ 
+ []
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (15.11195pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 h[]AGADC[]GA[] 
+ []
+
+
+Overfull \hbox (37.72139pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 FCGAD \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (15.11195pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 h[]AGADC[]GA$ 
+ []
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Droga_przez_las.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (15.11195pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 h[]AGADC[]GA[] 
+ []
+
+
+Overfull \hbox (37.72289pt too wide) in paragraph at lines 65--65
+\OML/lmm/m/it/8 FCGAD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 65--65
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Idzie_idzi.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24])
-(bez_zobowiazan/Roze_na_tapecie.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [24]
+bez_zobowiazan/Idzie_idzi.tex:3: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-)
-(bez_zobowiazan/Szalasolot.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+bez_zobowiazan/Idzie_idzi.tex:4: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- [25])
-(bez_zobowiazan/Uwielbiam_przelecze.tex) (bez_zobowiazan/W_gorach.tex)
-(bez_zobowiazan/W_marcu.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-)
-(bez_zobowiazan/Zawrocic.tex) (bez_zobowiazan/Zima.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- [26])
-(bez_zobowiazan/Zlockie.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--7
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 
  []
 
-)) [27
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.4813pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 ACDe \OT1/lmr/m/n/8 =======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+ []
+
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Idzie_idzi.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.48279pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 ACDe >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 48--48
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Kocham_Cie_zimo.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--9
+
+ []
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (29.41513pt too wide) in paragraph at lines 34--34
+\T1/lmr/m/n/7 E$[]\OML/lmm/m/it/7 C[][]H[][]\OMS/lmsy/m/n/7 j\OML/lmm/m/it/7 x\
+OT1/lmr/m/n/7 3\OML/lmm/m/it/7 E[]H[]$ 
+ []
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Extra }, or forgotten $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 34.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (9.53166pt too wide) in paragraph at lines 34--34
+[]\T1/lmr/m/n/7 EA$[]\OML/lmm/m/it/7 C[][]H[][]E[] 
+ []
+
+
+Overfull \hbox (42.9179pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 C[][]H[][]EA[]C[][]H[][]E[] 
+ []
+
+
+Overfull \hbox (20.03558pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 C[][]H[][]AC[][]E[][] 
+ []
+
+
+Overfull \hbox (43.14102pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 A[][][]D[]E[] \OT1/lmr/m/n/7 =======
+ []
+
+
+Overfull \hbox (30.2957pt too wide) in paragraph at lines 34--34
+[]$ 
+ []
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Extra }, or forgotten $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (9.53166pt too wide) in paragraph at lines 34--34
+[]\T1/lmr/m/n/7 EA$[]\OML/lmm/m/it/7 C[][]H[][]E[] 
+ []
+
+
+Overfull \hbox (42.9179pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 C[][]H[][]EA[]C[][]H[][]E[] 
+ []
+
+
+Overfull \hbox (20.03558pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 C[][]H[][]AC[][]E[][] 
+ []
+
+
+Overfull \hbox (43.91818pt too wide) in paragraph at lines 34--34
+\OML/lmm/m/it/7 A[][][]D[]E[] >>>>>>>
+ []
+
+
+Overfull \hbox (112.34557pt too wide) in paragraph at lines 34--34
+\OT1/lmr/m/n/7 754\OML/lmm/m/it/7 b\OT1/lmr/m/n/7 0\OML/lmm/m/it/7 b\OT1/lmr/m/
+n/7 806\OML/lmm/m/it/7 b\OT1/lmr/m/n/7 42\OML/lmm/m/it/7 b\OT1/lmr/m/n/7 15\OML
+/lmm/m/it/7 cae\OT1/lmr/m/n/7 8150\OML/lmm/m/it/7 ca\OT1/lmr/m/n/7 18004925\OML
+/lmm/m/it/7 c\OT1/lmr/m/n/7 387616\OML/lmm/m/it/7 e$ 
+ []
+
+bez_zobowiazan/Kocham_Cie_zimo.tex:34: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) (bez_zobowiazan/Landrowerowa.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\T1/lmr/m/n/8 HEAD
+ []
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.47058pt too wide) in paragraph at lines 32--32
+\OML/lmm/m/it/8 A[]H \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Landrowerowa.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.47208pt too wide) in paragraph at lines 32--32
+\OML/lmm/m/it/8 A[]H >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 32--32
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Miasteczko.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.96149pt too wide) in paragraph at lines 69--69
+\OML/lmm/m/it/8 C[]GD \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Miasteczko.tex:69: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.96298pt too wide) in paragraph at lines 69--69
+\OML/lmm/m/it/8 C[]GD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 69--69
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Pasoralka_z_krolami.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Przetlumacz.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26])
+(bez_zobowiazan/Przytul_mnie.tex) (bez_zobowiazan/Punkty_na_mapie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(bez_zobowiazan/Roze_na_tapecie.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing { inserted
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+\T1/lmr/m/n/8 HEAD
+ []
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing { inserted
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing { inserted
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (228.86806pt too wide) in paragraph at lines 53--53
+\OML/lmm/m/it/8 e[]$ 
+ []
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing { inserted
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Roze_na_tapecie.tex:53: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (164.19112pt too wide) in paragraph at lines 53--53
+\OML/lmm/m/it/8 e[]$ 
+ []
+
+) (bez_zobowiazan/Szalasolot.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (33.49072pt too wide) in paragraph at lines 35--35
+\OML/lmm/m/it/8 eDC[]D \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Szalasolot.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (33.49222pt too wide) in paragraph at lines 35--35
+\OML/lmm/m/it/8 eDC[]D >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 35--35
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Uwielbiam_przelecze.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (1.93587pt too wide) in paragraph at lines 45--45
+\T1/lmr/m/n/8 Da$[]\OML/lmm/m/it/8 GD=CG[] 
+ []
+
+
+Overfull \hbox (2.65646pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 GD=C[]GD=[] 
+ []
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.96149pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]GD \OT1/lmr/m/n/8 =======
+ []
+
+
+Overfull \hbox (2.92128pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 Da[]GD=CG[] 
+ []
+
+
+Overfull \hbox (2.65646pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 GD=C[]GD=[] 
+ []
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Uwielbiam_przelecze.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.96298pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]GD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 45--45
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/W_gorach.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.548pt too wide) in paragraph at lines 29--29
+\OML/lmm/m/it/8 D \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/W_gorach.tex:29: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.5495pt too wide) in paragraph at lines 29--29
+\OML/lmm/m/it/8 D >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 29--29
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/W_marcu.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\T1/lmr/m/n/8 C
+ []
+
+
+Overfull \hbox (8.64532pt too wide) in paragraph at lines 77--77
+\T1/lmr/m/n/8 G=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\T1/lmr/m/n/8 C G>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 77--77
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (bez_zobowiazan/Zawrocic.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30])
+(bez_zobowiazan/Zima.tex
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/lmr/m/n/8 HEAD E
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (8.12253pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]DEA[]EA[]$ 
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (18.65594pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 A[]C[]DEA[]EA[]$ 
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (56.76062pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]DEA[]EA[] \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (8.12253pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]DEA[]EA[]$ 
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (18.65594pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 A[]C[]DEA[]EA[]$ 
+ []
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zima.tex:45: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (56.76212pt too wide) in paragraph at lines 45--45
+\OML/lmm/m/it/8 C[]DEA[]EA[] >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 45--45
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (bez_zobowiazan/Zlockie.tex
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmr/m/n/8 HEAD
+ []
+
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (24.53818pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 GAD \OT1/lmr/m/n/8 =======
+ []
+
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+bez_zobowiazan/Zlockie.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (24.53967pt too wide) in paragraph at lines 48--48
+\OML/lmm/m/it/8 GAD >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 48--48
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32
 
 ]
 \openout2 = `Cz_tulipan/czerwony_tulipan.aux'.
 
- (Cz_tulipan/czerwony_tulipan.tex [28
-
-
-
-]
+ (Cz_tulipan/czerwony_tulipan.tex
 Rozdzia\l  3.
-) [29
+) [33
+
+
+
 
 ]
 \openout2 = `SCOB/SCOB.aux'.
 
- (SCOB/SCOB.tex [30
+ (SCOB/SCOB.tex [34
 
 
 
@@ -1530,6 +3748,29 @@ SCOB/Blues_rybaka.tex:40: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Overfull \hbox (10.96188pt too wide) in paragraph at lines 40--40
+\OML/lmm/m/it/8 G \OT1/lmr/m/n/8 =======
+ []
+
+
+Overfull \hbox (10.96338pt too wide) in paragraph at lines 40--40
+\OML/lmm/m/it/8 G >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 40--40
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
 ) (SCOB/Czekam_na_wiatr.tex
 SCOB/Czekam_na_wiatr.tex:25: Extra }, or forgotten \endgroup
 I've deleted a group-closing symbol because it seems to be
@@ -1538,12 +3779,36 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) (SCOB/Czemu_ja.tex) (SCOB/Jezioro.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Overfull \hbox (2.2288pt too wide) in paragraph at lines 46--46
+\T1/lmr/m/n/7 e=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/lmr/m/n/7 e>>>>>>>
+ []
+
+
+Overfull \hbox (114.71017pt too wide) in paragraph at lines 46--46
+\T1/lmr/m/n/7 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (SCOB/Czemu_ja.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+)
+(SCOB/Jezioro.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [35]
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
-
+[]\T1/lmr/m/n/8 <<<<<<<
  []
 
 
@@ -1564,6 +3829,56 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--41
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T1/lmr/m/n/8 D
+ []
+
+
+Overfull \hbox (8.64532pt too wide) in paragraph at lines 41--41
+\T1/lmr/m/n/8 G=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+\T1/lmr/m/n/8 D G>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 41--41
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
  []
 
 ) (SCOB/Lato.tex
@@ -1587,6 +3902,49 @@ SCOB/Lato.tex:57: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+SCOB/Lato.tex:57: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Lato.tex:57: Misplaced alignment tab character &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+SCOB/Lato.tex:57: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Lato.tex:57: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Lato.tex:57: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Lato.tex:57: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Lato.tex:57: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (14.4261pt too wide) in paragraph at lines 57--57
+\OML/lmm/m/it/8 C=CG[]=Ha[]=A[] 
+ []
+
+
+Overfull \hbox (17.52168pt too wide) in paragraph at lines 57--57
+\OML/lmm/m/it/8 FC \OT1/lmr/m/n/8 =======
+ []
+
 SCOB/Lato.tex:57: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1608,19 +3966,57 @@ Overfull \hbox (14.4261pt too wide) in paragraph at lines 57--57
 \OML/lmm/m/it/8 C=CG[]=Ha[]=A[] 
  []
 
+
+Overfull \hbox (17.52318pt too wide) in paragraph at lines 57--57
+\OML/lmm/m/it/8 FC >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 57--57
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
 ) (SCOB/Lemkowyna.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31])
+)
 (SCOB/Miasto.tex
 Underfull \hbox (badness 10000) in paragraph at lines 15--19
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (26.23172pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 FCGC=======
+ []
+
+
+Overfull \hbox (0.73277pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 FCGC>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (SCOB/Miasto_ktorego.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+ [36])
 (SCOB/Miedzy_1_7.tex
 SCOB/Miedzy_1_7.tex:65: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1630,6 +4026,11 @@ SCOB/Miedzy_1_7.tex:65: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
 SCOB/Miedzy_1_7.tex:65: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1637,30 +4038,51 @@ you left one out. Proceed, with fingers crossed.
 SCOB/Miedzy_1_7.tex:65: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/lmr/m/n/8 H
+ []
+
+
+Overfull \hbox (21.56665pt too wide) in paragraph at lines 65--65
+\T1/lmr/m/n/8 D(D)=======
+ []
+
+SCOB/Miedzy_1_7.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Miedzy_1_7.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/lmr/m/n/8 H
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+\T1/lmr/m/n/8 D(D)>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 65--65
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
 
 ) (SCOB/Nad_rzeka.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
-SCOB/Nad_rzeka.tex:64: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-SCOB/Nad_rzeka.tex:64: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:64: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:64: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:64: Double superscript
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-SCOB/Nad_rzeka.tex:64: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
 SCOB/Nad_rzeka.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1678,6 +4100,88 @@ I treat `x^1^2' essentially like `x^1{}^2'.
 SCOB/Nad_rzeka.tex:64: Double superscript
 I treat `x^1^2' essentially like `x^1{}^2'.
 
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (26.78403pt too wide) in paragraph at lines 64--64
+\T1/lmr/m/n/8 F$[][]\OML/lmm/m/it/8 G \OT1/lmr/m/n/8 =======
+ []
+
+SCOB/Nad_rzeka.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
+SCOB/Nad_rzeka.tex:64: Double superscript
+I treat `x^1^2' essentially like `x^1{}^2'.
+
 SCOB/Nad_rzeka.tex:64: Double superscript
 I treat `x^1^2' essentially like `x^1{}^2'.
 
@@ -1701,16 +4205,57 @@ I treat `x^1^2' essentially like `x^1{}^2'.
 SCOB/Nad_rzeka.tex:64: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (26.78552pt too wide) in paragraph at lines 64--64
+\T1/lmr/m/n/8 F$[][]\OML/lmm/m/it/8 G >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 64--64
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (SCOB/Najsmutniejsza.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [37]
 Underfull \hbox (badness 10000) in paragraph at lines 3--12
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (27.63222pt too wide) in paragraph at lines 49--49
+\T1/lmr/m/n/8 AGAD=======
+ []
+
+
+Overfull \hbox (2.13327pt too wide) in paragraph at lines 49--49
+\T1/lmr/m/n/8 AGAD>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 49--49
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (SCOB/Niebieskooki_sen.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
@@ -1723,6 +4268,24 @@ SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (24.79483pt too wide) in paragraph at lines 36--36
+\OML/lmm/m/it/8 CDG \OT1/lmr/m/n/8 =======
+ []
+
 SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1731,43 +4294,78 @@ SCOB/Niebieskooki_sen.tex:36: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-) (SCOB/Nowa.tex
+
+Overfull \hbox (24.79633pt too wide) in paragraph at lines 36--36
+\OML/lmm/m/it/8 CDG >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 36--36
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
+
+) (SCOB/Nowa.tex) (SCOB/ogien_i_dym.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33])
-(SCOB/ogien_i_dym.tex) (SCOB/Panska.tex
+ [38]
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (21.86766pt too wide) in paragraph at lines 51--51
+\T1/lmr/m/n/8 aadG=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/lmr/m/n/8 aadG>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 51--51
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+) (SCOB/Panska.tex) (SCOB/Turystyczna_I.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-(SCOB/Turystyczna_I.tex
+
 Underfull \hbox (badness 10000) in paragraph at lines 10--14
 
  []
 
 ) (SCOB/Turystyczna_II.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
 Underfull \hbox (badness 10000) in paragraph at lines 26--31
 
  []
 
-) (SCOB/Powroty.tex) (SCOB/Raz_do_roku.tex
+) (SCOB/Powroty.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [39])
+(SCOB/Raz_do_roku.tex
 Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
-) (SCOB/Rownolegle.tex) (SCOB/Rozmowa.tex
+) (SCOB/Rownolegle.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35])
-(SCOB/Sluchajac_Kellusa.tex) (SCOB/Smierc_i_dziewczyna.tex
+)
+(SCOB/Rozmowa.tex) (SCOB/Sluchajac_Kellusa.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [40])
+(SCOB/Smierc_i_dziewczyna.tex
 SCOB/Smierc_i_dziewczyna.tex:51: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1778,10 +4376,65 @@ you left one out. Proceed, with fingers crossed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
  []
 
+SCOB/Smierc_i_dziewczyna.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Smierc_i_dziewczyna.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 51--51
+\T1/lmr/m/n/7 eh da e e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/lmr/m/n/7 =======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/lmr/m/n/7 eh da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/lmr/m/n/7 e e >>>>>>>
+ []
+
+
+Overfull \hbox (114.71017pt too wide) in paragraph at lines 51--51
+\T1/lmr/m/n/7 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (SCOB/Smutek.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\T1/lmr/m/n/8 HEAD
+ []
+
 SCOB/Smutek.tex:59: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1789,13 +4442,44 @@ you left one out. Proceed, with fingers crossed.
 SCOB/Smutek.tex:59: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.548pt too wide) in paragraph at lines 59--59
+\OML/lmm/m/it/8 D \OT1/lmr/m/n/8 =======
+ []
+
+SCOB/Smutek.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Smutek.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.5495pt too wide) in paragraph at lines 59--59
+\OML/lmm/m/it/8 D >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 59--59
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (SCOB/Spadajaca_gwiazda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
+ [41]
 Underfull \hbox (badness 10000) in paragraph at lines 33--41
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]\T1/lmr/m/n/8 <<<<<<<
  []
 
 SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
@@ -1805,6 +4489,32 @@ you left one out. Proceed, with fingers crossed.
 SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.33807pt too wide) in paragraph at lines 72--72
+\OML/lmm/m/it/8 CD[] \OT1/lmr/m/n/8 =======
+ []
+
+SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Spadajaca_gwiazda.tex:72: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (22.33957pt too wide) in paragraph at lines 72--72
+\OML/lmm/m/it/8 CD[] >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 72--72
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (SCOB/Sroda.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1817,10 +4527,30 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <7> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Overfull \hbox (8.8752pt too wide) in paragraph at lines 75--75
+\T1/lmr/m/n/7 FA=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\T1/lmr/m/n/7 FA>>>>>>>
+ []
+
+
+Overfull \hbox (114.71017pt too wide) in paragraph at lines 75--75
+\T1/lmr/m/n/7 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ) (SCOB/Takie_zycie.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
+ [42]
 SCOB/Takie_zycie.tex:51: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1828,6 +4558,11 @@ you left one out. Proceed, with fingers crossed.
 SCOB/Takie_zycie.tex:51: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
 
 SCOB/Takie_zycie.tex:51: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
@@ -1868,6 +4603,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
 
+ []
+
+
+Overfull \hbox (15.71466pt too wide) in paragraph at lines 51--51
+\OML/lmm/m/it/8 D[] \OT1/lmr/m/n/8 =======
+ []
+
+SCOB/Takie_zycie.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Takie_zycie.tex:51: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+
+ []
+
+
+Overfull \hbox (15.71616pt too wide) in paragraph at lines 51--51
+\OML/lmm/m/it/8 D[] >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 51--51
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
  []
 
 ) (SCOB/U_Maleho.tex
@@ -1875,15 +4669,52 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (SCOB/W_barze_swiat.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
 Underfull \hbox (badness 1107) in paragraph at lines 26--30
 \T1/lmr/m/n/8 W chmu-rze go-ª¦bi, bez cie-nia stra-chu, na tamt¡
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 48--48
+\T1/lmr/m/n/8 HEAD DG
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmr/m/n/8 A
+ []
+
+
+Overfull \hbox (8.64532pt too wide) in paragraph at lines 48--48
+\T1/lmr/m/n/8 G=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\T1/lmr/m/n/8 A G>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 48--48
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
  []
 
 ) (SCOB/Wiem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38])
+)
 (SCOB/Zburzenie_baru.tex
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
 SCOB/Zburzenie_baru.tex:73: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1891,37 +4722,87 @@ you left one out. Proceed, with fingers crossed.
 SCOB/Zburzenie_baru.tex:73: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (10.70523pt too wide) in paragraph at lines 73--73
+\OML/lmm/m/it/8 A \OT1/lmr/m/n/8 =======
+ []
+
+SCOB/Zburzenie_baru.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+SCOB/Zburzenie_baru.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (10.70673pt too wide) in paragraph at lines 73--73
+\OML/lmm/m/it/8 A >>>>>>>
+ []
+
+
+Overfull \hbox (121.45564pt too wide) in paragraph at lines 73--73
+\OT1/lmr/m/n/8 754\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 0\OML/lmm/m/it/8 b\OT1/lmr/m/
+n/8 806\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 42\OML/lmm/m/it/8 b\OT1/lmr/m/n/8 15\OML
+/lmm/m/it/8 cae\OT1/lmr/m/n/8 8150\OML/lmm/m/it/8 ca\OT1/lmr/m/n/8 18004925\OML
+/lmm/m/it/8 c\OT1/lmr/m/n/8 387616\OML/lmm/m/it/8 e$ 
+ []
 
 ) (SCOB/Zostawiam_wam.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)) [39]
+ [44]
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 HEAD
+ []
+
+
+Overfull \hbox (19.67783pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 BCF=======
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+\T1/lmr/m/n/8 BCF>>>>>>>
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 37--37
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
+))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
 \openout2 = `Siudmy/Siudma_gora.aux'.
 
 
-(Siudmy/Siudma_gora.tex [40
+(Siudmy/Siudma_gora.tex [46
 
 
 
 ]
 Rozdzia\l  5.
 (Siudmy/Bez_zmruzenia.tex) (Siudmy/Daleko_do_gwiazd.tex)
-(Siudmy/Jak_oddycham.tex
+(Siudmy/Jak_oddycham.tex) (Siudmy/Jedyne.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-(Siudmy/Jedyne.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41])
 (Siudmy/Jesienna.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+ [47])
 (Siudmy/Pies.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
+
 Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
@@ -1929,25 +4810,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 ) (Siudmy/Pogoda.tex) (Siudmy/Swiat_nie_calkiem.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [48]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]\T1/lmr/m/n/8 <<<<<<<
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\T1/lmr/m/n/8 G a
+ []
+
+
+Overfull \hbox (8.64532pt too wide) in paragraph at lines 83--83
+\T1/lmr/m/n/8 G=======
+ []
+
+
+Overfull \hbox (125.22972pt too wide) in paragraph at lines 83--83
+\T1/lmr/m/n/8 754b0b806b42b15cae8150ca18004925c387616e 
+ []
+
 ))
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
-[44
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49]
+Overfull \vbox (74.54675pt too high) has occurred while \output is active []
+
+
+[50
 
 ]
 \openout2 = `WGB/WGB.aux'.
 
  (WGB/WGB.tex
 Rozdzia\l  6.
-) [45
+) [51
 
 
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
  (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\main.aux
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\na_bani/na_bani.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Bez_zobowiazan/bez_zobo
@@ -1957,50 +4864,56 @@ ipan.aux) (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\SCOB/SCOB.aux
 )
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\Siudmy/Siudma_gora.aux)
 (C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\auxil\WGB/WGB.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 428F52B1A00E0859032E1688A16EC3AC;7456.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 13923 strings out of 492976
- 246635 string characters out of 3123650
- 333166 words of memory out of 3000000
- 16985 multiletter control sequences out of 15000+200000
- 88877 words of font info for 56 fonts, out of 3000000 for 9000
+ 8904 strings out of 492976
+ 140924 string characters out of 3123650
+ 259108 words of memory out of 3000000
+ 12044 multiletter control sequences out of 15000+200000
+ 93141 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,43p,917b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,11n,43p,917b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/l
 m-mathsy.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
 /dvips/lm/lm-mathit.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.
 9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/bartosz.rydz/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/bartosz.rydz/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/bartosz.rydz/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/bartosz.r
-ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx8.pfb><C:/Users
-/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.p
-fb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-lm/lmmi6.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/lm/lmmi7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/lm/lmmi8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Users/bartosz.rydz/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/bartosz.rydz/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/bartosz.r
-ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/
-bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri7.pfb>
-<C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
-lmro8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/lm/lmsy7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/lm/lmsy8.pfb>
+KTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc} <C:\Users\bartosz.rydz\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk><C:/Users/bartosz.rydz/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/bar
+tosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C
+:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+bx8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmcsc10.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmmi5.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Users/bartosz.rydz/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Users/bartosz.rydz/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Users/bartosz.r
+ydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Users/
+bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><
+C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
+mr7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmr8.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmri7.pfb><C:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Users/bartosz.rydz/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/lm/lmro8.pfb><C:/Users/bartosz.rydz/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Users/bartosz.rydz
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Users/ba
+rtosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb><C
+:/Users/bartosz.rydz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+sy8.pfb>
 Output written on C:/Users\bartosz.rydz\IdeaProjects\spiewnik\main\out\main.pdf
- (45 pages, 489891 bytes).
+ (53 pages, 551655 bytes).
 PDF statistics:
- 895 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
+ 972 PDF objects out of 1000 (max. 8388607)
+ 172 named destinations out of 1000 (max. 500000)
  953 words of extra memory for PDF output out of 10000 (max. 10000000)
 
