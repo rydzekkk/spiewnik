@@ -2,103 +2,15 @@
 %% Author: bartosz.rydz
 %% 10.05.2018
 %%
-
 % Preamble
 \documentclass[8pt,twocolumn]{extbook}
 
-% Packages
-\usepackage{a4wide}
-\usepackage{extsizes}               %smaller default font
-\usepackage{geometry}   %margins [margin=1.5cm,footskip=0.25in,headheight=34.5pt]
-\usepackage[utf8]{inputenc}         %font
-\usepackage[T1]{fontenc}            %font
-\usepackage{polski}                 %font
-\usepackage[polish]{babel}          %font
-\usepackage{comment}                %block comment
-\usepackage{parskip}                %spaces between paragraphs
-\usepackage{multicol}               %twocolumn ToC
-\usepackage{titlesec, color}        %redefine chapter
-\usepackage{lmodern}                %styleset titles
-\usepackage{fancyhdr}               %redefine chapter
-\usepackage[hidelinks]{hyperref}    %hyperlinks in ToC
-%\usepackage{pgffor}                 %WTF?
-\usepackage{tagging} %<-----Tags! Documentation:
-%http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
-%\usepackage{makeidx}
-%\usepackage[defaultlines=4,all]{nowidow}
-\usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
-\usepackage{verse}                  %\vin
-\usepackage{environ}                %\body as a macro for /ifchorded
-
-%pagesize
-\geometry{
-left=1.5cm,
-right=1.5cm,
-top=2cm,
-bottom=1.5cm,
-heightrounded,
-raggedbottom,
-}
-
-%commands
-\newcommand{\tytul}[3]{
-\section[#1]{#1\\
-%Zespół #3\\
-\small{\normalfont \textit{#2}}
-}
-}
-%
-\newenvironment{text}{
-\begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
-\parskip 9pt
-}{
-\end{minipage}%\hfill
-}
-%
-\NewEnviron{chord}{
-\begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
-\parskip 9pt
-\ifchorded
-\BODY
-\else
-    \vfill\null
-\fi
-\end{minipage}
-}
-%\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
-
-%styles
-\definecolor{gray75}{gray}{0.75}
-\newcommand{\hsp}{\hspace{20pt}}
-\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
-\titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
-\parindent=0pt
-\parskip 9pt
-%
-\hbadness=99999     %supress underfull hbox warning
-\vbadness=99999     %supress underfull vbox warning
-
-%head and foot
-\pagestyle{fancy}
-%\headheight{14pt}
-\renewcommand{\chaptermark}[1]{%
-\markboth{#1}{}
-}
-%
+% Package
+\usepackage{spiewanki}
 
 % Document
 \begin{document}
-    \begin{titlepage}
-        \begin{center}
-        \line(1,0){300}\\
-        [0.5cm]
-        \textsc{\huge{\bfseries Śpiewnik}}\\
-        \textsc{\large krakowskich śpiewanek okołogórskich}\\
-        [0.3cm]
-        \line(1,0){300}\\
-        \end{center}
-        \clearpage
-    \end{titlepage}
+    \input{titlepage}
     \onecolumn
     \begin{multicols*}{2}
     \tableofcontents
