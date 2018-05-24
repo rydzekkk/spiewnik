@@ -1,16 +1,18 @@
-Hej ho :)
+Hej ho :)\\
 Czysto teoretycznie, do dodawania piosenek nie potrzeba nic prócz edytora tekstowego, wystarczy trzymać się schematu z pliku main\template.tex i dodawać każdą piosenkę w osobnym pliku.
 Struktura na tą chwilę jest oparta na zespołach, więc jeżeli chcemy dodać zespół którego nie ma, tworzymy folder o możliwie krótkiej nazwie, używając _ zamiast spacji.
 W folderze tworzymy plik master.tex o strukturze:
-\chapter{Nazwa zespołu}
+
+\chapter{Nazwa zespołu}\\
 \input{ścieżka_do_pliku}
+
 Podstawowa struktura zakłada alfabetyczną kolejność piosenek.
 Cała struktura śpiewnika znajduje się w pliku main.tex, jego nie tykamy wcale. Jedyną potencjalną potrzebą będzie dodanie nowego mastera.
 
 Założeniem projektu jest stworzenie bazy tekstów, którą potencjalnie wykorzystać może każdy wg własnych potrzeb, tworząc swoją własną wersję pliku master.tex, czy to modyfikując style czy samą zawartość śpiewnika.
 Dopisywanie piosenek jest proste i nie trzeba znać się tutaj na żadnym programowaniu. Z przetworzeniem dodanych rzeczy już jest trochę więcej zabawy.
 
-Składanie śpiewnika:
+Składanie śpiewnika:\\
 potrzebujemy co najmniej instalacji LaTeXa, którego można pobrać tu: https://www.latex-project.org/get/
 Pod Windowsem ja korzystam z MiKTeX i najlepiej będzie się w tym względzie unifikować, różne implementacje mogą mieć swoje smaczki.
 Instalacja sprowadza sie do klikania "dalej" :)
