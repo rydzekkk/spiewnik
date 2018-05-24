@@ -5,7 +5,7 @@ Struktura na tą chwilę jest oparta na zespołach, więc jeżeli chcemy dodać 
 W folderze tworzymy plik master.tex o strukturze:
 
 \chapter{Nazwa zespołu}
-\input{ścieżka_do_pliku}
+    \input{ścieżka_do_pliku}
 
 Podstawowa struktura zakłada alfabetyczną kolejność piosenek.
 Cała struktura śpiewnika znajduje się w pliku main.tex, jego nie tykamy wcale. Jedyną potencjalną potrzebą będzie dodanie nowego mastera.
@@ -14,6 +14,11 @@ Założeniem projektu jest stworzenie bazy tekstów, którą potencjalnie wykorz
 Dopisywanie piosenek jest proste i nie trzeba znać się tutaj na żadnym programowaniu. Z przetworzeniem dodanych rzeczy już jest trochę więcej zabawy.
 
 # Składanie śpiewnika:
+Najprościej używać edytora z prawdziwego zdarzenia (nie notatnika :) ) do tworzenia projektu, zdecydowanie ułatwia to pracę. Ja korzystam z InteliJ IDEA, natomiast jest to kwestią preferencji.
+Pełna instrukcja instalacji krok po kroku od samego początku znajduje się tutaj:
+https://github.com/Ruben-Sten/TeXiFy-IDEA#installation-instructions
+Idąc za tymi instrukcjami będziecie już gotowi do pracy nad projektem :)
+
 potrzebujemy co najmniej instalacji LaTeXa, którego można pobrać tu: https://www.latex-project.org/get/
 Pod Windowsem ja korzystam z MiKTeX i najlepiej będzie się w tym względzie unifikować, różne implementacje mogą mieć swoje smaczki.
 Instalacja sprowadza sie do klikania "dalej" :)
@@ -23,10 +28,6 @@ Rzecz jasna najpierw trzeba ten projekt gdzieś na dysk zassać :)
 
 Do współtworzenia projektu potrzebny nam będzie git, dostępny do pobrania tu: https://git-scm.com/downloads
 konto na GitHubie i zgłoszenie się do mnie z prośbą o współtworzenie.
-
-Najprościej używać edytora z prawdziwego zdarzenia (nie notatnika :) ) do tworzenia projektu, zdecydowanie ułatwia to pracę. Ja korzystam z InteliJ IDEA, natomiast jest to kwestią preferencji.
-Pełna instrukcja instalacji krok po kroku od samego początku znajduje się tutaj:
-https://github.com/Ruben-Sten/TeXiFy-IDEA#installation-instructions
 
 Poczytajcie też trochę o gicie, podczas rejestracji na githubie wyskoczy Wam instrukcja z podstawowymi informacjami, które w zupełności tutaj wystarczą.
 Wielka prośba o przemyślenie 2 razy, czy na pewno chcecie pushować do mastera. Najlepiej robić to jednak do jakiegoś brancha ;)
