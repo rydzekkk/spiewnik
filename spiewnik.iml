@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/main/auxil" />
       <excludeFolder url="file://$MODULE_DIR$/main/out" />
     </content>
+    <content url="file://$MODULE_DIR$/out" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
