@@ -3,10 +3,16 @@
 %% 02.07.2018
 %%
 % Preamble
-\tytul{}{}{Wolna Grupa Bukowina}
-\begin{text}
+\documentclass[10pt]{extbook}
 
-\end{text}
-\begin{chord}
+% Package
+\usepackage{chwyty}
 
-\end{chord}
+% Document
+\begin{document}
+    \input{titlepage}
+        \tableofcontents
+    \thispagestyle{empty}
+    \cleardoublepage
+    \input{main.tex}
+\end{document}

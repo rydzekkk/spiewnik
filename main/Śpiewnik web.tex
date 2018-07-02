@@ -3,10 +3,20 @@
 %% 02.07.2018
 %%
 % Preamble
-\tytul{}{}{Wolna Grupa Bukowina}
-\begin{text}
+\documentclass[10pt]{extbook}
+\makeatletter
+\renewcommand{\@dotsep}{10000}
+\makeatother
 
-\end{text}
-\begin{chord}
+% Package
+\usepackage{druk}
 
-\end{chord}
+% Document
+\begin{document}
+    \input{titlepage}
+    \renewcommand{\cftdot}{}
+        \tableofcontents
+    \thispagestyle{empty}
+    \cleardoublepage
+    \input{main.tex}
+\end{document}
