@@ -1,0 +1,97 @@
+%%
+%% PACKAGE_NAME package
+%% Author: rydze
+%% %02.07.2018
+%%
+
+%%
+%% Author: bartosz.rydz
+%% %24.05.2018
+%%
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{druk}
+
+% Packages
+\usepackage{a4wide}
+\usepackage{extsizes}               %smaller default font
+\usepackage{geometry}               %margins
+\usepackage[utf8]{inputenc}         %font
+\usepackage[T1]{fontenc}            %font
+\usepackage{polski}                 %font
+\usepackage[polish]{babel}          %font
+\usepackage{comment}                %block comment
+\usepackage{parskip}                %spaces between paragraphs
+\usepackage{multicol}               %twocolumn ToC
+\usepackage{titlesec, color}        %redefine chapter
+\usepackage{lmodern}                %styleset titles
+\usepackage{fancyhdr}               %redefine chapter
+\usepackage[hidelinks]{hyperref}    %hyperlinks in ToC
+%\usepackage{pgffor}                 %WTF?
+\usepackage{tagging} %<-----Tags! Documentation:
+%http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
+%\usepackage{makeidx}
+%\usepackage[defaultlines=4,all]{nowidow}
+\usepackage[lyric]{songs}         %[lyric/chorded,/,slides/rawtext]
+\usepackage{verse}                  %\vin
+\usepackage{environ}                %\body as a macro for /ifchorded
+
+%pagesize
+\geometry{
+left=1.5cm,
+right=1.5cm,
+top=2cm,
+bottom=1.5cm,
+heightrounded,
+}
+
+%commands
+\setcounter{secnumdepth}{0}         %turn off section numbering
+\newcommand{\tytul}[3]{
+\section[#1]{#1\\
+%Zespół #3\\
+\small{\normalfont \textit{#2}}
+}
+}
+%
+\newenvironment{text}{
+\begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
+\parskip 9pt
+}{
+\end{minipage}%\hfill
+}
+%
+\NewEnviron{chord}{
+\begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
+\parskip 9pt
+\ifchorded
+\BODY
+\else
+\vfill\null
+\fi
+\end{minipage}
+}
+%\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
+
+%styles
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+\titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
+\parindent=0pt
+\parskip 9pt
+%
+\hbadness=99999     %supress underfull hbox warning
+\vbadness=99999     %supress underfull vbox warning
+
+%head and foot
+\pagestyle{fancy}
+%\headheight{14pt}
+\renewcommand{\chaptermark}[1]{%
+\markboth{#1}{}
+}
+%
+
+
+
+
