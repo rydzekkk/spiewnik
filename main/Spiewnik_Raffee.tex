@@ -3,7 +3,7 @@
 %% 02.07.2018
 %%
 % Preamble
-\documentclass[11pt]{extbook}
+\documentclass[a4paper,12pt,twoside,onecolumn]{extbook}
 
 % Package
 \usepackage{chwyty}
@@ -11,9 +11,12 @@
 % Document
 \begin{document}
     \input{titlepage}
-    \onecolumn
-    \tableofcontents
+    
+    \input{raffee_main.tex}
+
+	\begin{multicols*}{2}
+	\tableofcontents
+	\end{multicols*}
     \thispagestyle{empty}
     \cleardoublepage
-    \input{raffee_main.tex}
 \end{document}
