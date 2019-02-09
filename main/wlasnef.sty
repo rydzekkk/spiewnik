@@ -1,0 +1,87 @@
+%%
+%% CLASS_NAME document class
+%% Author: Rydz
+%% 09.02.2019
+%%
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{wlasnef}
+%commands
+\setcounter{secnumdepth}{0}         %turn off section numbering
+\newcommand{\tytul}[3]{
+\section[#1]{#1\\
+%Zespół #3\\
+\small{\normalfont \textit{#2}}
+}
+}
+%
+\newenvironment{text}{
+\begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
+\parskip 9pt
+}{
+\end{minipage}%\hfill
+}
+\newenvironment{textn}{
+\begin{minipage}[t]{\dimexpr.69\columnwidth-.5\columnsep}
+\parskip 9pt
+}{
+\end{minipage}%\hfill
+}
+%
+\NewEnviron{chord}{
+\begin{minipage}[t]{\dimexpr.19\columnwidth-.5\columnsep}
+\parskip 9pt
+\ifchorded
+\BODY
+\else
+\vfill\null
+\fi
+\end{minipage}
+}
+\NewEnviron{chordw}{
+\begin{minipage}[t]{\dimexpr.29\columnwidth-.5\columnsep}
+\parskip 9pt
+\ifchorded
+\BODY
+\else
+\vfill\null
+\fi
+\end{minipage}
+}
+
+%zgodność między jedno a dwukolumnowym układem
+\newif\ifOneCol
+\newcommand{\OneColVin}{\ifOneCol \vin \else \fi}
+
+\NewEnviron{smallTwo}{
+    \ifOneCol
+        \BODY
+    \else
+        \small{
+        \BODY
+        }
+    \fi
+}
+
+\NewEnviron{tinyTwo}{
+        \ifOneCol
+            \BODY
+        \else
+            \tiny{
+            \BODY
+            }
+        \fi
+}
+
+\NewEnviron{footTwo}{
+    \ifOneCol
+        \BODY
+    \else
+        \footnotesize{
+        \BODY
+        }
+    \fi
+}
+%TODO \newenviron z parametrami zmiennych szerokości kolumn
+
+%\newcommand{\strofa}{\par\if@firstcolumn\else \par \nopagebreak \fi\par\smallskip}
