@@ -2,6 +2,7 @@
 {sł. Wiesława Kwinto-Koczan, muz. Michał Łangowski}
 {Cisza jak ta}
 \begin{text}
+%    \ifOneCol \else \footnotesize{ \fi
 \hfill\break
 \hfill\break
 \hfill\break
@@ -25,6 +26,7 @@ sercu krwi upuszczę chętnie.\\
 Niech już bólu się pozbędzie,\\
 albo lepiej niech już pęknie.
 
+\ifOneCol \else \hfill\break \fi
 \hfill\break
 \hfill\break
 \hfill\break
@@ -40,11 +42,13 @@ albo lepiej niech już pęknie.\\
 niech już pęknie\\
 niech już pęknie\\
 niech już pęknie
+%\ifOneCol \else } \fi
 \end{text}
 \begin{chord}
-Fmaj9 (003010)\\
-e11 (005030)\\
-a2 (007500)\\
+%\ifOneCol \else \footnotesize{ \fi
+Fmaj9\\
+e11\\
+a2\\
 Fmaj9 e11\\
 a2 Fmaj9\\
 Fmaj9 e11\\
@@ -65,7 +69,7 @@ a F\\
 F G\\
 a F\\
 F G a F\\
-Fmaj9 e11 / a2 Fmaj9
+Fmaj9 e11/a2 Fmaj9
 
 F G\\
 a F\\
@@ -79,4 +83,9 @@ a F\\
 F\\
 G\\
 a
+
+\gtab{Fmaj9}{003010}\\
+\gtab{e11}{005030}\\
+\gtab{a2}{3:004200}
+%\ifOneCol \else } \fi
 \end{chord}
