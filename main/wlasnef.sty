@@ -8,12 +8,20 @@
 \ProvidesPackage{wlasnef}
 %commands
 \setcounter{secnumdepth}{0}         %turn off section numbering
+
+
+% hyperlink in \section to toc
+% Add a link target to the TOC itself
+\addtocontents{toc}{\protect\hypertarget{toc}{}}
+
+%
 \newcommand{\tytul}[3]{
-\section[#1]{#1\\
+\section[#1]{\hyperlink{toc}{#1}\\
 %Zespół #3\\
 \small{\normalfont \textit{#2}}
 }
 }
+
 %
 \newenvironment{text}{
 \begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
@@ -49,7 +57,7 @@
 \end{minipage}
 }
 
-%zgodność między jedno a dwukolumnowym układem
+%compatibility between one- and twocolumn design
 \newif\ifOneCol
 \newcommand{\OneColVin}{\ifOneCol \vin \else \fi}
 
