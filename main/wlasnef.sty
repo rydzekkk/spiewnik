@@ -61,34 +61,34 @@
 \newif\ifOneCol
 \newcommand{\OneColVin}{\ifOneCol \vin \else \fi}
 
-\NewEnviron{smallTwo}{
-    \ifOneCol
-        \BODY
-    \else
-        \small{
-        \BODY
-        }
-    \fi
+\NewEnviron{smallTwo}{%
+    \ifOneCol%
+        \BODY%
+    \else%
+        \small{%
+        \BODY%
+        }%
+    \fi%
 }
 
-\NewEnviron{tinyTwo}{
-        \ifOneCol
-            \BODY
-        \else
-            \tiny{
-            \BODY
-            }
-        \fi
+\NewEnviron{tinyTwo}{%
+        \ifOneCol%
+            \BODY%
+        \else%
+            \tiny{%
+            \BODY%
+            }%
+        \fi%
 }
 
-\NewEnviron{footTwo}{
-    \ifOneCol
-        \BODY
-    \else
-        \footnotesize{
-        \BODY
-        }
-    \fi
+\NewEnviron{footTwo}{%
+    \ifOneCol%
+        \BODY%
+    \else%
+        \footnotesize{%
+        \BODY%
+        }%
+    \fi%
 }
 %TODO \newenviron z parametrami zmiennych szerokości kolumn
 
