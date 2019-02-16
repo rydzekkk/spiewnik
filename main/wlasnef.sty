@@ -15,10 +15,11 @@
 \addtocontents{toc}{\protect\hypertarget{toc}{}}
 
 %
+\newif\ifZespol
 \newcommand{\tytul}[3]{
-\section[#1]{\hyperlink{toc}{#1}\\
-%Zespół #3\\
-\small{\normalfont \textit{#2}}
+\section[#1]{\hyperlink{toc}{#1\\
+\ifZespol\small{\normalfont \textit{\textbf{#3}}}\\\else\fi
+\small{\normalfont \textit{#2}}}
 }
 }
 
