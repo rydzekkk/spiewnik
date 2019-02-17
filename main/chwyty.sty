@@ -30,6 +30,7 @@
 \usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
 \usepackage{verse}                  %\vin
 \usepackage{environ}                %\body as a macro for /ifchorded
+\usepackage[defaultlines=4,all]{nowidow}
 
 %custom commands
 \usepackage{wlasnef}
@@ -47,6 +48,7 @@ heightrounded,
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}[\titlerule]
 \titlespacing{\section}{0cm}{0.7cm}{0.2cm}[0pt]
 \parindent=0pt
 \parskip 9pt

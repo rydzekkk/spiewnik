@@ -17,12 +17,10 @@
 %
 \newif\ifZespol
 \newcommand{\tytul}[3]{
-\section[#1]{\hyperlink{toc}{#1\\
-\ifZespol\small{\normalfont \textit{\textbf{#3}}}\\\else\fi
-\small{\normalfont \textit{#2}}}
+\section[#1]{\hyperlink{toc}{#1}}\\
+\ifZespol\small{\normalfont \textit{\textbf{\hyperlink{toc}{#3}}}}\\\else\fi
+\small{\normalfont \textit{\hyperlink{toc}{#2}}\par\nopagebreak[4]}
 }
-}
-
 %
 \newenvironment{text}{
 \begin{minipage}[t]{\dimexpr.79\columnwidth-.5\columnsep}
@@ -65,12 +63,7 @@
 \NewEnviron{smallTwo}{%
     \ifOneCol%
         \BODY%
-    \else%
-        \small{%
-        \BODY%
-        }%
-    \fi%
-}
+    \else\small{\BODY}\fi}
 
 \NewEnviron{tinyTwo}{%
         \ifOneCol%
