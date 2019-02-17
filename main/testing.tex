@@ -1,0 +1,22 @@
+%%
+%% Author: bartek.rydz
+%% 17.02.2019
+%%
+% Preamble
+\documentclass[14pt]{extbook}
+
+% Package
+\usepackage{rydztest}
+
+% Document
+\begin{document}
+    \input{titlepage}
+    \onecolumn
+    \begin{multicols*}{2}
+        \tableofcontents
+    \end{multicols*}
+    \thispagestyle{empty}
+    \cleardoublepage
+    \OneColtrue
+    \input{main_rydz.tex}
+\end{document}
