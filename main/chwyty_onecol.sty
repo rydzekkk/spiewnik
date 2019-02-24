@@ -1,10 +1,15 @@
 %%
+%% PACKAGE_NAME package
+%% Author: Rydz
+%% %24.02.2019
+%%
+%%
 %% Author: bartosz.rydz
 %% %24.05.2018
 %%
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{bezchwyt}
+\ProvidesPackage{chwyty_onecol}
 
 % Packages
 \usepackage{a4wide}
@@ -27,7 +32,7 @@
 %http://piotrkosoft.net/pub/mirrors/CTAN/macros/latex/contrib/tagging/tagging.pdf
 %\usepackage{makeidx}
 %\usepackage[defaultlines=4,all]{nowidow}
-\usepackage[lyric]{songs}         %[lyric/chorded,/,slides/rawtext]
+\usepackage[chorded]{songs}         %[lyric/chorded,/,slides/rawtext]
 \usepackage{verse}                  %\vin
 \usepackage{environ}                %\body as a macro for /ifchorded
 \usepackage[defaultlines=4,all]{nowidow} %no pagebreak after authors
@@ -68,5 +73,7 @@ heightrounded,
 }
 % ToC heading
 %\renewcommand{\contentsname}{Spis treści}
+
+
 
 
