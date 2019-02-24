@@ -17,8 +17,8 @@
 %
 \newif\ifZespol
 \newcommand{\tytul}[3]{%
-\section[#1]{\hyperlink{toc}{#1}}\\%
-\ifZespol\small{\normalfont \textit{\textbf{\hyperlink{toc}{#3}}}}\\\else\fi%
+\section[#1]{\hyperlink{toc}{#1}}%
+\ifZespol\small{\normalfont \textit{\textbf{\hyperlink{toc}{#3}}}\\}\else\fi%
 \small{\normalfont \textit{\hyperlink{toc}{#2}}\par\nopagebreak[4]}%
 }
 %
@@ -45,6 +45,7 @@
 \fi%
 \end{minipage}%
 }
+%
 \NewEnviron{chordw}{%
 \begin{minipage}[t]{\dimexpr.29\columnwidth-.5\columnsep}%
 \parskip 9pt%
@@ -56,33 +57,24 @@
 \end{minipage}%
 }
 
+%
+\newcommand{\chordfill}{\ifchorded\hfill\break\else\fi}
+\newcommand{\chwyty}[1]{\ifchorded#1\else\fi}
+
 %compatibility between one- and twocolumn design
 \newif\ifOneCol
-\newcommand{\OneColVin}{\ifOneCol \vin \else\fi}
-
+\newcommand{\OneColVin}{\ifOneCol\vin \else\fi}
+%
 \NewEnviron{smallTwo}{%
-    \ifOneCol%
-        \BODY%
-    \else\small{\BODY}\fi}
-
-\NewEnviron{tinyTwo}{%
-        \ifOneCol%
-            \BODY%
-        \else%
-            \tiny{%
-            \BODY%
-            }%
-        \fi%
+    \ifOneCol\BODY\else\small{\BODY}\fi%
 }
-
+%
+\NewEnviron{tinyTwo}{%
+        \ifOneCol\BODY\else\tiny{\BODY}\fi%
+}
+%
 \NewEnviron{footTwo}{%
-    \ifOneCol%
-        \BODY%
-    \else%
-        \footnotesize{%
-        \BODY%
-        }%
-    \fi%
+    \ifOneCol\BODY\else\footnotesize{\BODY}\fi%
 }
 %TODO \newenviron z parametrami zmiennych szerokości kolumn
 
