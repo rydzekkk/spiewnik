@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MainMasterGeneratorForSpiewnik2._0
+namespace MainMasterGenerator
 {
     class Program
     {
