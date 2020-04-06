@@ -27,7 +27,7 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
       # Artifact name
-        name: MainMasterGeneratorForSpiewnik2.0
+        name: MainMasterGenerator
       # Directory containing files to upload
         path: /home/runner/work/MainMasterGenerator/MainMasterGenerator/MainMasterGenerator/bin/Release/netcoreapp3.1/MainMasterGenerator.dll
       
