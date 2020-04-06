@@ -28,6 +28,6 @@ jobs:
         name: MainMasterGeneratorForSpiewnik2.0.dll
       # Directory containing files to upload
         path: /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1
-
-    - name: Test
-      run: dotnet test --no-restore --verbosity normal
+        
+    - name: Run dotnet application
+      run: dotnet MainMasterGeneratorForSpiewnik2.0.dll
