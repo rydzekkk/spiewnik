@@ -21,5 +21,13 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+      # Artifact name
+        name: MainMasterGeneratorForSpiewnik2.0.dll
+      # Directory containing files to upload
+        path: /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1
+
     - name: Test
       run: dotnet test --no-restore --verbosity normal
