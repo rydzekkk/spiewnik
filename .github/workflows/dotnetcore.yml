@@ -30,4 +30,5 @@ jobs:
         path: /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1
         
     - name: Run dotnet application
-      run: MainMasterGeneratorForSpiewnik2.0.dll
+      run: dotnet  /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1/MainMasterGeneratorForSpiewnik2.0.dll
+      
