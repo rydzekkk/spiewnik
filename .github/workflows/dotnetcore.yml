@@ -22,12 +22,12 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Run dotnet application
-      run: dotnet  /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1/MainMasterGeneratorForSpiewnik2.0.dll
+      run: dotnet  /home/runner/work/MainMasterGenerator/MainMasterGenerator/MainMasterGenerator/bin/Release/netcoreapp3.1/MainMasterGenerator.dll
     - name: Upload artifact
       uses: actions/upload-artifact@v1.0.0
       with:
       # Artifact name
         name: MainMasterGeneratorForSpiewnik2.0
       # Directory containing files to upload
-        path: /home/runner/work/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/MainMasterGeneratorForSpiewnik2.0/bin/Release/netcoreapp3.1/MainMasterGeneratorForSpiewnik2.0.dll
+        path: /home/runner/work/MainMasterGenerator/MainMasterGenerator/MainMasterGenerator/bin/Release/netcoreapp3.1/MainMasterGenerator.dll
       
