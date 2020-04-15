@@ -4,6 +4,7 @@ namespace SonglistGenerator
 {
     class Program
     {
+        const string latexFileExtension = "*.tex";
         const string chapterMasterFile = "master.tex";
         const string songbookMainFile = "main.tex";
         
@@ -22,7 +23,7 @@ namespace SonglistGenerator
                     continue;
                 }
 
-
+                var listOfLatexFilesInsideFolder = Directory.GetFiles(folder, latexFileExtension);
             }
         }
     }
