@@ -21,13 +21,13 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
-    - name: Run dotnet application
-      run: dotnet  /home/runner/work/SonglistGenerator/SonglistGenerator/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
+    - name: Run SonglistGenerator without parameters
+      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
     - name: Upload artifact
       uses: actions/upload-artifact@v1.0.0
       with:
       # Artifact name
-        name: SonglistGenerator
+        name: SonglistGenerator r${{github.run_number}}
       # Directory containing files to upload
-        path: /home/runner/work/SonglistGenerator/SonglistGenerator/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
+        path: SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
       
