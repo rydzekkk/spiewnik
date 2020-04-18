@@ -266,3 +266,6 @@ TSWLatexianTemp*
 
 # JetBrains editor files
 .idea
+
+# PDF output
+*.pdf
