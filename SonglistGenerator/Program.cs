@@ -8,7 +8,8 @@ namespace SonglistGenerator
         const string latexFileExtension = ".tex";
         const string chapterMasterFile = "master" + latexFileExtension;
         const string songbookMainFile = "main" + latexFileExtension;
-        
+        const string latexFileFilter = "*" + latexFileExtension;
+
         static void Main(string[] args)
         {            
             var logger = new Logger();
@@ -32,23 +33,26 @@ namespace SonglistGenerator
                 logger.WriteLine($"Created new chapter from folder {chapter.FolderName}");
             }
             logger.WriteLine($"Found {chapters.Count} chapters.");
-
-
-            /*
-            var songs = new List<Song>();
-            var latexFilesInsideFolder = Directory.GetFiles(folder, "*" + latexFileExtension);
-            foreach (var latexFile in latexFilesInsideFolder)
+            
+             
+            foreach (var chapter in chapters)
             {
+                var latexFilesInsideChapter = Directory.GetFiles(chapter.Path, latexFileFilter);
 
-                if (Path.GetFileName(latexFile) == chapterMasterFile)
+                foreach (var latexFile in latexFilesInsideChapter)
                 {
-                    // Ignore chapter master file
-                    continue;
+                    if (Path.GetFileName(latexFile) == chapterMasterFile)
+                    {
+                        // Ignore chapter master file
+                        continue;
+                    }
+
+                    var song = new Song(latexFile);
+                    chapter.Songs.Add(song);
                 }
 
-                // handle normal song file
-            }
-            */
+                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName}");
+            }            
         }
     }
 }

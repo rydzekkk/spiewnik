@@ -11,10 +11,7 @@ namespace SonglistGenerator
             this.FolderName = new DirectoryInfo(folder).Name;
         }
 
-        /// <summary>
-        /// Path to folder, which constains all songs and master.tex file.
-        /// </summary>
-        public string Path { get; set ; }
+        public string Path { get; private set; }
 
         /// <summary>
         /// Defines whether \Zespoltrue and \Zespolfalse sections are added to master.tex.
@@ -25,6 +22,6 @@ namespace SonglistGenerator
 
         public string ChapterName { get; }
 
-        public List<Song> Songs { get; }
+        public List<Song> Songs { get; } = new List<Song>();
     }
 }

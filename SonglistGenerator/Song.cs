@@ -5,10 +5,17 @@ namespace SonglistGenerator
     /// <summary>
     /// Representation of each song_title.tex file
     /// </summary>
-    class Song
+    class Song : IDiskLocationRepresentation
     {
+        public Song(string file)
+        {
+            this.Path = file;
+        }
+
+        public string Path { get; private set; }
+
         /// <summary>
-        /// Filename with subfolder if exists, this string is used in master.tex file
+        /// Filename with, this string is used in master.tex file
         /// </summary>
         string FilePath { get; }
 
@@ -28,6 +35,16 @@ namespace SonglistGenerator
         /// Visible if "\Zespoltrue" set in chapter master.tex file, otherwise ignored.
         /// </summary>
         string Artist { get; }
+
+        /// <summary>
+        /// First line of song, to use in alphabetical table of content.
+        /// </summary>
+        string FirstLine { get; }
+
+        /// <summary>
+        /// First line of chorus, to use in alphabetical table of content.
+        /// </summary>
+        string FirstLineOfChorus { get; }
 
         List<string> Text { get; }
 
