@@ -1,18 +1,30 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 
 namespace SonglistGenerator
 {
-    class Chapter
+    class Chapter : IDiskLocationRepresentation
     {
+        public Chapter(string folder)
+        {
+            this.Path = folder;
+            this.FolderName = new DirectoryInfo(folder).Name;
+        }
+
         /// <summary>
-        /// Defines whether \Zespoltrue and \Zespolfalse sections are added to master.tex
+        /// Path to folder, which constains all songs and master.tex file.
         /// </summary>
-        bool UseArtists { get; }
+        public string Path { get; set ; }
 
-        string FolderName { get; }
+        /// <summary>
+        /// Defines whether \Zespoltrue and \Zespolfalse sections are added to master.tex.
+        /// </summary>
+        public bool UseArtists { get; }
 
-        string ChapterName { get; }
+        public string FolderName { get; }
 
-        List<Song> Songs { get; }
+        public string ChapterName { get; }
+
+        public List<Song> Songs { get; }
     }
 }
