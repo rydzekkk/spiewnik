@@ -35,7 +35,7 @@ jobs:
         path: spiewnikRepoSubfolder
     
     - name: Run SonglistGenerator
-      run: dotnet  $GITHUB_WORKSPACE/songlistRepoSubfolder/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll $GITHUB_WORKSPACE/spiewnikRepoSubfolder/main
+      run: dotnet  $GITHUB_WORKSPACE/songlistRepoSubfolder/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll $GITHUB_WORKSPACE/spiewnikRepoSubfolder/main $GITHUB_WORKSPACE/output.zip
     
     - name: Upload SonglistGenerator.dll
       uses: actions/upload-artifact@v1.0.0
@@ -44,4 +44,12 @@ jobs:
         name: SonglistGenerator r${{github.run_number}}
       # Directory containing files to upload
         path: songlistRepoSubfolder/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
+        
+    - name: Upload zip file with new main and master files
+      uses: actions/upload-artifact@v1.0.0
+      with:
+      # Artifact name
+        name: MainMasters r${{github.run_number}}
+      # Directory containing files to upload
+        path: output.zip
       

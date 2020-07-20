@@ -1,58 +1,44 @@
-﻿using System.Collections.Generic;
-using System.IO;
+﻿using System.IO;
 
 namespace SonglistGenerator
 {
     class Program
     {
         const string latexFileExtension = ".tex";
-        const string chapterMasterFile = "master" + latexFileExtension;
-        const string songbookMainFile = "main" + latexFileExtension;
-        const string latexFileFilter = "*" + latexFileExtension;
+        public const string ChapterMasterFile = "master" + latexFileExtension;
+        public const string SongbookMainFile = "main" + latexFileExtension;
+        public const string LatexFileFilter = "*" + latexFileExtension;
 
         static void Main(string[] args)
         {            
             var logger = new Logger();
+            var songlist = new Songlist(logger);
             logger.WriteLine("Hello World!");
 
             var songRepositoryFolder = args[0];
             logger.WriteLine($"Program will generate list of songs from {songRepositoryFolder}");
 
-            var chapters = new List<Chapter>();       
+            var outputPath = args[1];
+            logger.WriteLine($"Zip file with new main and master files would be saved at {outputPath}");
+
             var folders = Directory.GetDirectories(songRepositoryFolder);
             foreach (var folder in folders)
             {
-                if (!File.Exists(Path.Combine(folder, chapterMasterFile)))
+                if (!File.Exists(Path.Combine(folder, ChapterMasterFile)))
                 {
-                    logger.WriteLine($"Folder {folder} does not cotain {chapterMasterFile}, ignoring");
+                    logger.WriteLine($"Folder {folder} does not cotain {ChapterMasterFile}, ignoring");
                     continue;
                 }
 
                 var chapter = new Chapter(folder);
-                chapters.Add(chapter);
-                logger.WriteLine($"Created new chapter from folder {chapter.FolderName}");
+                songlist.Add(chapter);
             }
-            logger.WriteLine($"Found {chapters.Count} chapters.");
-            
-             
-            foreach (var chapter in chapters)
-            {
-                var latexFilesInsideChapter = Directory.GetFiles(chapter.Path, latexFileFilter);
 
-                foreach (var latexFile in latexFilesInsideChapter)
-                {
-                    if (Path.GetFileName(latexFile) == chapterMasterFile)
-                    {
-                        // Ignore chapter master file
-                        continue;
-                    }
+            logger.WriteLine($"Found {songlist.NumberOfChapters} chapters.");
 
-                    var song = new Song(latexFile);
-                    chapter.Songs.Add(song);
-                }
-
-                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName}");
-            }            
+            songlist.CreateListOfSongs();
+            songlist.Initialize();
+            songlist.CreateNewMasterMainFiles(outputPath);
         }
     }
 }
