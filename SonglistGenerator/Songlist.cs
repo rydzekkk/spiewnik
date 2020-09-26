@@ -70,13 +70,13 @@ namespace SonglistGenerator
             return string.Join(Environment.NewLine, listOfChapters);
         }
 
-        internal void CreateNewMasterMainFiles(string outputPath)
+        internal void CreateOutputFile(string songRepositoryFolder, string outputPath)
         {
-            var fileCreator = new MainMasterFileCreator();
-            fileCreator.AddMainFile(this.NewMainFile());
+            var fileCreator = new OutputFileCreator(songRepositoryFolder);
+            fileCreator.ReplaceMainFile(this.NewMainFile());
             foreach (var chapter in this.chapters)
             {
-                fileCreator.AddMasterFile(chapter.FolderName, chapter.NewMasterFile());
+                fileCreator.ReplaceMasterFile(chapter.FolderName, chapter.NewMasterFile());
             }
 
             fileCreator.SaveZipArchive(outputPath);
