@@ -35,7 +35,7 @@ jobs:
       # Artifact name
         name: SonglistGenerator DLL r${{github.run_number}}
       # Directory containing files to upload
-        path: songlistRepoSubfolder/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
+        path: SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
         
     - name: Upload zip file with new main and master files
       uses: actions/upload-artifact@v1.0.0
