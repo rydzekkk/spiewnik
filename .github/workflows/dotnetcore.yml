@@ -33,7 +33,7 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
       # Artifact name
-        name: SonglistGenerator r${{github.run_number}}
+        name: SonglistGenerator DLL r${{github.run_number}}
       # Directory containing files to upload
         path: songlistRepoSubfolder/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
         
@@ -41,7 +41,7 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
       # Artifact name
-        name: MainMasters r${{github.run_number}}
+        name: Songbook v2.0 r${{github.run_number}}
       # Directory containing files to upload
         path: output.zip
       
