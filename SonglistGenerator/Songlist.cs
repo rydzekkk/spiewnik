@@ -40,7 +40,7 @@ namespace SonglistGenerator
                     chapter.Songs.Add(song);
                 }
 
-                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName}");
+                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName} (path: {chapter.Path})");
             }
         }
 
@@ -49,7 +49,7 @@ namespace SonglistGenerator
             foreach (var chapter in chapters)
             {
                 chapter.Initialize();
-                logger.WriteLine($"   Chapter \"{chapter.ChapterName}\" is located in folder \"{chapter.FolderName}\", UseArtists: {chapter.UseArtists}");
+                logger.WriteLine($"   Chapter \"{chapter.ChapterName}\" is located in folder \"{chapter.FolderName}\", UseArtists: {chapter.UseArtists}, contains {chapter.Songs.Count} songs");
                 foreach (var song in chapter.Songs)
                 {
                     song.Initialize();
