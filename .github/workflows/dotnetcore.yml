@@ -27,7 +27,7 @@ jobs:
       run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator.sln --configuration Release --no-restore
       
     - name: Run SonglistGenerator
-      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/output.zip
+      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/Songbook.zip
     
     - name: Upload SonglistGenerator.dll
       uses: actions/upload-artifact@v1.0.0
@@ -43,5 +43,5 @@ jobs:
       # Artifact name
         name: Songbook v2.0 r${{github.run_number}}
       # Directory containing files to upload
-        path: output.zip
+        path: Songbook.zip
       
