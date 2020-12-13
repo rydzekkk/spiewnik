@@ -18,12 +18,12 @@ namespace SonglistGenerator
             var songRepositoryFolder = args[0];
             logger.WriteLine($"Program will generate list of songs from {songRepositoryFolder}");
 
-            var workingCopyOfSongRepository = Path.Combine(Path.GetFileName(Path.GetDirectoryName(songRepositoryFolder)), "workingSongRepo");
-            logger.WriteLine($"It will use copy located in {workingCopyOfSongRepository}");
-            Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(workingCopyOfSongRepository));
-
             var outputPath = args[1];
             logger.WriteLine($"Zip file with full songbook including new main and master files would be saved at {outputPath}");
+
+            var workingCopyOfSongRepository = Path.Combine(Path.GetDirectoryName(outputPath), "!workingSongRepo");
+            logger.WriteLine($"Program will use copy located in {workingCopyOfSongRepository}");
+            Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(workingCopyOfSongRepository));
 
             var folders = Directory.GetDirectories(workingCopyOfSongRepository);
             foreach (var folder in folders)
