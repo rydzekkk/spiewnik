@@ -21,7 +21,11 @@ namespace SonglistGenerator
             var outputPath = args[1];
             logger.WriteLine($"Zip file with full songbook including new main and master files would be saved at {outputPath}");
 
-            var folders = Directory.GetDirectories(songRepositoryFolder);
+            var workingCopyOfSongRepository = Path.Combine(Path.GetDirectoryName(outputPath), "!workingSongRepo");
+            logger.WriteLine($"Program will use copy located in {workingCopyOfSongRepository}");
+            Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(workingCopyOfSongRepository));
+
+            var folders = Directory.GetDirectories(workingCopyOfSongRepository);
             foreach (var folder in folders)
             {
                 if (!File.Exists(Path.Combine(folder, ChapterMasterFile)))
@@ -38,7 +42,7 @@ namespace SonglistGenerator
 
             songlist.CreateListOfSongs();
             songlist.Initialize();
-            songlist.CreateOutputFile(songRepositoryFolder, outputPath);
+            songlist.CreateOutputFile(workingCopyOfSongRepository, outputPath);
         }
     }
 }
