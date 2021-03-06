@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace SonglistGenerator
 {
-    class Songlist
+    public class Songlist
     {
         private List<Chapter> chapters = new List<Chapter>();
         private Logger logger;
