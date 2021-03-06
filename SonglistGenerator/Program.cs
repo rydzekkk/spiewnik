@@ -26,20 +26,7 @@ namespace SonglistGenerator
             Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(workingCopyOfSongRepository));
 
             var folders = Directory.GetDirectories(workingCopyOfSongRepository);
-            foreach (var folder in folders)
-            {
-                if (!File.Exists(Path.Combine(folder, ChapterMasterFile)))
-                {
-                    logger.WriteLine($"Folder {folder} does not cotain {ChapterMasterFile}, ignoring");
-                    continue;
-                }
-
-                var chapter = new Chapter(folder);
-                songlist.Add(chapter);
-            }
-
-            logger.WriteLine($"Found {songlist.NumberOfChapters} chapters.");
-
+            songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
             songlist.Initialize();
             songlist.CreateOutputFile(workingCopyOfSongRepository, outputPath);

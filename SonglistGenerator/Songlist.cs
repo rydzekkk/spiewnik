@@ -15,14 +15,24 @@ namespace SonglistGenerator
             this.logger = logger;
         }
 
-        public int NumberOfChapters => chapters.Count;
-
-        internal void Add(Chapter chapter)
+        public void CreateListOfChapters(string[] folders)
         {
-            chapters.Add(chapter);
+            foreach (var folder in folders)
+            {
+                if (!File.Exists(Path.Combine(folder, Program.ChapterMasterFile)))
+                {
+                    logger.WriteLine($"Folder {folder} does not cotain {Program.ChapterMasterFile}, ignoring");
+                    continue;
+                }
+
+                var chapter = new Chapter(folder);
+                chapters.Add(chapter);
+            }
+
+            logger.WriteLine($"Found {chapters.Count} chapters.");
         }
 
-        internal void CreateListOfSongs()
+        public void CreateListOfSongs()
         {
             foreach (var chapter in chapters)
             {
@@ -44,7 +54,7 @@ namespace SonglistGenerator
             }
         }
 
-        internal void Initialize()
+        public void Initialize()
         {
             foreach (var chapter in chapters)
             {
@@ -58,7 +68,7 @@ namespace SonglistGenerator
             }
         }
 
-        private string NewMainFile()
+        public string NewMainFile()
         {
             var listOfChapters = new List<string>();
             var orderedChapters = chapters.OrderBy(x => x.ChapterName);
@@ -70,7 +80,7 @@ namespace SonglistGenerator
             return string.Join(Environment.NewLine, listOfChapters);
         }
 
-        internal void CreateOutputFile(string songRepositoryFolder, string outputPath)
+        public void CreateOutputFile(string songRepositoryFolder, string outputPath)
         {
             var fileCreator = new OutputFileCreator(songRepositoryFolder);
             fileCreator.ReplaceMainFile(this.NewMainFile());
