@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace SonglistGenerator
 {
-    class Chapter : IDiskLocationRepresentation
+    public class Chapter : IDiskLocationRepresentation
     {
         string masterFileContent;
 

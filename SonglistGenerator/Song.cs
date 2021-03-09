@@ -7,7 +7,7 @@ namespace SonglistGenerator
     /// <summary>
     /// Representation of each song_title.tex file
     /// </summary>
-    class Song : IDiskLocationRepresentation
+    public class Song : IDiskLocationRepresentation
     {
         string[] songFileContent;
 

@@ -10,6 +10,8 @@ namespace SonglistGenerator
         private List<Chapter> chapters = new List<Chapter>();
         private Logger logger;
 
+        public IEnumerable<Chapter> OrderedChapters => this.chapters.OrderBy(x => x.ChapterName);
+
         public Songlist(Logger logger)
         {
             this.logger = logger;
@@ -71,8 +73,7 @@ namespace SonglistGenerator
         public string NewMainFile()
         {
             var listOfChapters = new List<string>();
-            var orderedChapters = chapters.OrderBy(x => x.ChapterName);
-            foreach (var chapter in orderedChapters)
+            foreach (var chapter in this.OrderedChapters)
             {
                 listOfChapters.Add($"\\include{{{chapter.FolderName}/master}}");
             }
