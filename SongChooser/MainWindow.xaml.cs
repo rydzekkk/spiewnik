@@ -33,7 +33,6 @@ namespace SongChooser
             songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
             songlist.Initialize();
-            songlist.ConsolidateChapters();
 
             foreach (var chapter in songlist.Chapters)
             {
