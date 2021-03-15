@@ -52,7 +52,7 @@ namespace SonglistGenerator
                     chapter.Songs.Add(song);
                 }
 
-                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName} (path: {chapter.FilePath})");
+                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FilePath})");
             }
         }
 
