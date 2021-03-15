@@ -17,6 +17,6 @@ namespace SongChooser
         public string Title { get => song.Title; }
         public string Author { get => song.Author; }
         public string Artist { get => song.Artist; }
-        public string Path { get => song.Path; }
+        public string Path { get => song.FilePath; }
     }
 }

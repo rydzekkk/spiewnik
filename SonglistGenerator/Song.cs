@@ -11,15 +11,14 @@ namespace SonglistGenerator
     {
         string[] songFileContent;
 
-        public Song(string filePath, string containingFolder)
+        public Song(string filePath)
         {
-            this.Path = filePath;
-            this.ContainingFolder = containingFolder;
+            this.FilePath = filePath;
         }
 
         public void Initialize()
         {
-            this.songFileContent = File.ReadAllLines(this.Path);
+            this.songFileContent = File.ReadAllLines(this.FilePath);
 
             var titleLine = this.songFileContent.Single(x => x.StartsWith("\\tytul"));
 
@@ -39,11 +38,11 @@ namespace SonglistGenerator
             this.Artist = splitTitleLine[2].Value;
         }
 
-        public string Path { get; private set; }
+        public string FilePath { get; private set; }
 
-        public string ContainingFolder { get; private set; }
+        public string ContainingFolder => new DirectoryInfo(this.FilePath).Name;
 
-        public string FileName => System.IO.Path.GetFileName(this.Path);
+        public string FileName => Path.GetFileName(this.FilePath);
 
         /// <summary>
         /// Song title, first {} in \tytul section.

@@ -38,7 +38,7 @@ namespace SonglistGenerator
         {
             foreach (var chapter in chapters)
             {
-                var latexFilesInsideChapter = Directory.GetFiles(chapter.Path, Program.LatexFileFilter);
+                var latexFilesInsideChapter = Directory.GetFiles(chapter.FilePath, Program.LatexFileFilter);
 
                 foreach (var latexFilePath in latexFilesInsideChapter)
                 {
@@ -48,11 +48,11 @@ namespace SonglistGenerator
                         continue;
                     }
 
-                    var song = new Song(latexFilePath, chapter.FolderName);
+                    var song = new Song(latexFilePath);
                     chapter.Songs.Add(song);
                 }
 
-                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName} (path: {chapter.Path})");
+                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName} (path: {chapter.FilePath})");
             }
         }
 

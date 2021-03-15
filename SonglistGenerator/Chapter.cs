@@ -12,18 +12,18 @@ namespace SonglistGenerator
 
         public Chapter(string folder)
         {
-            this.Path = folder;            
+            this.FilePath = folder;            
         }
 
         public void Initialize()
         {            
-            this.masterFileContent = File.ReadAllText(System.IO.Path.Combine(this.Path, Program.ChapterMasterFile));
+            this.masterFileContent = File.ReadAllText(System.IO.Path.Combine(this.FilePath, Program.ChapterMasterFile));
             this.UseArtists = masterFileContent.Contains("\\Zespoltrue") && masterFileContent.Contains("\\Zespolfalse");
-            this.FolderName = new DirectoryInfo(this.Path).Name;
+            this.FolderName = new DirectoryInfo(this.FilePath).Name;
             this.ChapterName = Regex.Match(masterFileContent, @"(?<=\\chapter{).*?(?=})").Value;
         }
 
-        public string Path { get; private set; }
+        public string FilePath { get; private set; }
 
         /// <summary>
         /// Defines whether \Zespoltrue and \Zespolfalse sections are added to master.tex.
