@@ -11,9 +11,10 @@ namespace SonglistGenerator
     {
         string[] songFileContent;
 
-        public Song(string filePath)
+        public Song(string filePath, string containingFolder)
         {
             this.Path = filePath;
+            this.ContainingFolder = containingFolder;
         }
 
         public void Initialize()
@@ -22,7 +23,7 @@ namespace SonglistGenerator
 
             var titleLine = this.songFileContent.Single(x => x.StartsWith("\\tytul"));
 
-            if (titleLine.Count(x => (x =='{')) != 3)
+            if (titleLine.Count(x => (x == '{')) != 3)
             {
                 // Title section is split into separate lines
                 var mergedContent = string.Join("", this.songFileContent);
@@ -39,6 +40,10 @@ namespace SonglistGenerator
         }
 
         public string Path { get; private set; }
+
+        public string ContainingFolder { get; private set; }
+
+        public string FileName => System.IO.Path.GetFileName(this.Path);
 
         /// <summary>
         /// Song title, first {} in \tytul section.

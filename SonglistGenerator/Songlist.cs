@@ -48,7 +48,7 @@ namespace SonglistGenerator
                         continue;
                     }
 
-                    var song = new Song(latexFilePath);
+                    var song = new Song(latexFilePath, chapter.FolderName);
                     chapter.Songs.Add(song);
                 }
 
@@ -91,6 +91,17 @@ namespace SonglistGenerator
             }
 
             fileCreator.SaveZipArchive(outputPath);
+        }
+
+        public void ConsolidateChapters()
+        {
+            var newChaptersList = new List<Chapter>();
+            newChaptersList.AddRange(this.chapters.Where(x => x.Songs.Count > 1));
+            var othersChapter = new Chapter(null)
+            {
+                ChapterName = "Pozostałe",
+                UseArtists = true,
+            };
         }
     }
 }

@@ -28,7 +28,7 @@ namespace SonglistGenerator
         /// <summary>
         /// Defines whether \Zespoltrue and \Zespolfalse sections are added to master.tex.
         /// </summary>
-        public bool UseArtists { get; private set; }
+        public bool UseArtists { get; set; }
 
         /// <summary>
         /// Name of subfolder which contains master.tex file.
@@ -38,32 +38,32 @@ namespace SonglistGenerator
         /// <summary>
         /// Name of chapter read from master.tex file.
         /// </summary>
-        public string ChapterName { get; private set; }
+        public string ChapterName { get; set; }
 
         public List<Song> Songs { get; } = new List<Song>();
 
         public string NewMasterFile()
         {
-            var listOfSongs = new List<string>();
-            listOfSongs.Add($"\\chapter{{{this.ChapterName}}}");
+            var fileContent = new List<string>();
+            fileContent.Add($"\\chapter{{{this.ChapterName}}}");
 
             if (this.UseArtists)
             {
-                listOfSongs.Add("\\Zespoltrue");
+                fileContent.Add("\\Zespoltrue");
             }
 
             var orderedSongs = Songs.OrderBy(x => x.Title);
             foreach (var song in orderedSongs)
             {
-                listOfSongs.Add($"\\input{{{this.FolderName}/{System.IO.Path.GetFileName(song.Path)}}}");
+                fileContent.Add($"\\input{{{song.ContainingFolder}/{song.FileName}}}");
             }
 
             if (this.UseArtists)
             {
-                listOfSongs.Add("\\Zespolfalse");
+                fileContent.Add("\\Zespolfalse");
             }
 
-            return string.Join(Environment.NewLine, listOfSongs);
+            return string.Join(Environment.NewLine, fileContent);
         }
     }
 }
