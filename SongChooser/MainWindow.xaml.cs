@@ -33,8 +33,9 @@ namespace SongChooser
             songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
             songlist.Initialize();
+            songlist.ConsolidateChapters();
 
-            foreach (var chapter in songlist.OrderedChapters)
+            foreach (var chapter in songlist.Chapters)
             {
                 foreach (var song in chapter.Songs)
                 {

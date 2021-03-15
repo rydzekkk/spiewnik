@@ -29,6 +29,7 @@ namespace SonglistGenerator
             songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
             songlist.Initialize();
+            songlist.ConsolidateChapters();
             songlist.CreateOutputFile(workingCopyOfSongRepository, outputPath);
         }
     }

@@ -33,7 +33,7 @@ namespace SonglistGenerator
         /// <summary>
         /// Name of subfolder which contains master.tex file.
         /// </summary>
-        public string FolderName { get; private set; }
+        public string FolderName { get; set; }
 
         /// <summary>
         /// Name of chapter read from master.tex file.
