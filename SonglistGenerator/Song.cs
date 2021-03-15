@@ -40,7 +40,7 @@ namespace SonglistGenerator
 
         public string FilePath { get; private set; }
 
-        public string ContainingFolder => new DirectoryInfo(this.FilePath).Name;
+        public string ContainingFolder => Path.GetFileName(Path.GetDirectoryName(this.FilePath));
 
         public string FileName => Path.GetFileName(this.FilePath);
 
