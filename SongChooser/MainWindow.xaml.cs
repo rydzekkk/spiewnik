@@ -26,9 +26,9 @@ namespace SongChooser
             this.displayedSongs = new List<DisplaySong>();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void LoadFolder(object sender, RoutedEventArgs e)
         {
-            this.dataGrid.ItemsSource = null;
+            this.displayedSongs = new List<DisplaySong>();
             var folders = Directory.GetDirectories(folderPath.Text);
             songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
@@ -43,6 +43,26 @@ namespace SongChooser
             }
 
             this.dataGrid.ItemsSource = this.displayedSongs;
+        }
+
+        private void LoadSettings(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void SaveSettings(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void GenerateSongbook(object sender, RoutedEventArgs e)
+        {
+            foreach (var chapter in songlist.Chapters)
+            {
+                chapter.Songs.RemoveAll(x => this.displayedSongs.Exists(y => !y.Print && y.Path == x.FilePath));
+            }
+            songlist.ConsolidateChapters();
+            songlist.CreateOutputFile(folderPath.Text, Path.Combine(folderPath.Text, "output.zip"));
         }
     }
 }
