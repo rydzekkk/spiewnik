@@ -24,10 +24,10 @@ jobs:
       run: dotnet restore $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj
     
     - name: Build
-      run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator.sln --configuration Release --no-restore
+      run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj --configuration Release --no-restore
       
     - name: Run SonglistGenerator
-      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/Songbook.zip
+      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/Songbook.zip
     
     - name: Upload SonglistGenerator.dll
       uses: actions/upload-artifact@v1.0.0
@@ -35,7 +35,7 @@ jobs:
       # Artifact name
         name: SonglistGenerator DLL r${{github.run_number}}
       # Directory containing files to upload
-        path: SonglistGenerator/bin/Release/netcoreapp3.1/SonglistGenerator.dll
+        path: SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll
         
     - name: Upload zip file with new main and master files
       uses: actions/upload-artifact@v1.0.0
