@@ -47,12 +47,24 @@ namespace SongChooser
 
         private void LoadSettings(object sender, RoutedEventArgs e)
         {
-
+            var loadedContent = File.ReadAllLines(Path.Combine(folderPath.Text, "settings.txt"));
+            foreach (var line in loadedContent)
+            {
+                var loadedSong = line.Split(';');
+                var songToUpdate = this.displayedSongs.Find(x => x.Chapter == loadedSong[0] && x.Title == loadedSong[1]);
+                songToUpdate.NewSong = false;
+                songToUpdate.Print = loadedSong[2] == "True";
+            }
         }
 
         private void SaveSettings(object sender, RoutedEventArgs e)
         {
-
+            var saveContent = new List<string>();
+            foreach (var song in this.displayedSongs)
+            {
+                saveContent.Add($"{song.Chapter};{song.Title};{song.Print}");
+            }
+            File.WriteAllLines(Path.Combine(folderPath.Text, "settings.txt"), saveContent);
         }
 
         private void GenerateSongbook(object sender, RoutedEventArgs e)
