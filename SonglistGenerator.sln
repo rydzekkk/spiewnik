@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonglistGenerator", "SonglistGenerator\SonglistGenerator.csproj", "{8D6B2A18-DA51-452E-979B-7BABDDBC43E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongChooser", "SongChooser\SongChooser.csproj", "{57DE5312-DB3F-4477-91AC-D9CD3B3CF025}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongChooser", "SongChooser\SongChooser.csproj", "{57DE5312-DB3F-4477-91AC-D9CD3B3CF025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonglistGeneratorTests", "SonglistGeneratorTests\SonglistGeneratorTests.csproj", "{628A1EDF-DEAF-4E79-940D-1FCCC376C15D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{57DE5312-DB3F-4477-91AC-D9CD3B3CF025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57DE5312-DB3F-4477-91AC-D9CD3B3CF025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57DE5312-DB3F-4477-91AC-D9CD3B3CF025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628A1EDF-DEAF-4E79-940D-1FCCC376C15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628A1EDF-DEAF-4E79-940D-1FCCC376C15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628A1EDF-DEAF-4E79-940D-1FCCC376C15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628A1EDF-DEAF-4E79-940D-1FCCC376C15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

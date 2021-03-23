@@ -111,5 +111,22 @@ namespace SonglistGenerator
             newChaptersList.Add(othersChapter);
             this.Chapters = newChaptersList;
         }
+
+        public void WrapCarets()
+        {
+            var songFiles = new List<string>();
+            var listsOfSongs = this.Chapters.Select(x => x.Songs);
+            foreach (var list in listsOfSongs)
+            {
+                songFiles.AddRange(list.Select(x => x.FilePath));
+            }
+
+            foreach (var file in songFiles)
+            {
+                var content = File.ReadAllText(file);
+                content = CaretsWrapper.WrapCarets(content);
+                File.WriteAllText(file, content);
+            }
+        }
     }
 }
