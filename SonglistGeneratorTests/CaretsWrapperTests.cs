@@ -7,7 +7,7 @@ namespace SonglistGeneratorTests
     {
         [Theory]
         [ClassData(typeof(CaretsWrapperTestData))]
-        public void CaretsWrapper_ShouldWrapAllCaretsInSongs(string input, string expectedOutput)
+        public void CaretsWrapper_ShouldWrapAllCaretsInSongs(string _, string input, string expectedOutput)
         {
             // act
             var result = CaretsWrapper.WrapCarets(input);
