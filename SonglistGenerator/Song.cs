@@ -7,22 +7,22 @@ namespace SonglistGenerator
     /// <summary>
     /// Representation of each song_title.tex file
     /// </summary>
-    class Song : IDiskLocationRepresentation
+    public class Song : IDiskLocationRepresentation
     {
         string[] songFileContent;
 
         public Song(string filePath)
         {
-            this.Path = filePath;
+            this.FilePath = filePath;
         }
 
         public void Initialize()
         {
-            this.songFileContent = File.ReadAllLines(this.Path);
+            this.songFileContent = File.ReadAllLines(this.FilePath);
 
             var titleLine = this.songFileContent.Single(x => x.StartsWith("\\tytul"));
 
-            if (titleLine.Count(x => (x =='{')) != 3)
+            if (titleLine.Count(x => (x == '{')) != 3)
             {
                 // Title section is split into separate lines
                 var mergedContent = string.Join("", this.songFileContent);
@@ -38,7 +38,11 @@ namespace SonglistGenerator
             this.Artist = splitTitleLine[2].Value;
         }
 
-        public string Path { get; private set; }
+        public string FilePath { get; private set; }
+
+        public string ContainingFolder => Path.GetFileName(Path.GetDirectoryName(this.FilePath));
+
+        public string FileName => Path.GetFileName(this.FilePath);
 
         /// <summary>
         /// Song title, first {} in \tytul section.

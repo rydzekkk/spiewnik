@@ -7,8 +7,9 @@ namespace SonglistGenerator
 {
     public class Songlist
     {
-        private List<Chapter> chapters = new List<Chapter>();
         private Logger logger;
+
+        public IEnumerable<Chapter> Chapters { get; private set; }
 
         public Songlist(Logger logger)
         {
@@ -17,6 +18,7 @@ namespace SonglistGenerator
 
         public void CreateListOfChapters(string[] folders)
         {
+            var chapters = new List<Chapter>();
             foreach (var folder in folders)
             {
                 if (!File.Exists(Path.Combine(folder, Program.ChapterMasterFile)))
@@ -29,14 +31,15 @@ namespace SonglistGenerator
                 chapters.Add(chapter);
             }
 
+            this.Chapters = chapters.OrderBy(x => x.ChapterName);
             logger.WriteLine($"Found {chapters.Count} chapters.");
         }
 
         public void CreateListOfSongs()
         {
-            foreach (var chapter in chapters)
+            foreach (var chapter in this.Chapters)
             {
-                var latexFilesInsideChapter = Directory.GetFiles(chapter.Path, Program.LatexFileFilter);
+                var latexFilesInsideChapter = Directory.GetFiles(chapter.FilePath, Program.LatexFileFilter);
 
                 foreach (var latexFilePath in latexFilesInsideChapter)
                 {
@@ -50,13 +53,13 @@ namespace SonglistGenerator
                     chapter.Songs.Add(song);
                 }
 
-                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FolderName} (path: {chapter.Path})");
+                logger.WriteLine($"Found {chapter.Songs.Count} songs in chapter {chapter.FilePath})");
             }
         }
 
         public void Initialize()
         {
-            foreach (var chapter in chapters)
+            foreach (var chapter in this.Chapters)
             {
                 chapter.Initialize();
                 logger.WriteLine($"   Chapter \"{chapter.ChapterName}\" is located in folder \"{chapter.FolderName}\", UseArtists: {chapter.UseArtists}, contains {chapter.Songs.Count} songs");
@@ -71,10 +74,10 @@ namespace SonglistGenerator
         public string NewMainFile()
         {
             var listOfChapters = new List<string>();
-            var orderedChapters = chapters.OrderBy(x => x.ChapterName);
-            foreach (var chapter in orderedChapters)
+            foreach (var chapter in this.Chapters)
             {
-                listOfChapters.Add($"\\include{{{chapter.FolderName}/master}}");
+                var masterFile = chapter.FolderName != string.Empty ? $"{chapter.FolderName}/master" : "master";
+                listOfChapters.Add($"\\include{{{masterFile}}}");
             }
 
             return string.Join(Environment.NewLine, listOfChapters);
@@ -84,12 +87,46 @@ namespace SonglistGenerator
         {
             var fileCreator = new OutputFileCreator(songRepositoryFolder);
             fileCreator.ReplaceMainFile(this.NewMainFile());
-            foreach (var chapter in this.chapters)
+            foreach (var chapter in this.Chapters)
             {
                 fileCreator.ReplaceMasterFile(chapter.FolderName, chapter.NewMasterFile());
             }
 
             fileCreator.SaveZipArchive(outputPath);
+        }
+
+        public void ConsolidateChapters()
+        {
+            var newChaptersList = new List<Chapter>();
+            newChaptersList.AddRange(this.Chapters.Where(x => x.Songs.Count > 1));
+            var othersChapter = new Chapter(null)
+            {
+                ChapterName = "Pozostałe",
+                UseArtists = true,
+                FolderName = string.Empty,
+            };
+            var songsToOthersChapter = new List<Song>();
+            var singleSongs = this.Chapters.Where(x => x.Songs.Count == 1).Select(x => x.Songs.Single()).OrderBy(x=>x.Title);
+            othersChapter.Songs.AddRange(singleSongs);
+            newChaptersList.Add(othersChapter);
+            this.Chapters = newChaptersList;
+        }
+
+        public void WrapCarets()
+        {
+            var songFiles = new List<string>();
+            var listsOfSongs = this.Chapters.Select(x => x.Songs);
+            foreach (var list in listsOfSongs)
+            {
+                songFiles.AddRange(list.Select(x => x.FilePath));
+            }
+
+            foreach (var file in songFiles)
+            {
+                var content = File.ReadAllText(file);
+                content = CaretsWrapper.WrapCarets(content);
+                File.WriteAllText(file, content);
+            }
         }
     }
 }
