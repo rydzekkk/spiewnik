@@ -18,7 +18,7 @@ Mamy bazę piosenek odziedziczonych po Krakowie, mamy też automatyczny generato
 - SongChooser: program w C# .NET Core WPF, który daje możliwość wyboru piosenek do umieszczenia w śpiewniku. Graficzna nakładka na SonglistGenerator, dodatkowo konsolidująca rozdziały (jeśli w rozdziale jest mniej piosenek niż X, zostaną one umieszczone w zbiorczym rozdziale na końcu śpiewnika). Raczej proof of concept, który jako tako działa, jednak nie jest idiotoodporny i trzeba by go stworzyć porządnie od nowa ;)
 
 # Dodawanie nowych piosenek
-Czysto teoretycznie, do dodawania piosenek nie potrzeba nic prócz edytora tekstowego, wystarczy trzymać się schematu z pliku main\template.tex i dodawać każdą piosenkę w osobnym pliku.
+Czysto teoretycznie, do dodawania piosenek nie potrzeba nic prócz edytora tekstowego, wystarczy trzymać się schematu z pliku main\template.tex i dodawać każdą piosenkę w osobnym pliku. Najlepszym sposobem na poznanie struktury pliku z piosenką jest otwarcie kilku losowo wybranych, oraz porównanie ich z wygenerowanym PDFem.
 Struktura śpiewnika jest oparta na zespołach, więc jeżeli chcemy dodać zespół którego nie ma, tworzymy folder o możliwie krótkiej nazwie, używając _ zamiast spacji.
 W folderze tworzymy plik master.tex o zawartości:
 
@@ -29,7 +29,7 @@ Poza plikiem master.tex, w folderze zespołu mogą znaleźć się tylko pliki .t
 Założeniem projektu jest stworzenie bazy tekstów, którą potencjalnie wykorzystać może każdy wg własnych potrzeb, tworząc swoją własną wersję pliku master.tex, czy to modyfikując style czy samą zawartość śpiewnika.
 Dopisywanie piosenek jest proste i nie trzeba znać się tutaj na żadnym programowaniu. Z przetworzeniem dodanych rzeczy już jest trochę więcej zabawy.
 
-# Składanie śpiewnika:
+# Składanie śpiewnika
 Najprościej używać edytora z prawdziwego zdarzenia (nie notatnika :) ) do tworzenia projektu, zdecydowanie ułatwia to pracę. Ja korzystam z InteliJ IDEA, natomiast jest to kwestią preferencji.
 Pełna instrukcja instalacji krok po kroku od samego początku znajduje się tutaj:
 https://github.com/Ruben-Sten/TeXiFy-IDEA#installation-instructions
