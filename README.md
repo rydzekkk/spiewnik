@@ -15,6 +15,7 @@ Mamy bazę piosenek odziedziczonych po Krakowie, mamy też automatyczny generato
 - .github: folder zawierający githubowy workflow, który utworzy nam paczkę ZIP ze śpiewnikiem.
 - SonglistGenerator: program w C# .NET Core, który na podstawie plików master.tex z nazwami zespołów oraz poszczególnymi piosenkami, tworzy nowe pliki master.tex z alfabetycznie posortowaną listą piosenek każdego zespołu, oraz plik main.tex z listą wszystkich zespołów. Wynik jego działania jest dostępny w artefaktach każdego builda, to z nich należy kompilować śpiewnik.
 - main: folder z ręcznie tworzonymi latexowymi plikami, z których należy zbudować śpiewnik. Pierwotnie bezpośrednio z niego tworzyło się śpiewnik, teraz jest to tylko katalog źródłowy do którego wrzucamy teksty piosenek - sam śpiewnik budowany jest z artefaktów builda (dostępne na githubie w zakłdace Actions).
+- SongChooser: program w C# .NET Core WPF, który daje możliwość wyboru piosenek do umieszczenia w śpiewniku. Graficzna nakładka na SonglistGenerator, dodatkowo konsolidująca rozdziały (jeśli w rozdziale jest mniej piosenek niż X, zostaną one umieszczone w zbiorczym rozdziale na końcu śpiewnika). Raczej proof of concept, który jako tako działa, jednak nie jest idiotoodporny i trzeba by go stworzyć porządnie od nowa ;)
 
 # Dodawanie nowych piosenek
 Czysto teoretycznie, do dodawania piosenek nie potrzeba nic prócz edytora tekstowego, wystarczy trzymać się schematu z pliku main\template.tex i dodawać każdą piosenkę w osobnym pliku.
