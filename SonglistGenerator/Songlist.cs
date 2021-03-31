@@ -95,10 +95,10 @@ namespace SonglistGenerator
             fileCreator.SaveZipArchive(outputPath);
         }
 
-        public void ConsolidateChapters()
+        public void ConsolidateChapters(int sizeToConsolidate)
         {
             var newChaptersList = new List<Chapter>();
-            newChaptersList.AddRange(this.Chapters.Where(x => x.Songs.Count > 1));
+            newChaptersList.AddRange(this.Chapters.Where(x => x.Songs.Count > sizeToConsolidate));
             var othersChapter = new Chapter(null)
             {
                 ChapterName = "Pozostałe",
@@ -106,7 +106,7 @@ namespace SonglistGenerator
                 FolderName = string.Empty,
             };
             var songsToOthersChapter = new List<Song>();
-            var singleSongs = this.Chapters.Where(x => x.Songs.Count == 1).Select(x => x.Songs.Single()).OrderBy(x=>x.Title);
+            var singleSongs = this.Chapters.Where(x => x.Songs.Count <= sizeToConsolidate).Select(x => x.Songs.Single()).OrderBy(x=>x.Title);
             othersChapter.Songs.AddRange(singleSongs);
             newChaptersList.Add(othersChapter);
             this.Chapters = newChaptersList;
