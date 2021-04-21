@@ -85,7 +85,7 @@ namespace SonglistGenerator
 
         public void ReplaceMainMasters(string folderToUpdate)
         {
-            var fileCreator = new OutputFileCreator(folderToUpdate);
+            var fileCreator = new FilesUpdater(folderToUpdate);
             fileCreator.ReplaceMainFile(this.NewMainFile());
             foreach (var chapter in this.Chapters)
             {
@@ -93,21 +93,30 @@ namespace SonglistGenerator
             }
         }
 
-        public void ConsolidateChapters(int sizeToConsolidate)
+        public void ConsolidateChapters(int minimumAllowedChapterSize)
         {
-            var newChaptersList = new List<Chapter>();
-            newChaptersList.AddRange(this.Chapters.Where(x => x.Songs.Count > sizeToConsolidate));
-            var othersChapter = new Chapter(null)
+            var songsToOthersChapter = this.Chapters.Where(x => x.Songs.Count < minimumAllowedChapterSize).SelectMany(x => x.Songs).OrderBy(x=>x.Title);
+            if (songsToOthersChapter.Any())
             {
-                ChapterName = "Pozostałe",
-                UseArtists = true,
-                FolderName = string.Empty,
-            };
-            var songsToOthersChapter = new List<Song>();
-            var singleSongs = this.Chapters.Where(x => x.Songs.Count <= sizeToConsolidate).Select(x => x.Songs.Single()).OrderBy(x=>x.Title);
-            othersChapter.Songs.AddRange(singleSongs);
-            newChaptersList.Add(othersChapter);
-            this.Chapters = newChaptersList;
+                var newChaptersList = new List<Chapter>();
+                newChaptersList.AddRange(this.Chapters.Where(x => x.Songs.Count >= minimumAllowedChapterSize));
+                var othersChapter = new Chapter(null)
+                {
+                    ChapterName = "Pozostałe",
+                    UseArtists = true,
+                    FolderName = string.Empty,
+                };
+                othersChapter.Songs.AddRange(songsToOthersChapter);
+                newChaptersList.Add(othersChapter);
+                this.Chapters = newChaptersList;
+
+
+                this.logger.WriteLine($"ConsolidateChapters: added {othersChapter.Songs.Count} songs to consolidated chapter.");
+            }
+            else
+            {
+                this.logger.WriteLine($"ConsolidateChapters: there are no chapters with less than {minimumAllowedChapterSize} songs.");
+            }
         }
 
         public void WrapCarets()

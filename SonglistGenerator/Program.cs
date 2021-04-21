@@ -15,11 +15,12 @@ namespace SonglistGenerator
             var songlist = new Songlist(logger);
             logger.WriteLine("Hello World!");
 
-            if (args.Length != 2)
+            if (args.Length != 3)
             {
-                logger.WriteLine("Program should be executed with two arguments: " +
+                logger.WriteLine("Program should be executed with three arguments: " +
                     "input folder with song repository (containing subfolders with artists), " +
-                    "and output folder where generated songbook would be saved.");                
+                    "output folder where generated songbook would be saved," +
+                    "and minimum allowed chapter size (smaller chapters would be consolidated).");                
                 return;
             }
 
@@ -29,6 +30,9 @@ namespace SonglistGenerator
             var outputPath = args[1];
             logger.WriteLine($"Folder with full songbook (including new main and master files) would be saved at {outputPath}");
 
+            var minimumAllowedChapterSize = int.Parse(args[2]);
+            logger.WriteLine($"Minimum allowed chapter size: {minimumAllowedChapterSize}. Smaller chapters would be consolidated into one.");
+
             Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(outputPath));
 
             var folders = Directory.GetDirectories(outputPath);
@@ -36,6 +40,7 @@ namespace SonglistGenerator
             songlist.CreateListOfSongs();
             songlist.Initialize();
             songlist.WrapCarets();
+            songlist.ConsolidateChapters(minimumAllowedChapterSize);
             songlist.ReplaceMainMasters(outputPath);
         }
     }

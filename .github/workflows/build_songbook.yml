@@ -27,7 +27,7 @@ jobs:
       run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj --configuration Release --no-restore
       
     - name: Run SonglistGenerator
-      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main "$GITHUB_WORKSPACE/Songbook v2.0 r${{github.run_number}}"
+      run: dotnet $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main "$GITHUB_WORKSPACE/Songbook v2.0 r${{github.run_number}}" 1
     
     - name: Upload SonglistGenerator.dll
       uses: actions/upload-artifact@v1.0.0
