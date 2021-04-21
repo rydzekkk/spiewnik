@@ -40,6 +40,7 @@ jobs:
       with:
         root_file: "Spiewnik_chwyty.tex"
         working_directory: "Songbook v2.0 r${{github.run_number}}"
+        args: -pdf -file-line-error -interaction=nonstopmode
 
     - name: Upload zip file with new main and master files
       uses: actions/upload-artifact@v2
