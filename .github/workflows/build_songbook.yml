@@ -39,6 +39,7 @@ jobs:
       uses: xu-cheng/latex-action@v2
       with:
         root_file: "Songbook v2.0 r${{github.run_number}}/Spiewnik_chwyty.tex"
+        latexmk_shell_escape: true
 
     - name: Upload zip file with new main and master files
       uses: actions/upload-artifact@v2
