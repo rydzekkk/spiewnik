@@ -1,4 +1,4 @@
-name: .NET Core
+name: Build Songbook
 
 on:
   push:
@@ -27,21 +27,17 @@ jobs:
       run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj --configuration Release --no-restore
       
     - name: Run SonglistGenerator
-      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/Songbook.zip
+      run: dotnet  $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main $GITHUB_WORKSPACE/Songbook v2.0 r${{github.run_number}}
     
     - name: Upload SonglistGenerator.dll
       uses: actions/upload-artifact@v1.0.0
       with:
-      # Artifact name
         name: SonglistGenerator DLL r${{github.run_number}}
-      # Directory containing files to upload
         path: SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll
         
     - name: Upload zip file with new main and master files
-      uses: actions/upload-artifact@v1.0.0
+      uses: actions/upload-artifact@v2
       with:
-      # Artifact name
         name: Songbook v2.0 r${{github.run_number}}
-      # Directory containing files to upload
-        path: Songbook.zip
+        path: Songbook v2.0 r${{github.run_number}}
       

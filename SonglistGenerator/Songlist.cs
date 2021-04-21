@@ -71,7 +71,7 @@ namespace SonglistGenerator
             }
         }
 
-        public string NewMainFile()
+        private string NewMainFile()
         {
             var listOfChapters = new List<string>();
             foreach (var chapter in this.Chapters)
@@ -83,16 +83,14 @@ namespace SonglistGenerator
             return string.Join(Environment.NewLine, listOfChapters);
         }
 
-        public void CreateOutputFile(string songRepositoryFolder, string outputPath)
+        public void ReplaceMainMasters(string folderToUpdate)
         {
-            var fileCreator = new OutputFileCreator(songRepositoryFolder);
+            var fileCreator = new OutputFileCreator(folderToUpdate);
             fileCreator.ReplaceMainFile(this.NewMainFile());
             foreach (var chapter in this.Chapters)
             {
                 fileCreator.ReplaceMasterFile(chapter.FolderName, chapter.NewMasterFile());
             }
-
-            fileCreator.SaveZipArchive(outputPath);
         }
 
         public void ConsolidateChapters(int sizeToConsolidate)
