@@ -35,6 +35,11 @@ jobs:
         name: SonglistGenerator DLL r${{github.run_number}}
         path: SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll
         
+    - name: Github Action for LaTeX
+      uses: xu-cheng/latex-action@v2
+      with:
+        root_file: "Songbook v2.0 r${{github.run_number}}/Spiewnik_chwyty.tex"
+
     - name: Upload zip file with new main and master files
       uses: actions/upload-artifact@v2
       with:
