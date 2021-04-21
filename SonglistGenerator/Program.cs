@@ -19,7 +19,7 @@ namespace SonglistGenerator
             {
                 logger.WriteLine("Program should be executed with two arguments: " +
                     "input folder with song repository (containing subfolders with artists), " +
-                    "and output folder where generated songbook would be saved.");
+                    "and output folder where generated songbook would be saved.");                
                 return;
             }
 
