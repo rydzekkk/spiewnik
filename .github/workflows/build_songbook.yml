@@ -46,7 +46,7 @@ jobs:
       with:
         root_file: "Spiewnik_chwyty.tex"
         working_directory: "Songbook v2.0 r${{github.run_number}}"
-        args: -pdf -xelatex -interaction=nonstopmode
+        args: -pdf -interaction=nonstopmode
         
     - name: Compile songbook (second run, TOC included)
       uses: xu-cheng/latex-action@v2
@@ -54,7 +54,7 @@ jobs:
       with:
         root_file: "Spiewnik_chwyty.tex"
         working_directory: "Songbook v2.0 r${{github.run_number}}"
-        args: -pdf -xelatex -interaction=nonstopmode
+        args: -pdf -interaction=nonstopmode
         
     - name: Upload generated PDF
       uses: actions/upload-artifact@v2
