@@ -13,14 +13,14 @@ namespace SonglistGeneratorTests
             yield return new object[] { "03 uppercase many chars - with braces", manyCharsWithBracesInput, manyCharsWithBracesExpected };
             yield return new object[] { "04 uppercase mixed case", mixedCaseInput, mixedCaseExpected };
             yield return new object[] { "05 song text case", songTextCaseInput, songTextCaseExpected };
-            //yield return new object[] { "06 first lowercase second uppercase", lowerUpperCaseInput, lowerUpperCaseExpected };
-            //yield return new object[] { "07 first uppercase second lowercase", upperLowerCaseInput, upperLowerCaseExpected };
-            //yield return new object[] { "08 lowercase with multiple chars", lowercaseMultipleInput, lowercaseMultipleExpected };
-            //yield return new object[] { "09 uppercase with multiple chars", uppercaseMultipleInput, uppercaseMultipleExpected };
-            //yield return new object[] { "10 first lowercase second uppercase with single chars braces", lowerUpperCaseBracesInput, lowerUpperCaseBracesExpected };
-            //yield return new object[] { "11 first lowercase second uppercase with multiple chars braces", lowerUpperCaseMultipleBracesInput, lowerUpperCaseMultipleBracesExpected };
-            //yield return new object[] { "12 no space between chords", noSpaceBetweenChordsInput, noSpaceBetweenChordsExpected };
-            //yield return new object[] { "13 multiple weird input", multipleWeirdInput, multipleWeirdExpected };
+            yield return new object[] { "06 first lowercase second uppercase", lowerUpperCaseInput, lowerUpperCaseExpected };
+            yield return new object[] { "07 first uppercase second lowercase", upperLowerCaseInput, upperLowerCaseExpected };
+            yield return new object[] { "08 lowercase with multiple chars", lowercaseMultipleInput, lowercaseMultipleExpected };
+            yield return new object[] { "09 uppercase with multiple chars", uppercaseMultipleInput, uppercaseMultipleExpected };
+            yield return new object[] { "10 first lowercase second uppercase with single chars braces", lowerUpperCaseBracesInput, lowerUpperCaseBracesExpected };
+            yield return new object[] { "11 first lowercase second uppercase with multiple chars braces", lowerUpperCaseMultipleBracesInput, lowerUpperCaseMultipleBracesExpected };
+            yield return new object[] { "12 no space between chords", noSpaceBetweenChordsInput, noSpaceBetweenChordsExpected };
+            yield return new object[] { "13 multiple weird input", multipleWeirdInput, multipleWeirdExpected };
             yield return new object[] { "14 random song", randomSongInput, randomSongExpected };
         }
 
