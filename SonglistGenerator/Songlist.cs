@@ -31,7 +31,7 @@ namespace SonglistGenerator
                 chapters.Add(chapter);
             }
 
-            this.Chapters = chapters.OrderBy(x => x.ChapterName);
+            this.Chapters = chapters.OrderBy(x => x.ChapterName, StringComparerProvider.PolishComparer);
             logger.WriteLine($"Found {chapters.Count} chapters.");
         }
 
@@ -95,7 +95,7 @@ namespace SonglistGenerator
 
         public void ConsolidateChapters(int minimumAllowedChapterSize)
         {
-            var songsToOthersChapter = this.Chapters.Where(x => x.Songs.Count < minimumAllowedChapterSize).SelectMany(x => x.Songs).OrderBy(x=>x.Title);
+            var songsToOthersChapter = this.Chapters.Where(x => x.Songs.Count < minimumAllowedChapterSize).SelectMany(x => x.Songs).OrderBy(x=>x.Title, StringComparerProvider.PolishComparer);
             if (songsToOthersChapter.Any())
             {
                 var newChaptersList = new List<Chapter>();
