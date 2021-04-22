@@ -2,11 +2,11 @@
 
 namespace SonglistGenerator
 {
-    class OutputFileCreator
+    class FilesUpdater
     {
         private string songRepositoryFolder;
 
-        public OutputFileCreator(string songRepositoryFolder)
+        public FilesUpdater(string songRepositoryFolder)
         {
             this.songRepositoryFolder = songRepositoryFolder;
         }
