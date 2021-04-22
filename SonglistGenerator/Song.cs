@@ -74,5 +74,10 @@ namespace SonglistGenerator
         //List<string> Text { get; }
 
         //List<string> Chords { get; }
+
+        public override string ToString()
+        {
+            return $"{this.Artist} - {this.Title}";
+        }
     }
 }

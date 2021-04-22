@@ -73,8 +73,8 @@ namespace SongChooser
             {
                 chapter.Songs.RemoveAll(x => this.displayedSongs.Exists(y => !y.Print && y.Path == x.FilePath));
             }
-            songlist.ConsolidateChapters();
-            songlist.CreateOutputFile(folderPath.Text, Path.Combine(folderPath.Text, "output.zip"));
+            songlist.ConsolidateChapters((int)minimumAllowedChapterSize.Value);
+            songlist.ReplaceMainMasters(folderPath.Text);
         }
     }
 }

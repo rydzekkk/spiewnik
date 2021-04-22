@@ -65,5 +65,10 @@ namespace SonglistGenerator
 
             return string.Join(Environment.NewLine, fileContent);
         }
+
+        public override string ToString()
+        {
+            return $"{this.ChapterName} ({this.Songs.Count} songs)";
+        }
     }
 }

@@ -15,22 +15,33 @@ namespace SonglistGenerator
             var songlist = new Songlist(logger);
             logger.WriteLine("Hello World!");
 
+            if (args.Length != 3)
+            {
+                logger.WriteLine("Program should be executed with three arguments: " +
+                    "input folder with song repository (containing subfolders with artists), " +
+                    "output folder where generated songbook would be saved," +
+                    "and minimum allowed chapter size (smaller chapters would be consolidated).");                
+                return;
+            }
+
             var songRepositoryFolder = args[0];
             logger.WriteLine($"Program will generate list of songs from {songRepositoryFolder}");
 
             var outputPath = args[1];
-            logger.WriteLine($"Zip file with full songbook including new main and master files would be saved at {outputPath}");
+            logger.WriteLine($"Folder with full songbook (including new main and master files) would be saved at {outputPath}");
 
-            var workingCopyOfSongRepository = Path.Combine(Path.GetDirectoryName(outputPath), "!workingSongRepo");
-            logger.WriteLine($"Program will use copy located in {workingCopyOfSongRepository}");
-            Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(workingCopyOfSongRepository));
+            var minimumAllowedChapterSize = int.Parse(args[2]);
+            logger.WriteLine($"Minimum allowed chapter size: {minimumAllowedChapterSize}. Smaller chapters would be consolidated into one.");
 
-            var folders = Directory.GetDirectories(workingCopyOfSongRepository);
+            Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(outputPath));
+
+            var folders = Directory.GetDirectories(outputPath);
             songlist.CreateListOfChapters(folders);
             songlist.CreateListOfSongs();
             songlist.Initialize();
             songlist.WrapCarets();
-            songlist.CreateOutputFile(workingCopyOfSongRepository, outputPath);
+            songlist.ConsolidateChapters(minimumAllowedChapterSize);
+            songlist.ReplaceMainMasters(outputPath);
         }
     }
 }
