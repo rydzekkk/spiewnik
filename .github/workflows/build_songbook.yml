@@ -50,29 +50,26 @@ jobs:
         name: Songbook v2.0 r${{github.run_number}}_source
         path: Songbook v2.0 r${{github.run_number}}
       
-    - name: Compile songbook (first run, no TOC)
+    - name: Compile songbook #(first run, no TOC)
       uses: xu-cheng/latex-action@v2
       with:
         root_file: "Spiewnik_chwyty.tex"
         working_directory: "Songbook v2.0 r${{github.run_number}}"
         
-    - name: Compile songbook (second run, TOC included)
-      uses: xu-cheng/latex-action@v2
-      if: always()
-      with:
-        root_file: "Spiewnik_chwyty.tex"
-        working_directory: "Songbook v2.0 r${{github.run_number}}"
+#    - name: Compile songbook (second run, TOC included)
+#      uses: xu-cheng/latex-action@v2
+#      with:
+#        root_file: "Spiewnik_chwyty.tex"
+#        working_directory: "Songbook v2.0 r${{github.run_number}}"
         
     - name: Upload generated PDF
       uses: actions/upload-artifact@v2
-      if: always()
       with:
         name: Songbook v2.0 r${{github.run_number}}_pdf
         path: Songbook v2.0 r${{github.run_number}}/Spiewnik_chwyty.pdf
         
     - name: Upload generated PDF (output log)
       uses: actions/upload-artifact@v2
-      if: always()
       with:
         name: Songbook v2.0 r${{github.run_number}}_pdf
         path: Songbook v2.0 r${{github.run_number}}/Spiewnik_chwyty.log
