@@ -52,7 +52,7 @@ namespace SonglistGenerator
                 fileContent.Add("\\Zespoltrue");
             }
 
-            var orderedSongs = Songs.OrderBy(x => x.Title);
+            var orderedSongs = Songs.OrderBy(x => x.Title, StringComparerProvider.PolishComparer);
             foreach (var song in orderedSongs)
             {
                 fileContent.Add($"\\input{{{song.ContainingFolder}/{song.FileName}}}");
