@@ -21,10 +21,22 @@ namespace SonglistGenerator
 
             foreach (var caret in caretIndexes)
             {
-                var endOfBracedSection = new[] { textToWrap.IndexOf(' ', caret), textToWrap.IndexOf('\\', caret)}.Where(x => x >= 0).Min();
+                var endOfBracedSection = new[] 
+                { 
+                    textToWrap.IndexOf(' ', caret),
+                    textToWrap.IndexOf('\\', caret),
+                    textToWrap.IndexOf('\n', caret),
+                    textToWrap.IndexOf(')', caret),
+                }.Where(x => x >= 0).Min();
+
                 textToWrap = textToWrap.Insert(endOfBracedSection, endWrap);
 
-                var startOfBracedSection = textToWrap.LastIndexOf(' ', caret);
+                var startOfBracedSection = new[]
+                {
+                    textToWrap.LastIndexOf(' ', caret),
+                    textToWrap.LastIndexOf('(', caret),
+                }.Where(x => x >= 0).Max();
+
                 textToWrap = textToWrap.Insert(startOfBracedSection + 1, startWrap);
             }
 
