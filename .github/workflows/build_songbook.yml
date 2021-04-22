@@ -19,18 +19,27 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
+          
+    - name: Install tests dependencies
+      run: dotnet restore $GITHUB_WORKSPACE/SonglistGeneratorTests/SonglistGeneratorTests.csproj
     
-    - name: Install dependencies
+    - name: Build tests
+      run: dotnet build $GITHUB_WORKSPACE/SonglistGeneratorTests/SonglistGeneratorTests.csproj --configuration Release --no-restore
+      
+    - name: Run tests
+      run: dotnet test $GITHUB_WORKSPACE/SonglistGeneratorTests/SonglistGeneratorTests.csproj --no-restore --verbosity normal
+      
+    - name: Install SonglistGenerator dependencies
       run: dotnet restore $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj
     
-    - name: Build
+    - name: Build SonglistGenerator
       run: dotnet build $GITHUB_WORKSPACE/SonglistGenerator/SonglistGenerator.csproj --configuration Release --no-restore
       
     - name: Run SonglistGenerator
       run: dotnet $GITHUB_WORKSPACE/SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll $GITHUB_WORKSPACE/main "$GITHUB_WORKSPACE/Songbook v2.0 r${{github.run_number}}" 1
     
     - name: Upload SonglistGenerator.dll
-      uses: actions/upload-artifact@v1.0.0
+      uses: actions/upload-artifact@v2
       with:
         name: SonglistGenerator DLL r${{github.run_number}}
         path: SonglistGenerator/bin/Release/net5.0/SonglistGenerator.dll
