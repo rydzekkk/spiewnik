@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace SonglistGenerator
 {
@@ -20,17 +21,11 @@ namespace SonglistGenerator
 
             foreach (var caret in caretIndexes)
             {
-                if (textToWrap[caret + 1] == '{')
-                {
-                    var endOfBracedSection = textToWrap.IndexOf('}', caret);
-                    textToWrap = textToWrap.Insert(endOfBracedSection + 1, endWrap);
-                    textToWrap = textToWrap.Insert(caret - 1, startWrap);
-                }
-                else
-                {
-                    textToWrap = textToWrap.Insert(caret + 2, endWrap);
-                    textToWrap = textToWrap.Insert(caret - 1, startWrap);
-                }
+                var endOfBracedSection = new[] { textToWrap.IndexOf(' ', caret), textToWrap.IndexOf('\\', caret)}.Where(x => x >= 0).Min();
+                textToWrap = textToWrap.Insert(endOfBracedSection, endWrap);
+
+                var startOfBracedSection = textToWrap.LastIndexOf(' ', caret);
+                textToWrap = textToWrap.Insert(startOfBracedSection + 1, startWrap);
             }
 
             return textToWrap;
