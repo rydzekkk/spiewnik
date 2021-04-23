@@ -10,7 +10,7 @@ namespace SongChooser
     /// </summary>
     public partial class MainWindow : Window
     {
-        private Logger logger;
+        private ConsoleLogger logger;
         private Songlist songlist;
         private List<DisplaySong> displayedSongs;
 
@@ -21,9 +21,8 @@ namespace SongChooser
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            this.logger = new Logger();
+            this.logger = new ConsoleLogger();
             this.songlist = new Songlist(logger);
-            this.displayedSongs = new List<DisplaySong>();
         }
 
         private void LoadFolder(object sender, RoutedEventArgs e)

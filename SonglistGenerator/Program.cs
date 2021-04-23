@@ -11,7 +11,7 @@ namespace SonglistGenerator
 
         static void Main(string[] args)
         {            
-            var logger = new Logger();
+            var logger = new ConsoleLogger();
             var songlist = new Songlist(logger);
             logger.WriteLine("Hello World!");
 
