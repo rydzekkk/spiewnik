@@ -12,7 +12,6 @@ namespace SonglistGenerator
         static void Main(string[] args)
         {            
             var logger = new ConsoleLogger();
-            var songlist = new Songlist(logger);
             logger.WriteLine("Hello World!");
 
             if (args.Length != 3)
@@ -35,13 +34,9 @@ namespace SonglistGenerator
 
             Utilities.CopyAll(new DirectoryInfo(songRepositoryFolder), new DirectoryInfo(outputPath));
 
-            var folders = Directory.GetDirectories(outputPath);
-            songlist.CreateListOfChapters(folders);
-            songlist.CreateListOfSongs();
-            songlist.Initialize();
-            songlist.WrapCarets();
-            songlist.ConsolidateChapters(minimumAllowedChapterSize);
-            songlist.ReplaceMainMasters(outputPath);
+            var generator = new Generator(logger, outputPath) { MinimumAllowedChapterSize = minimumAllowedChapterSize };
+            generator.Initialize();
+            generator.Generate();
         }
     }
 }
