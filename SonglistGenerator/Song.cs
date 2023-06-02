@@ -1,4 +1,6 @@
-﻿using System.IO;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -9,7 +11,7 @@ namespace SonglistGenerator
     /// </summary>
     public class Song : IDiskLocationRepresentation
     {
-        string[] songFileContent;
+        List<string> songFileContent;
 
         public Song(string filePath)
         {
@@ -18,11 +20,11 @@ namespace SonglistGenerator
 
         public void Initialize()
         {
-            this.songFileContent = File.ReadAllLines(this.FilePath);
+            this.songFileContent = File.ReadAllLines(this.FilePath).ToList();
 
             var titleLine = this.songFileContent.Single(x => x.StartsWith("\\tytul"));
 
-            if (titleLine.Count(x => (x == '{')) != 3)
+            if (!titleLine.ContainsThreeOpeningCurlyBraces())
             {
                 // Title section is split into separate lines
                 var mergedContent = string.Join("", this.songFileContent);
@@ -36,6 +38,23 @@ namespace SonglistGenerator
             this.Title = splitTitleLine[0].Value;
             this.Author = splitTitleLine[1].Value;
             this.Artist = splitTitleLine[2].Value;
+
+            var textStart = this.songFileContent.FindIndex(x => x.StartsWith("\\begin{text")) + 1;
+            var textEnd = this.songFileContent.FindIndex(x => x.StartsWith("\\end{text"));
+
+            var chordsStart = this.songFileContent.FindIndex(x => x.StartsWith("\\begin{chord")) + 1;
+            var chordsEnd = this.songFileContent.FindIndex(x => x.StartsWith("\\end{chord"));
+
+            this.Text = this.songFileContent.Take(new Range(new Index(textStart), new Index(textEnd))).ToList();
+
+            if (chordsStart == 0 && chordsEnd == -1)
+            {
+                this.Chords = new List<string> { "BRAK CHWYTÓW" };
+            }
+            else
+            {
+                this.Chords = this.songFileContent.Take(new Range(new Index(chordsStart), new Index(chordsEnd))).ToList();
+            }
         }
 
         public string FilePath { get; private set; }
@@ -71,9 +90,9 @@ namespace SonglistGenerator
         /// </summary>
         //string FirstLineOfChorus { get; }
 
-        //List<string> Text { get; }
+        public List<string> Text { get; private set; }
 
-        //List<string> Chords { get; }
+        public List<string> Chords { get; private set; }
 
         public override string ToString()
         {
