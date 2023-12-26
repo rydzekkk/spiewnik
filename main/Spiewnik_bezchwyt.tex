@@ -1,0 +1,23 @@
+%%
+%% Author: bartek.rydz
+%% 24.02.2019
+%%
+% Preamble
+\documentclass[8pt,twocolumn,openany]{extbook}
+
+% Package
+\usepackage{bezchwyt}
+
+% Document
+\begin{document}
+    \input{titlepage}
+    \onecolumn
+    \begin{multicols*}{2}
+        \tableofcontents
+    \end{multicols*}
+    \twocolumn
+    \thispagestyle{empty}
+    \cleardoublepage
+    \input{main.tex}
+    \input{ToC_ABC_chwyty_twocol.tex}
+\end{document}

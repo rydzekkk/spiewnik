@@ -92,7 +92,7 @@
 \NewEnviron{footTwo}{%
     \ifOneCol\BODY\else\footnotesize{\BODY}\fi%
 }
-\newcommand{\OneColVin}{\ifOneCol\vin \else\fi}
+\renewcommand{\OneColVin}{\ifOneCol\vin \else\fi}
 %
 \NewEnviron{smallTwelve}{%
 \ifFontTwelve\small{\BODY}\else\BODY\fi%
